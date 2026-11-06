@@ -3,7 +3,7 @@
 > Working name; rename freely. An Islamic, English-language take on Karpathy's HackerTube.
 > A static, searchable library of videos pulled from a **hand-picked allowlist of YouTube channels**,
 > organised by topic, speaker, series and surah. Audience: family and fellow Muslims.
-> Built by Haroon, with his AI agent (Claude Sonnet). Agent: follow the milestones in order and don't skip the acceptance checks.
+> Built by Haroon, with Claude. Agent: follow the milestones in order and don't skip the acceptance checks.
 
 ---
 
