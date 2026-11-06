@@ -1,0 +1,14 @@
+- handle: "@muftimenkofficial"
+  kind: lectures
+  single_speaker: Mufti Ismail Menk
+  status: active
+- handle: "@AMAUofficial"
+  kind: lectures
+  status: active
+- id: UC3vHW2h22WE-pNi5WJtRIjg      # Yaqeen Institute (many speakers)
+  kind: lectures
+  status: active
+- id: UCtm8rtofLSnaIBi3noB0INg      # Omar Suleiman Personal
+  kind: lectures
+  single_speaker: Omar Suleiman
+  status: active

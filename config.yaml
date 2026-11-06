@@ -1,0 +1,2 @@
+max_videos_per_channel: 500   # TEST MODE: only the 500 most recent uploads per channel. Set to null for a full backfill.
+include_shorts: false

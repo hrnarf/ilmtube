@@ -1,0 +1,13 @@
+# Fixed two-level topic tree (SPEC §4). Slugs are "parent.child". The tagger may only use these.
+quran: [recitation, tafsir, tajweed, hifz, quran-stories]
+aqeedah: [tawheed, names-of-allah, the-unseen, qadr, death-and-grave, day-of-judgement, jannah, jahannam, signs-of-the-hour]
+seerah-history: [prophet-muhammad, prophets, sahabah, women-of-islam, islamic-history]
+hadith: [explanations, hadith-sciences]
+fiqh: [purification, salah, fasting, zakat-charity, hajj-umrah, halal-haram, finance-business, marriage-divorce, inheritance, funerals]
+spirituality: [dua-dhikr, heart, patience-gratitude, repentance, tawakkul, sincerity, overcoming-sins]
+character-family: [akhlaq, marriage-relationships, parenting, parents-rights, women, youth, brotherhood-community]
+wellbeing: [grief-loss, anxiety-stress, hope, hardship-trials]
+contemporary: [social-media, work-career, muslims-in-the-west, current-affairs, science-and-islam]
+dawah: [reverts, christianity, atheism, debates]
+seasons: [ramadan, laylat-al-qadr, eid, dhul-hijjah, muharram-ashura, jumuah]
+arabic: [language-learning]
