@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "podcast",
+ "fingerprint": "e90d23a10ece",
+ "id": "nnz7hIVdxtc",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ebro Ahmed",
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.muslims-in-the-west",
+  "contemporary.current-affairs"
+ ]
+}

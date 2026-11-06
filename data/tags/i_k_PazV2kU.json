@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.45,
+ "content_type": "reminder",
+ "fingerprint": "0c366b992252",
+ "id": "i_k_PazV2kU",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.day-of-judgement",
+  "aqeedah.jannah"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.55,
+ "content_type": "reminder",
+ "fingerprint": "0e7996b4f197",
+ "id": "GgVcLktjfbk",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "wellbeing.hardship-trials"
+ ]
+}

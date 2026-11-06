@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.55,
+ "content_type": "reminder",
+ "fingerprint": "06e611446bf4",
+ "id": "DSJXBf_pW7k",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.dua-dhikr"
+ ]
+}

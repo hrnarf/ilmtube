@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "parents"
+ ],
+ "confidence": 0.7,
+ "content_type": "reminder",
+ "fingerprint": "e2f1b1142db5",
+ "id": "MJELQW7Yc-Y",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "seerah-history.prophets",
+  "character-family.parenting",
+  "spirituality.dua-dhikr"
+ ]
+}

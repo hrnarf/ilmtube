@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.4,
+ "content_type": "reminder",
+ "fingerprint": "fafb415753bf",
+ "id": "xFn9fZf3Gck",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.heart",
+  "aqeedah.death-and-grave"
+ ]
+}

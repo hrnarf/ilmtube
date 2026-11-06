@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.4,
+ "content_type": "documentary",
+ "fingerprint": "20976a1d01f3",
+ "id": "8gA3Ksx4KMA",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "seerah-history.islamic-history"
+ ]
+}

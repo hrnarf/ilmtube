@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "reminder",
+ "fingerprint": "b263cb508e30",
+ "id": "_4n6iauWXIU",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.names-of-allah"
+ ]
+}

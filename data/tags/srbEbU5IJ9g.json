@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "reminder",
+ "fingerprint": "faaf64c03b86",
+ "id": "srbEbU5IJ9g",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman",
+  "Sh. Ali Hammuda"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.sincerity",
+  "spirituality.tawakkul"
+ ]
+}

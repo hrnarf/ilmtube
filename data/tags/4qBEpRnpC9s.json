@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "reminder",
+ "fingerprint": "9ddb940f5a5c",
+ "id": "4qBEpRnpC9s",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.akhlaq",
+  "character-family.brotherhood-community"
+ ]
+}

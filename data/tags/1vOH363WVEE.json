@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "reminder",
+ "fingerprint": "26bba7297b87",
+ "id": "1vOH363WVEE",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.signs-of-the-hour",
+  "contemporary.science-and-islam"
+ ]
+}

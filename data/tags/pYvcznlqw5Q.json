@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "reminder",
+ "fingerprint": "8a235cfc92d1",
+ "id": "pYvcznlqw5Q",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.sahabah",
+  "seerah-history.prophet-muhammad"
+ ]
+}

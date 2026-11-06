@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "other",
+ "fingerprint": "1789c9615829",
+ "id": "ycp8zFwTGsk",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "fiqh.finance-business"
+ ]
+}

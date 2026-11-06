@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.65,
+ "content_type": "qa",
+ "fingerprint": "6bcb18bbfca9",
+ "id": "YPeQ4HztkHU",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.halal-haram"
+ ]
+}

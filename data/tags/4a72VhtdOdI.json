@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "other",
+ "fingerprint": "606b72e2f2e4",
+ "id": "4a72VhtdOdI",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.current-affairs"
+ ]
+}

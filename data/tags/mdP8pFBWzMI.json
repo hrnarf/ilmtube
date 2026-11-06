@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.55,
+ "content_type": "reminder",
+ "fingerprint": "d38cb0670285",
+ "id": "mdP8pFBWzMI",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.jannah",
+  "wellbeing.hope"
+ ]
+}

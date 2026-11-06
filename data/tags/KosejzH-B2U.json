@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "other",
+ "fingerprint": "bf20047d5999",
+ "id": "KosejzH-B2U",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "quran.hifz"
+ ]
+}

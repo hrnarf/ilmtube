@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.25,
+ "content_type": "reminder",
+ "fingerprint": "9a75aad5040b",
+ "id": "0LmECCK41IQ",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "spirituality.dua-dhikr"
+ ]
+}

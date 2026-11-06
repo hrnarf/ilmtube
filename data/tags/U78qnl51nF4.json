@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "khutbah",
+ "fingerprint": "573b62f253de",
+ "id": "U78qnl51nF4",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Mohammad Elshinawy"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.women-of-islam",
+  "aqeedah.jannah"
+ ]
+}

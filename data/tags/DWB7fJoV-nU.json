@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "other",
+ "fingerprint": "e809131f5ae3",
+ "id": "DWB7fJoV-nU",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Netanyahu"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.current-affairs"
+ ]
+}

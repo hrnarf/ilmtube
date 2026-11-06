@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "qa",
+ "fingerprint": "52313585647b",
+ "id": "J7sMpJTkb4o",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.laylat-al-qadr"
+ ]
+}

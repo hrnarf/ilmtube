@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.65,
+ "content_type": "reminder",
+ "fingerprint": "4c6c7431033b",
+ "id": "p-y8Ib4S8uc",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Justin Wood"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.current-affairs",
+  "arabic.language-learning"
+ ]
+}

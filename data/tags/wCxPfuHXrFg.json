@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "reminder",
+ "fingerprint": "bcae48b516d0",
+ "id": "wCxPfuHXrFg",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "seasons.laylat-al-qadr"
+ ]
+}

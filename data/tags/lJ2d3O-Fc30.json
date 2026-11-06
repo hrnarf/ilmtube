@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "youth"
+ ],
+ "confidence": 0.8,
+ "content_type": "reminder",
+ "fingerprint": "ff141e1e6695",
+ "id": "lJ2d3O-Fc30",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.marriage-relationships"
+ ]
+}

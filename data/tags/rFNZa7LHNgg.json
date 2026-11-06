@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.4,
+ "content_type": "reminder",
+ "fingerprint": "d1f6a0240d47",
+ "id": "rFNZa7LHNgg",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.death-and-grave"
+ ]
+}

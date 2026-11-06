@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.1,
+ "content_type": "reminder",
+ "fingerprint": "cf4160af0180",
+ "id": "Ajp-jcg_csg",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "spirituality.heart"
+ ]
+}

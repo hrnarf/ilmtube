@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "reminder",
+ "fingerprint": "a89001c4c15f",
+ "id": "_b9OCASYWno",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.jumuah",
+  "fiqh.salah"
+ ]
+}

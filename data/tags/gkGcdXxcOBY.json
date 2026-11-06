@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "reminder",
+ "fingerprint": "c90028d05619",
+ "id": "gkGcdXxcOBY",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "spirituality.overcoming-sins",
+  "fiqh.halal-haram"
+ ]
+}

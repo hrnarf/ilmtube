@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "khutbah",
+ "fingerprint": "925237b5715c",
+ "id": "hl2rqlQmBHA",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.akhlaq",
+  "spirituality.overcoming-sins"
+ ]
+}

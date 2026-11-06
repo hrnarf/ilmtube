@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "reminder",
+ "fingerprint": "d6803dc7c646",
+ "id": "1Rh52YMN9F8",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.heart",
+  "spirituality.tawakkul"
+ ]
+}

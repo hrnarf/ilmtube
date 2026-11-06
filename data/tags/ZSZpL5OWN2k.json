@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "reminder",
+ "fingerprint": "787b372135e7",
+ "id": "ZSZpL5OWN2k",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman",
+  "Sh. Ali Hammuda"
+ ],
+ "surahs": [],
+ "topics": [
+  "wellbeing.grief-loss",
+  "aqeedah.jannah"
+ ]
+}

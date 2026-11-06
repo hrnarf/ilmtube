@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "reminder",
+ "fingerprint": "bb7627241738",
+ "id": "ApckDhK083o",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "aqeedah.qadr",
+  "spirituality.tawakkul"
+ ]
+}

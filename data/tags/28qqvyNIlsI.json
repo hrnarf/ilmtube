@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.3,
+ "content_type": "reminder",
+ "fingerprint": "edc3f25fa1f5",
+ "id": "28qqvyNIlsI",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "spirituality.repentance"
+ ]
+}

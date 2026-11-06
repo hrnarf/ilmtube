@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "reminder",
+ "fingerprint": "ef5b43a7b4a5",
+ "id": "IrpQ_NOmr6M",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Ibrahim Hindy"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.sahabah",
+  "character-family.akhlaq"
+ ]
+}

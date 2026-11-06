@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.4,
+ "content_type": "reminder",
+ "fingerprint": "ba8c89294ef8",
+ "id": "95Jo7vK4H4s",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "aqeedah.tawheed"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.4,
+ "content_type": "other",
+ "fingerprint": "dae6cd03b228",
+ "id": "kblUqhoSjIo",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sr. Sarah Sultan"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.heart"
+ ]
+}

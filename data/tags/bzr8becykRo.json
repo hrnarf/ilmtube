@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "reminder",
+ "fingerprint": "760358c9e49c",
+ "id": "bzr8becykRo",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Mohammad Elshinawy"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.social-media",
+  "character-family.brotherhood-community"
+ ]
+}

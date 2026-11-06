@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "reminder",
+ "fingerprint": "86f0cb5666d9",
+ "id": "rAi3fqDI__k",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.akhlaq"
+ ]
+}

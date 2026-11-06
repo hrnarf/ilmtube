@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.55,
+ "content_type": "reminder",
+ "fingerprint": "7ade59678ce9",
+ "id": "cJcBe32Pp9I",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "fiqh.halal-haram",
+  "spirituality.heart"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "reminder",
+ "fingerprint": "e8bb48225437",
+ "id": "EJFOqXHc8k4",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "seasons.jumuah"
+ ]
+}

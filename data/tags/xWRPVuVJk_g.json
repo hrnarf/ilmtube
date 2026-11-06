@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "reminder",
+ "fingerprint": "3c139617f57f",
+ "id": "xWRPVuVJk_g",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "wellbeing.grief-loss",
+  "aqeedah.death-and-grave"
+ ]
+}

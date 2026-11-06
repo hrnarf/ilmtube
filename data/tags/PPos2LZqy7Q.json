@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "brothers"
+ ],
+ "confidence": 0.65,
+ "content_type": "reminder",
+ "fingerprint": "eedc164d3a8c",
+ "id": "PPos2LZqy7Q",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "wellbeing.anxiety-stress",
+  "character-family.brotherhood-community"
+ ]
+}

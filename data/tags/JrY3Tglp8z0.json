@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "reminder",
+ "fingerprint": "a69fed2d043a",
+ "id": "JrY3Tglp8z0",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman",
+  "Sh. Ali Hammuda"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.akhlaq",
+  "aqeedah.death-and-grave"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "lecture",
+ "fingerprint": "6abd3d3c9ede",
+ "id": "Ev4zRlI-cvw",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.sahabah",
+  "fiqh.hajj-umrah"
+ ]
+}

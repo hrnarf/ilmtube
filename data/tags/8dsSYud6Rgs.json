@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "reminder",
+ "fingerprint": "544b35003adb",
+ "id": "8dsSYud6Rgs",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Hassan Elwan"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.sincerity"
+ ]
+}

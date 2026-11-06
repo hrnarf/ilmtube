@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.65,
+ "content_type": "khutbah",
+ "fingerprint": "423e2a030398",
+ "id": "Ji1B8fGYGuc",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.overcoming-sins",
+  "spirituality.heart"
+ ]
+}

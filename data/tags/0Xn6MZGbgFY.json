@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "lecture",
+ "fingerprint": "7e9171c9b8f3",
+ "id": "0Xn6MZGbgFY",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.eid",
+  "seerah-history.prophet-muhammad"
+ ]
+}

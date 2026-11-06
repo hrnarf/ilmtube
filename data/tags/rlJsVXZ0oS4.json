@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.9,
+ "content_type": "other",
+ "fingerprint": "ea2e4f1aaf9a",
+ "id": "rlJsVXZ0oS4",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "character-family.brotherhood-community"
+ ]
+}

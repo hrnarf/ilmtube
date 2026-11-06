@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "podcast",
+ "fingerprint": "1847d029f07e",
+ "id": "zpg3otTXKuM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Imam Tom Facchine"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.current-affairs",
+  "seerah-history.islamic-history"
+ ]
+}

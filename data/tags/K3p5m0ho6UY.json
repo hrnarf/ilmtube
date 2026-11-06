@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "reminder",
+ "fingerprint": "1609b9f59e5b",
+ "id": "K3p5m0ho6UY",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "spirituality.patience-gratitude"
+ ]
+}

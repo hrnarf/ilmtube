@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "khutbah",
+ "fingerprint": "82a0a65006d2",
+ "id": "3-M7XM4GdWc",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.eid",
+  "seasons.ramadan"
+ ]
+}

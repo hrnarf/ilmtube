@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.45,
+ "content_type": "reminder",
+ "fingerprint": "61bdd42d890d",
+ "id": "gpccSQ4F7cg",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.heart",
+  "character-family.akhlaq"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.3,
+ "content_type": "reminder",
+ "fingerprint": "a07952a37a14",
+ "id": "IxpEeCYBCzc",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.sincerity"
+ ]
+}

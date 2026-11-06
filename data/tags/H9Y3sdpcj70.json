@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.4,
+ "content_type": "other",
+ "fingerprint": "00f57dba4452",
+ "id": "H9Y3sdpcj70",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [
+  4
+ ],
+ "topics": [
+  "quran.tafsir"
+ ]
+}

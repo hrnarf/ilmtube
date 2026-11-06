@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "reminder",
+ "fingerprint": "531f14147c89",
+ "id": "xMwihBUKP6g",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "wellbeing.grief-loss",
+  "seerah-history.prophet-muhammad",
+  "spirituality.patience-gratitude"
+ ]
+}

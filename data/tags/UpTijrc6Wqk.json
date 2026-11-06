@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "reminder",
+ "fingerprint": "948144a008db",
+ "id": "UpTijrc6Wqk",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.patience-gratitude",
+  "spirituality.heart"
+ ]
+}

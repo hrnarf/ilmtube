@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.15,
+ "content_type": "reminder",
+ "fingerprint": "dca289c7b1bc",
+ "id": "Flm1sxDwUJM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "contemporary.current-affairs"
+ ]
+}

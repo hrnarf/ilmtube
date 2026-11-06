@@ -1,0 +1,23 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "reminder",
+ "fingerprint": "13bb44389a2c",
+ "id": "c1T0yO1va68",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [
+  94
+ ],
+ "topics": [
+  "wellbeing.hardship-trials",
+  "wellbeing.hope"
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "other",
+ "fingerprint": "790bfd6362e8",
+ "id": "FXJqH9NS0D0",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "fiqh.zakat-charity"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "reminder",
+ "fingerprint": "e06f547150d9",
+ "id": "cpZvRkMEpbE",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "hadith.hadith-sciences",
+  "aqeedah.signs-of-the-hour"
+ ]
+}

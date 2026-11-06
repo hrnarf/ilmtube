@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "brothers"
+ ],
+ "confidence": 0.7,
+ "content_type": "reminder",
+ "fingerprint": "76376897803b",
+ "id": "kOBPQWUcvj8",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Abdullah Oduro"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.akhlaq",
+  "character-family.brotherhood-community"
+ ]
+}

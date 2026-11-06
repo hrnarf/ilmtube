@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.45,
+ "content_type": "reminder",
+ "fingerprint": "b7954e262f11",
+ "id": "cOdi6eg-zuE",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "seerah-history.islamic-history",
+  "character-family.brotherhood-community"
+ ]
+}

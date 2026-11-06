@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.65,
+ "content_type": "documentary",
+ "fingerprint": "080b5063444d",
+ "id": "SeseTqnsRak",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "seerah-history.islamic-history",
+  "contemporary.current-affairs"
+ ]
+}

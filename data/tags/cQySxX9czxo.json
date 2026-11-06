@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "reminder",
+ "fingerprint": "44747fff8bac",
+ "id": "cQySxX9czxo",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Imam Tom Facchine"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.muslims-in-the-west"
+ ]
+}

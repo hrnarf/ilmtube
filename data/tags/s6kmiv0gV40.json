@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "other",
+ "fingerprint": "bfa465dbc800",
+ "id": "s6kmiv0gV40",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "seasons.ramadan",
+  "spirituality.heart"
+ ]
+}

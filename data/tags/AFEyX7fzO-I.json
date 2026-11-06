@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "reminder",
+ "fingerprint": "dbfea48074c7",
+ "id": "AFEyX7fzO-I",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Mohammad Elshinawy"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.finance-business",
+  "character-family.akhlaq"
+ ]
+}

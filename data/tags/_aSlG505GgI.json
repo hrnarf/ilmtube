@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "reminder",
+ "fingerprint": "62c70d0dc20a",
+ "id": "_aSlG505GgI",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Shaykh Bin Baz"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.halal-haram"
+ ]
+}

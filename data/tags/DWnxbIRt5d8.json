@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "reminder",
+ "fingerprint": "06124d700f7c",
+ "id": "DWnxbIRt5d8",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.jannah",
+  "character-family.akhlaq"
+ ]
+}

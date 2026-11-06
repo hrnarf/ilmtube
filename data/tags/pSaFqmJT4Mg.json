@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "reminder",
+ "fingerprint": "9dd69e4b1c0c",
+ "id": "pSaFqmJT4Mg",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "contemporary.current-affairs",
+  "contemporary.muslims-in-the-west"
+ ]
+}

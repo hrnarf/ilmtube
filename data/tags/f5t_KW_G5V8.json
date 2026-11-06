@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "recitation",
+ "fingerprint": "d1ea2608696f",
+ "id": "f5t_KW_G5V8",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": "Sh. Hisham Abu Yusuf",
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [
+  27
+ ],
+ "topics": [
+  "quran.recitation"
+ ]
+}

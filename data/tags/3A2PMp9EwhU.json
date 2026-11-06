@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "other",
+ "fingerprint": "96342d97343a",
+ "id": "3A2PMp9EwhU",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "fiqh.zakat-charity",
+  "seasons.ramadan"
+ ]
+}

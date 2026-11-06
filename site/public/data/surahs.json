@@ -1,0 +1,1718 @@
+[
+ {
+  "ar": "الفاتحة",
+  "count": 23,
+  "en": "Al-Fatihah",
+  "n": 1,
+  "v": [
+   "al fatihah",
+   "alfatihah",
+   "chapter 1",
+   "fateha",
+   "fatiha",
+   "fatihah",
+   "surah 1",
+   "surat 1",
+   "الفاتحة"
+  ]
+ },
+ {
+  "ar": "البقرة",
+  "count": 58,
+  "en": "Al-Baqarah",
+  "n": 2,
+  "v": [
+   "al baqarah",
+   "albaqarah",
+   "baqara",
+   "baqarah",
+   "baqra",
+   "chapter 2",
+   "surah 2",
+   "surat 2",
+   "البقرة"
+  ]
+ },
+ {
+  "ar": "آل عمران",
+  "count": 0,
+  "en": "Aal-E-Imran",
+  "n": 3,
+  "v": [
+   "aal e imran",
+   "aal imran",
+   "aaleimran",
+   "al i imran",
+   "al imran",
+   "ali imran",
+   "chapter 3",
+   "e imran",
+   "eimran",
+   "imran",
+   "surah 3",
+   "surat 3",
+   "آل عمران"
+  ]
+ },
+ {
+  "ar": "النساء",
+  "count": 1,
+  "en": "An-Nisa",
+  "n": 4,
+  "v": [
+   "an nisa",
+   "annisa",
+   "chapter 4",
+   "nisa",
+   "nisaa",
+   "surah 4",
+   "surat 4",
+   "النساء"
+  ]
+ },
+ {
+  "ar": "المائدة",
+  "count": 1,
+  "en": "Al-Ma'idah",
+  "n": 5,
+  "v": [
+   "al maidah",
+   "almaidah",
+   "chapter 5",
+   "maidah",
+   "surah 5",
+   "surat 5",
+   "المائدة"
+  ]
+ },
+ {
+  "ar": "الأنعام",
+  "count": 0,
+  "en": "Al-An'am",
+  "n": 6,
+  "v": [
+   "al anam",
+   "alanam",
+   "anam",
+   "chapter 6",
+   "surah 6",
+   "surat 6",
+   "الأنعام"
+  ]
+ },
+ {
+  "ar": "الأعراف",
+  "count": 0,
+  "en": "Al-A'raf",
+  "n": 7,
+  "v": [
+   "al araf",
+   "alaraf",
+   "araf",
+   "chapter 7",
+   "surah 7",
+   "surat 7",
+   "الأعراف"
+  ]
+ },
+ {
+  "ar": "الأنفال",
+  "count": 0,
+  "en": "Al-Anfal",
+  "n": 8,
+  "v": [
+   "al anfal",
+   "alanfal",
+   "anfal",
+   "chapter 8",
+   "surah 8",
+   "surat 8",
+   "الأنفال"
+  ]
+ },
+ {
+  "ar": "التوبة",
+  "count": 1,
+  "en": "At-Tawbah",
+  "n": 9,
+  "v": [
+   "at tawbah",
+   "attawbah",
+   "baraah",
+   "chapter 9",
+   "surah 9",
+   "surat 9",
+   "tauba",
+   "taubah",
+   "tawba",
+   "tawbah",
+   "التوبة"
+  ]
+ },
+ {
+  "ar": "يونس",
+  "count": 2,
+  "en": "Yunus",
+  "n": 10,
+  "v": [
+   "chapter 10",
+   "surah 10",
+   "surat 10",
+   "yunus",
+   "يونس"
+  ]
+ },
+ {
+  "ar": "هود",
+  "count": 0,
+  "en": "Hud",
+  "n": 11,
+  "v": [
+   "chapter 11",
+   "hud",
+   "surah 11",
+   "surat 11",
+   "هود"
+  ]
+ },
+ {
+  "ar": "يوسف",
+  "count": 0,
+  "en": "Yusuf",
+  "n": 12,
+  "v": [
+   "chapter 12",
+   "surah 12",
+   "surat 12",
+   "yosuf",
+   "yousuf",
+   "yusuf",
+   "يوسف"
+  ]
+ },
+ {
+  "ar": "الرعد",
+  "count": 0,
+  "en": "Ar-Ra'd",
+  "n": 13,
+  "v": [
+   "ar rad",
+   "arrad",
+   "chapter 13",
+   "rad",
+   "surah 13",
+   "surat 13",
+   "الرعد"
+  ]
+ },
+ {
+  "ar": "إبراهيم",
+  "count": 0,
+  "en": "Ibrahim",
+  "n": 14,
+  "v": [
+   "chapter 14",
+   "ibrahim",
+   "surah 14",
+   "surat 14",
+   "إبراهيم"
+  ]
+ },
+ {
+  "ar": "الحجر",
+  "count": 0,
+  "en": "Al-Hijr",
+  "n": 15,
+  "v": [
+   "al hijr",
+   "alhijr",
+   "chapter 15",
+   "hijr",
+   "surah 15",
+   "surat 15",
+   "الحجر"
+  ]
+ },
+ {
+  "ar": "النحل",
+  "count": 0,
+  "en": "An-Nahl",
+  "n": 16,
+  "v": [
+   "an nahl",
+   "annahl",
+   "chapter 16",
+   "nahl",
+   "surah 16",
+   "surat 16",
+   "النحل"
+  ]
+ },
+ {
+  "ar": "الإسراء",
+  "count": 1,
+  "en": "Al-Isra",
+  "n": 17,
+  "v": [
+   "al isra",
+   "alisra",
+   "chapter 17",
+   "isra",
+   "surah 17",
+   "surat 17",
+   "الإسراء"
+  ]
+ },
+ {
+  "ar": "الكهف",
+  "count": 1,
+  "en": "Al-Kahf",
+  "n": 18,
+  "v": [
+   "al kahf",
+   "alkahf",
+   "chapter 18",
+   "kahaf",
+   "kahf",
+   "kehf",
+   "surah 18",
+   "surat 18",
+   "الكهف"
+  ]
+ },
+ {
+  "ar": "مريم",
+  "count": 0,
+  "en": "Maryam",
+  "n": 19,
+  "v": [
+   "chapter 19",
+   "mariam",
+   "maryam",
+   "surah 19",
+   "surat 19",
+   "مريم"
+  ]
+ },
+ {
+  "ar": "طه",
+  "count": 0,
+  "en": "Ta-Ha",
+  "n": 20,
+  "v": [
+   "chapter 20",
+   "surah 20",
+   "surat 20",
+   "ta ha",
+   "taha",
+   "طه"
+  ]
+ },
+ {
+  "ar": "الأنبياء",
+  "count": 0,
+  "en": "Al-Anbiya",
+  "n": 21,
+  "v": [
+   "al anbiya",
+   "alanbiya",
+   "anbiya",
+   "chapter 21",
+   "surah 21",
+   "surat 21",
+   "الأنبياء"
+  ]
+ },
+ {
+  "ar": "الحج",
+  "count": 0,
+  "en": "Al-Hajj",
+  "n": 22,
+  "v": [
+   "al hajj",
+   "alhajj",
+   "chapter 22",
+   "hajj",
+   "surah 22",
+   "surat 22",
+   "الحج"
+  ]
+ },
+ {
+  "ar": "المؤمنون",
+  "count": 0,
+  "en": "Al-Mu'minun",
+  "n": 23,
+  "v": [
+   "al muminun",
+   "almuminun",
+   "chapter 23",
+   "muminun",
+   "surah 23",
+   "surat 23",
+   "المؤمنون"
+  ]
+ },
+ {
+  "ar": "النور",
+  "count": 0,
+  "en": "An-Nur",
+  "n": 24,
+  "v": [
+   "an nur",
+   "annur",
+   "chapter 24",
+   "nur",
+   "surah 24",
+   "surat 24",
+   "النور"
+  ]
+ },
+ {
+  "ar": "الفرقان",
+  "count": 1,
+  "en": "Al-Furqan",
+  "n": 25,
+  "v": [
+   "al furqan",
+   "alfurqan",
+   "chapter 25",
+   "furqan",
+   "surah 25",
+   "surat 25",
+   "الفرقان"
+  ]
+ },
+ {
+  "ar": "الشعراء",
+  "count": 0,
+  "en": "Ash-Shu'ara",
+  "n": 26,
+  "v": [
+   "ash shuara",
+   "ashshuara",
+   "chapter 26",
+   "shuara",
+   "surah 26",
+   "surat 26",
+   "الشعراء"
+  ]
+ },
+ {
+  "ar": "النمل",
+  "count": 1,
+  "en": "An-Naml",
+  "n": 27,
+  "v": [
+   "an naml",
+   "annaml",
+   "chapter 27",
+   "naml",
+   "surah 27",
+   "surat 27",
+   "النمل"
+  ]
+ },
+ {
+  "ar": "القصص",
+  "count": 0,
+  "en": "Al-Qasas",
+  "n": 28,
+  "v": [
+   "al qasas",
+   "alqasas",
+   "chapter 28",
+   "qasas",
+   "surah 28",
+   "surat 28",
+   "القصص"
+  ]
+ },
+ {
+  "ar": "العنكبوت",
+  "count": 0,
+  "en": "Al-Ankabut",
+  "n": 29,
+  "v": [
+   "al ankabut",
+   "alankabut",
+   "ankabut",
+   "chapter 29",
+   "surah 29",
+   "surat 29",
+   "العنكبوت"
+  ]
+ },
+ {
+  "ar": "الروم",
+  "count": 0,
+  "en": "Ar-Rum",
+  "n": 30,
+  "v": [
+   "ar rum",
+   "arrum",
+   "chapter 30",
+   "rum",
+   "surah 30",
+   "surat 30",
+   "الروم"
+  ]
+ },
+ {
+  "ar": "لقمان",
+  "count": 0,
+  "en": "Luqman",
+  "n": 31,
+  "v": [
+   "chapter 31",
+   "luqman",
+   "surah 31",
+   "surat 31",
+   "لقمان"
+  ]
+ },
+ {
+  "ar": "السجدة",
+  "count": 0,
+  "en": "As-Sajdah",
+  "n": 32,
+  "v": [
+   "as sajdah",
+   "assajdah",
+   "chapter 32",
+   "sajdah",
+   "surah 32",
+   "surat 32",
+   "السجدة"
+  ]
+ },
+ {
+  "ar": "الأحزاب",
+  "count": 1,
+  "en": "Al-Ahzab",
+  "n": 33,
+  "v": [
+   "ahzab",
+   "al ahzab",
+   "alahzab",
+   "chapter 33",
+   "surah 33",
+   "surat 33",
+   "الأحزاب"
+  ]
+ },
+ {
+  "ar": "سبأ",
+  "count": 0,
+  "en": "Saba",
+  "n": 34,
+  "v": [
+   "chapter 34",
+   "saba",
+   "surah 34",
+   "surat 34",
+   "سبأ"
+  ]
+ },
+ {
+  "ar": "فاطر",
+  "count": 0,
+  "en": "Fatir",
+  "n": 35,
+  "v": [
+   "chapter 35",
+   "fatir",
+   "surah 35",
+   "surat 35",
+   "فاطر"
+  ]
+ },
+ {
+  "ar": "يس",
+  "count": 0,
+  "en": "Ya-Sin",
+  "n": 36,
+  "v": [
+   "chapter 36",
+   "surah 36",
+   "surat 36",
+   "ya seen",
+   "ya sin",
+   "yaseen",
+   "yasin",
+   "يس"
+  ]
+ },
+ {
+  "ar": "الصافات",
+  "count": 0,
+  "en": "As-Saffat",
+  "n": 37,
+  "v": [
+   "as saffat",
+   "assaffat",
+   "chapter 37",
+   "saffat",
+   "surah 37",
+   "surat 37",
+   "الصافات"
+  ]
+ },
+ {
+  "ar": "ص",
+  "count": 0,
+  "en": "Sad",
+  "n": 38,
+  "v": [
+   "chapter 38",
+   "sad",
+   "surah 38",
+   "surat 38",
+   "ص"
+  ]
+ },
+ {
+  "ar": "الزمر",
+  "count": 0,
+  "en": "Az-Zumar",
+  "n": 39,
+  "v": [
+   "az zumar",
+   "azzumar",
+   "chapter 39",
+   "surah 39",
+   "surat 39",
+   "zumar",
+   "الزمر"
+  ]
+ },
+ {
+  "ar": "غافر",
+  "count": 0,
+  "en": "Ghafir",
+  "n": 40,
+  "v": [
+   "chapter 40",
+   "ghafir",
+   "surah 40",
+   "surat 40",
+   "غافر"
+  ]
+ },
+ {
+  "ar": "فصلت",
+  "count": 0,
+  "en": "Fussilat",
+  "n": 41,
+  "v": [
+   "chapter 41",
+   "fussilat",
+   "surah 41",
+   "surat 41",
+   "فصلت"
+  ]
+ },
+ {
+  "ar": "الشورى",
+  "count": 0,
+  "en": "Ash-Shura",
+  "n": 42,
+  "v": [
+   "ash shura",
+   "ashshura",
+   "chapter 42",
+   "shura",
+   "surah 42",
+   "surat 42",
+   "الشورى"
+  ]
+ },
+ {
+  "ar": "الزخرف",
+  "count": 0,
+  "en": "Az-Zukhruf",
+  "n": 43,
+  "v": [
+   "az zukhruf",
+   "azzukhruf",
+   "chapter 43",
+   "surah 43",
+   "surat 43",
+   "zukhruf",
+   "الزخرف"
+  ]
+ },
+ {
+  "ar": "الدخان",
+  "count": 0,
+  "en": "Ad-Dukhan",
+  "n": 44,
+  "v": [
+   "ad dukhan",
+   "addukhan",
+   "chapter 44",
+   "dukhan",
+   "surah 44",
+   "surat 44",
+   "الدخان"
+  ]
+ },
+ {
+  "ar": "الجاثية",
+  "count": 0,
+  "en": "Al-Jathiyah",
+  "n": 45,
+  "v": [
+   "al jathiyah",
+   "aljathiyah",
+   "chapter 45",
+   "jathiyah",
+   "surah 45",
+   "surat 45",
+   "الجاثية"
+  ]
+ },
+ {
+  "ar": "الأحقاف",
+  "count": 0,
+  "en": "Al-Ahqaf",
+  "n": 46,
+  "v": [
+   "ahqaf",
+   "al ahqaf",
+   "alahqaf",
+   "chapter 46",
+   "surah 46",
+   "surat 46",
+   "الأحقاف"
+  ]
+ },
+ {
+  "ar": "محمد",
+  "count": 0,
+  "en": "Muhammad",
+  "n": 47,
+  "v": [
+   "chapter 47",
+   "muhammad",
+   "surah 47",
+   "surat 47",
+   "محمد"
+  ]
+ },
+ {
+  "ar": "الفتح",
+  "count": 1,
+  "en": "Al-Fath",
+  "n": 48,
+  "v": [
+   "al fath",
+   "alfath",
+   "chapter 48",
+   "fath",
+   "surah 48",
+   "surat 48",
+   "الفتح"
+  ]
+ },
+ {
+  "ar": "الحجرات",
+  "count": 2,
+  "en": "Al-Hujurat",
+  "n": 49,
+  "v": [
+   "al hujurat",
+   "alhujurat",
+   "chapter 49",
+   "hujurat",
+   "surah 49",
+   "surat 49",
+   "الحجرات"
+  ]
+ },
+ {
+  "ar": "ق",
+  "count": 1,
+  "en": "Qaf",
+  "n": 50,
+  "v": [
+   "chapter 50",
+   "qaf",
+   "surah 50",
+   "surat 50",
+   "ق"
+  ]
+ },
+ {
+  "ar": "الذاريات",
+  "count": 0,
+  "en": "Adh-Dhariyat",
+  "n": 51,
+  "v": [
+   "adh dhariyat",
+   "adhdhariyat",
+   "chapter 51",
+   "dhariyat",
+   "surah 51",
+   "surat 51",
+   "الذاريات"
+  ]
+ },
+ {
+  "ar": "الطور",
+  "count": 0,
+  "en": "At-Tur",
+  "n": 52,
+  "v": [
+   "at tur",
+   "attur",
+   "chapter 52",
+   "surah 52",
+   "surat 52",
+   "tur",
+   "الطور"
+  ]
+ },
+ {
+  "ar": "النجم",
+  "count": 0,
+  "en": "An-Najm",
+  "n": 53,
+  "v": [
+   "an najm",
+   "annajm",
+   "chapter 53",
+   "najm",
+   "surah 53",
+   "surat 53",
+   "النجم"
+  ]
+ },
+ {
+  "ar": "القمر",
+  "count": 0,
+  "en": "Al-Qamar",
+  "n": 54,
+  "v": [
+   "al qamar",
+   "alqamar",
+   "chapter 54",
+   "qamar",
+   "surah 54",
+   "surat 54",
+   "القمر"
+  ]
+ },
+ {
+  "ar": "الرحمن",
+  "count": 0,
+  "en": "Ar-Rahman",
+  "n": 55,
+  "v": [
+   "ar rahman",
+   "arrahman",
+   "chapter 55",
+   "rahman",
+   "rehman",
+   "surah 55",
+   "surat 55",
+   "الرحمن"
+  ]
+ },
+ {
+  "ar": "الواقعة",
+  "count": 0,
+  "en": "Al-Waqi'ah",
+  "n": 56,
+  "v": [
+   "al waqiah",
+   "alwaqiah",
+   "chapter 56",
+   "surah 56",
+   "surat 56",
+   "waqia",
+   "waqiah",
+   "الواقعة"
+  ]
+ },
+ {
+  "ar": "الحديد",
+  "count": 1,
+  "en": "Al-Hadid",
+  "n": 57,
+  "v": [
+   "al hadid",
+   "alhadid",
+   "chapter 57",
+   "hadid",
+   "surah 57",
+   "surat 57",
+   "الحديد"
+  ]
+ },
+ {
+  "ar": "المجادلة",
+  "count": 0,
+  "en": "Al-Mujadila",
+  "n": 58,
+  "v": [
+   "al mujadila",
+   "almujadila",
+   "chapter 58",
+   "mujadila",
+   "surah 58",
+   "surat 58",
+   "المجادلة"
+  ]
+ },
+ {
+  "ar": "الحشر",
+  "count": 0,
+  "en": "Al-Hashr",
+  "n": 59,
+  "v": [
+   "al hashr",
+   "alhashr",
+   "chapter 59",
+   "hashr",
+   "surah 59",
+   "surat 59",
+   "الحشر"
+  ]
+ },
+ {
+  "ar": "الممتحنة",
+  "count": 0,
+  "en": "Al-Mumtahanah",
+  "n": 60,
+  "v": [
+   "al mumtahanah",
+   "almumtahanah",
+   "chapter 60",
+   "mumtahanah",
+   "surah 60",
+   "surat 60",
+   "الممتحنة"
+  ]
+ },
+ {
+  "ar": "الصف",
+  "count": 0,
+  "en": "As-Saff",
+  "n": 61,
+  "v": [
+   "as saff",
+   "assaff",
+   "chapter 61",
+   "saff",
+   "surah 61",
+   "surat 61",
+   "الصف"
+  ]
+ },
+ {
+  "ar": "الجمعة",
+  "count": 0,
+  "en": "Al-Jumu'ah",
+  "n": 62,
+  "v": [
+   "al jumuah",
+   "aljumuah",
+   "chapter 62",
+   "jumua",
+   "jumuah",
+   "surah 62",
+   "surat 62",
+   "الجمعة"
+  ]
+ },
+ {
+  "ar": "المنافقون",
+  "count": 0,
+  "en": "Al-Munafiqun",
+  "n": 63,
+  "v": [
+   "al munafiqun",
+   "almunafiqun",
+   "chapter 63",
+   "munafiqun",
+   "surah 63",
+   "surat 63",
+   "المنافقون"
+  ]
+ },
+ {
+  "ar": "التغابن",
+  "count": 0,
+  "en": "At-Taghabun",
+  "n": 64,
+  "v": [
+   "at taghabun",
+   "attaghabun",
+   "chapter 64",
+   "surah 64",
+   "surat 64",
+   "taghabun",
+   "التغابن"
+  ]
+ },
+ {
+  "ar": "الطلاق",
+  "count": 0,
+  "en": "At-Talaq",
+  "n": 65,
+  "v": [
+   "at talaq",
+   "attalaq",
+   "chapter 65",
+   "surah 65",
+   "surat 65",
+   "talaq",
+   "الطلاق"
+  ]
+ },
+ {
+  "ar": "التحريم",
+  "count": 0,
+  "en": "At-Tahrim",
+  "n": 66,
+  "v": [
+   "at tahrim",
+   "attahrim",
+   "chapter 66",
+   "surah 66",
+   "surat 66",
+   "tahrim",
+   "التحريم"
+  ]
+ },
+ {
+  "ar": "الملك",
+  "count": 0,
+  "en": "Al-Mulk",
+  "n": 67,
+  "v": [
+   "al mulk",
+   "almulk",
+   "chapter 67",
+   "mulk",
+   "surah 67",
+   "surat 67",
+   "tabaarak",
+   "tabarak",
+   "الملك"
+  ]
+ },
+ {
+  "ar": "القلم",
+  "count": 0,
+  "en": "Al-Qalam",
+  "n": 68,
+  "v": [
+   "al qalam",
+   "alqalam",
+   "chapter 68",
+   "qalam",
+   "surah 68",
+   "surat 68",
+   "القلم"
+  ]
+ },
+ {
+  "ar": "الحاقة",
+  "count": 0,
+  "en": "Al-Haqqah",
+  "n": 69,
+  "v": [
+   "al haqqah",
+   "alhaqqah",
+   "chapter 69",
+   "haqqah",
+   "surah 69",
+   "surat 69",
+   "الحاقة"
+  ]
+ },
+ {
+  "ar": "المعارج",
+  "count": 0,
+  "en": "Al-Ma'arij",
+  "n": 70,
+  "v": [
+   "al maarij",
+   "almaarij",
+   "chapter 70",
+   "maarij",
+   "surah 70",
+   "surat 70",
+   "المعارج"
+  ]
+ },
+ {
+  "ar": "نوح",
+  "count": 0,
+  "en": "Nuh",
+  "n": 71,
+  "v": [
+   "chapter 71",
+   "nuh",
+   "surah 71",
+   "surat 71",
+   "نوح"
+  ]
+ },
+ {
+  "ar": "الجن",
+  "count": 0,
+  "en": "Al-Jinn",
+  "n": 72,
+  "v": [
+   "al jinn",
+   "aljinn",
+   "chapter 72",
+   "jinn",
+   "surah 72",
+   "surat 72",
+   "الجن"
+  ]
+ },
+ {
+  "ar": "المزمل",
+  "count": 0,
+  "en": "Al-Muzzammil",
+  "n": 73,
+  "v": [
+   "al muzzammil",
+   "almuzzammil",
+   "chapter 73",
+   "muzammil",
+   "muzzamil",
+   "muzzammil",
+   "surah 73",
+   "surat 73",
+   "المزمل"
+  ]
+ },
+ {
+  "ar": "المدثر",
+  "count": 0,
+  "en": "Al-Muddaththir",
+  "n": 74,
+  "v": [
+   "al muddaththir",
+   "almuddaththir",
+   "chapter 74",
+   "mudaththir",
+   "muddathir",
+   "muddaththir",
+   "surah 74",
+   "surat 74",
+   "المدثر"
+  ]
+ },
+ {
+  "ar": "القيامة",
+  "count": 0,
+  "en": "Al-Qiyamah",
+  "n": 75,
+  "v": [
+   "al qiyamah",
+   "alqiyamah",
+   "chapter 75",
+   "qiyamah",
+   "surah 75",
+   "surat 75",
+   "القيامة"
+  ]
+ },
+ {
+  "ar": "الإنسان",
+  "count": 0,
+  "en": "Al-Insan",
+  "n": 76,
+  "v": [
+   "al insan",
+   "alinsan",
+   "chapter 76",
+   "insan",
+   "surah 76",
+   "surat 76",
+   "الإنسان"
+  ]
+ },
+ {
+  "ar": "المرسلات",
+  "count": 0,
+  "en": "Al-Mursalat",
+  "n": 77,
+  "v": [
+   "al mursalat",
+   "almursalat",
+   "chapter 77",
+   "mursalat",
+   "surah 77",
+   "surat 77",
+   "المرسلات"
+  ]
+ },
+ {
+  "ar": "النبأ",
+  "count": 1,
+  "en": "An-Naba",
+  "n": 78,
+  "v": [
+   "amma",
+   "an naba",
+   "annaba",
+   "chapter 78",
+   "naba",
+   "surah 78",
+   "surat 78",
+   "النبأ"
+  ]
+ },
+ {
+  "ar": "النازعات",
+  "count": 1,
+  "en": "An-Nazi'at",
+  "n": 79,
+  "v": [
+   "an naziat",
+   "annaziat",
+   "chapter 79",
+   "naziat",
+   "surah 79",
+   "surat 79",
+   "النازعات"
+  ]
+ },
+ {
+  "ar": "عبس",
+  "count": 1,
+  "en": "Abasa",
+  "n": 80,
+  "v": [
+   "abasa",
+   "chapter 80",
+   "surah 80",
+   "surat 80",
+   "عبس"
+  ]
+ },
+ {
+  "ar": "التكوير",
+  "count": 1,
+  "en": "At-Takwir",
+  "n": 81,
+  "v": [
+   "at takwir",
+   "attakwir",
+   "chapter 81",
+   "surah 81",
+   "surat 81",
+   "takwir",
+   "التكوير"
+  ]
+ },
+ {
+  "ar": "الانفطار",
+  "count": 1,
+  "en": "Al-Infitar",
+  "n": 82,
+  "v": [
+   "al infitar",
+   "alinfitar",
+   "chapter 82",
+   "infitar",
+   "surah 82",
+   "surat 82",
+   "الانفطار"
+  ]
+ },
+ {
+  "ar": "المطففين",
+  "count": 1,
+  "en": "Al-Mutaffifin",
+  "n": 83,
+  "v": [
+   "al mutaffifin",
+   "almutaffifin",
+   "chapter 83",
+   "mutaffifin",
+   "surah 83",
+   "surat 83",
+   "المطففين"
+  ]
+ },
+ {
+  "ar": "الانشقاق",
+  "count": 1,
+  "en": "Al-Inshiqaq",
+  "n": 84,
+  "v": [
+   "al inshiqaq",
+   "alinshiqaq",
+   "chapter 84",
+   "inshiqaq",
+   "surah 84",
+   "surat 84",
+   "الانشقاق"
+  ]
+ },
+ {
+  "ar": "البروج",
+  "count": 1,
+  "en": "Al-Buruj",
+  "n": 85,
+  "v": [
+   "al buruj",
+   "alburuj",
+   "buruj",
+   "chapter 85",
+   "surah 85",
+   "surat 85",
+   "البروج"
+  ]
+ },
+ {
+  "ar": "الطارق",
+  "count": 0,
+  "en": "At-Tariq",
+  "n": 86,
+  "v": [
+   "at tariq",
+   "attariq",
+   "chapter 86",
+   "surah 86",
+   "surat 86",
+   "tariq",
+   "الطارق"
+  ]
+ },
+ {
+  "ar": "الأعلى",
+  "count": 0,
+  "en": "Al-A'la",
+  "n": 87,
+  "v": [
+   "al ala",
+   "ala",
+   "alala",
+   "chapter 87",
+   "surah 87",
+   "surat 87",
+   "الأعلى"
+  ]
+ },
+ {
+  "ar": "الغاشية",
+  "count": 0,
+  "en": "Al-Ghashiyah",
+  "n": 88,
+  "v": [
+   "al ghashiyah",
+   "alghashiyah",
+   "chapter 88",
+   "ghashiyah",
+   "surah 88",
+   "surat 88",
+   "الغاشية"
+  ]
+ },
+ {
+  "ar": "الفجر",
+  "count": 0,
+  "en": "Al-Fajr",
+  "n": 89,
+  "v": [
+   "al fajr",
+   "alfajr",
+   "chapter 89",
+   "fajr",
+   "surah 89",
+   "surat 89",
+   "الفجر"
+  ]
+ },
+ {
+  "ar": "البلد",
+  "count": 0,
+  "en": "Al-Balad",
+  "n": 90,
+  "v": [
+   "al balad",
+   "albalad",
+   "balad",
+   "chapter 90",
+   "surah 90",
+   "surat 90",
+   "البلد"
+  ]
+ },
+ {
+  "ar": "الشمس",
+  "count": 0,
+  "en": "Ash-Shams",
+  "n": 91,
+  "v": [
+   "ash shams",
+   "ashshams",
+   "chapter 91",
+   "shams",
+   "surah 91",
+   "surat 91",
+   "الشمس"
+  ]
+ },
+ {
+  "ar": "الليل",
+  "count": 0,
+  "en": "Al-Layl",
+  "n": 92,
+  "v": [
+   "al layl",
+   "allayl",
+   "chapter 92",
+   "layl",
+   "surah 92",
+   "surat 92",
+   "الليل"
+  ]
+ },
+ {
+  "ar": "الضحى",
+  "count": 0,
+  "en": "Ad-Duha",
+  "n": 93,
+  "v": [
+   "ad duha",
+   "adduha",
+   "chapter 93",
+   "dhuha",
+   "duha",
+   "surah 93",
+   "surat 93",
+   "الضحى"
+  ]
+ },
+ {
+  "ar": "الشرح",
+  "count": 0,
+  "en": "Ash-Sharh",
+  "n": 94,
+  "v": [
+   "alam nashrah",
+   "ash sharh",
+   "ashsharh",
+   "chapter 94",
+   "inshirah",
+   "sharh",
+   "surah 94",
+   "surat 94",
+   "الشرح"
+  ]
+ },
+ {
+  "ar": "التين",
+  "count": 0,
+  "en": "At-Tin",
+  "n": 95,
+  "v": [
+   "at tin",
+   "attin",
+   "chapter 95",
+   "surah 95",
+   "surat 95",
+   "tin",
+   "التين"
+  ]
+ },
+ {
+  "ar": "العلق",
+  "count": 1,
+  "en": "Al-Alaq",
+  "n": 96,
+  "v": [
+   "al alaq",
+   "alalaq",
+   "alaq",
+   "chapter 96",
+   "surah 96",
+   "surat 96",
+   "العلق"
+  ]
+ },
+ {
+  "ar": "القدر",
+  "count": 0,
+  "en": "Al-Qadr",
+  "n": 97,
+  "v": [
+   "al qadr",
+   "alqadr",
+   "chapter 97",
+   "qadr",
+   "surah 97",
+   "surat 97",
+   "القدر"
+  ]
+ },
+ {
+  "ar": "البينة",
+  "count": 0,
+  "en": "Al-Bayyinah",
+  "n": 98,
+  "v": [
+   "al bayyinah",
+   "albayyinah",
+   "bayyinah",
+   "chapter 98",
+   "surah 98",
+   "surat 98",
+   "البينة"
+  ]
+ },
+ {
+  "ar": "الزلزلة",
+  "count": 0,
+  "en": "Az-Zalzalah",
+  "n": 99,
+  "v": [
+   "az zalzalah",
+   "azzalzalah",
+   "chapter 99",
+   "surah 99",
+   "surat 99",
+   "zalzalah",
+   "الزلزلة"
+  ]
+ },
+ {
+  "ar": "العاديات",
+  "count": 0,
+  "en": "Al-Adiyat",
+  "n": 100,
+  "v": [
+   "adiyat",
+   "al adiyat",
+   "aladiyat",
+   "chapter 100",
+   "surah 100",
+   "surat 100",
+   "العاديات"
+  ]
+ },
+ {
+  "ar": "القارعة",
+  "count": 0,
+  "en": "Al-Qari'ah",
+  "n": 101,
+  "v": [
+   "al qariah",
+   "alqariah",
+   "chapter 101",
+   "qariah",
+   "surah 101",
+   "surat 101",
+   "القارعة"
+  ]
+ },
+ {
+  "ar": "التكاثر",
+  "count": 0,
+  "en": "At-Takathur",
+  "n": 102,
+  "v": [
+   "at takathur",
+   "attakathur",
+   "chapter 102",
+   "surah 102",
+   "surat 102",
+   "takathur",
+   "التكاثر"
+  ]
+ },
+ {
+  "ar": "العصر",
+  "count": 0,
+  "en": "Al-Asr",
+  "n": 103,
+  "v": [
+   "al asr",
+   "alasr",
+   "asr",
+   "chapter 103",
+   "surah 103",
+   "surat 103",
+   "العصر"
+  ]
+ },
+ {
+  "ar": "الهمزة",
+  "count": 1,
+  "en": "Al-Humazah",
+  "n": 104,
+  "v": [
+   "al humazah",
+   "alhumazah",
+   "chapter 104",
+   "humazah",
+   "surah 104",
+   "surat 104",
+   "الهمزة"
+  ]
+ },
+ {
+  "ar": "الفيل",
+  "count": 0,
+  "en": "Al-Fil",
+  "n": 105,
+  "v": [
+   "al fil",
+   "alfil",
+   "chapter 105",
+   "fil",
+   "surah 105",
+   "surat 105",
+   "الفيل"
+  ]
+ },
+ {
+  "ar": "قريش",
+  "count": 0,
+  "en": "Quraysh",
+  "n": 106,
+  "v": [
+   "chapter 106",
+   "quraysh",
+   "surah 106",
+   "surat 106",
+   "قريش"
+  ]
+ },
+ {
+  "ar": "الماعون",
+  "count": 1,
+  "en": "Al-Ma'un",
+  "n": 107,
+  "v": [
+   "al maun",
+   "almaun",
+   "chapter 107",
+   "maun",
+   "surah 107",
+   "surat 107",
+   "الماعون"
+  ]
+ },
+ {
+  "ar": "الكوثر",
+  "count": 0,
+  "en": "Al-Kawthar",
+  "n": 108,
+  "v": [
+   "al kawthar",
+   "alkawthar",
+   "chapter 108",
+   "kausar",
+   "kawsar",
+   "kawthar",
+   "surah 108",
+   "surat 108",
+   "الكوثر"
+  ]
+ },
+ {
+  "ar": "الكافرون",
+  "count": 0,
+  "en": "Al-Kafirun",
+  "n": 109,
+  "v": [
+   "al kafirun",
+   "alkafirun",
+   "chapter 109",
+   "kafiroon",
+   "kafirun",
+   "surah 109",
+   "surat 109",
+   "الكافرون"
+  ]
+ },
+ {
+  "ar": "النصر",
+  "count": 0,
+  "en": "An-Nasr",
+  "n": 110,
+  "v": [
+   "an nasr",
+   "annasr",
+   "chapter 110",
+   "nasr",
+   "surah 110",
+   "surat 110",
+   "النصر"
+  ]
+ },
+ {
+  "ar": "المسد",
+  "count": 0,
+  "en": "Al-Masad",
+  "n": 111,
+  "v": [
+   "al masad",
+   "almasad",
+   "chapter 111",
+   "masad",
+   "surah 111",
+   "surat 111",
+   "المسد"
+  ]
+ },
+ {
+  "ar": "الإخلاص",
+  "count": 0,
+  "en": "Al-Ikhlas",
+  "n": 112,
+  "v": [
+   "al ikhlas",
+   "alikhlas",
+   "chapter 112",
+   "ikhlaas",
+   "ikhlas",
+   "surah 112",
+   "surat 112",
+   "الإخلاص"
+  ]
+ },
+ {
+  "ar": "الفلق",
+  "count": 0,
+  "en": "Al-Falaq",
+  "n": 113,
+  "v": [
+   "al falaq",
+   "alfalaq",
+   "chapter 113",
+   "falaq",
+   "surah 113",
+   "surat 113",
+   "الفلق"
+  ]
+ },
+ {
+  "ar": "الناس",
+  "count": 0,
+  "en": "An-Nas",
+  "n": 114,
+  "v": [
+   "an nas",
+   "annas",
+   "chapter 114",
+   "naas",
+   "nas",
+   "surah 114",
+   "surat 114",
+   "الناس"
+  ]
+ }
+]

@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.3,
+ "content_type": "reminder",
+ "fingerprint": "2946673df90e",
+ "id": "w9aCVLkbDRo",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.halal-haram",
+  "dawah.reverts"
+ ]
+}

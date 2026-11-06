@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "podcast",
+ "fingerprint": "d8f07d57bbe1",
+ "id": "jztob2o7kMA",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Imam Tom Facchine",
+  "Sh. Mohammad Elshinawy"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.hajj-umrah",
+  "seasons.dhul-hijjah"
+ ]
+}

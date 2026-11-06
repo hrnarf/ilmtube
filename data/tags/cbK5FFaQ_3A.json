@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "reminder",
+ "fingerprint": "a94e2ddd05bd",
+ "id": "cbK5FFaQ_3A",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "character-family.akhlaq"
+ ]
+}

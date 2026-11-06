@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.3,
+ "content_type": "reminder",
+ "fingerprint": "4b61a419a799",
+ "id": "ZgP7vu-bQFw",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.work-career"
+ ]
+}

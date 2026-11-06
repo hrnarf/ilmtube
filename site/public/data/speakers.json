@@ -1,0 +1,609 @@
+[
+ {
+  "aliases": [
+   "Mufti Menk",
+   "Ismail ibn Musa Menk",
+   "Ismail Menk"
+  ],
+  "id": "ismail-menk",
+  "n": 234,
+  "name": "Mufti Ismail Menk",
+  "ns": 184,
+  "su": [
+   48,
+   49,
+   50,
+   96
+  ],
+  "tp": [
+   "character-family.akhlaq",
+   "seerah-history.prophet-muhammad",
+   "fiqh.hajj-umrah",
+   "seasons.dhul-hijjah",
+   "character-family.brotherhood-community"
+  ]
+ },
+ {
+  "aliases": [
+   "Dr. Omar Suleiman"
+  ],
+  "id": "omar-suleiman",
+  "n": 180,
+  "name": "Omar Suleiman",
+  "ns": 451,
+  "su": [
+   2,
+   5
+  ],
+  "tp": [
+   "quran.hifz",
+   "quran.tafsir",
+   "seerah-history.sahabah",
+   "quran.tajweed",
+   "aqeedah.signs-of-the-hour"
+  ]
+ },
+ {
+  "aliases": [
+   "Ustadh Abdulrahman Hassan"
+  ],
+  "id": "abdulrahman-hassan",
+  "n": 131,
+  "name": "Abdulrahman Hassan",
+  "ns": 0,
+  "su": [
+   1,
+   9,
+   17,
+   18,
+   25,
+   49,
+   57
+  ],
+  "tp": [
+   "seasons.ramadan",
+   "quran.tafsir",
+   "hadith.explanations",
+   "seerah-history.prophet-muhammad",
+   "spirituality.heart"
+  ]
+ },
+ {
+  "aliases": [
+   "Sheikh Muhammad Tim Humble",
+   "Ustadh Muhammad Tim Humble"
+  ],
+  "id": "muhammad-tim-humble",
+  "n": 105,
+  "name": "Muhammad Tim Humble",
+  "ns": 0,
+  "su": [
+   1,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85
+  ],
+  "tp": [
+   "spirituality.heart",
+   "seasons.ramadan",
+   "spirituality.sincerity",
+   "aqeedah.names-of-allah",
+   "quran.tafsir"
+  ]
+ },
+ {
+  "aliases": [
+   "Sheikh Dr. Asim Al-Qaryooti",
+   "Sheikh Dr. Asim al-Qaryooti"
+  ],
+  "id": "asim-al-qaryooti",
+  "n": 49,
+  "name": "Asim Al-Qaryooti",
+  "ns": 0,
+  "su": [
+   33
+  ],
+  "tp": [
+   "fiqh.halal-haram",
+   "seasons.ramadan",
+   "character-family.women",
+   "character-family.akhlaq",
+   "quran.tafsir"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "abdulrazzak-junaid",
+  "n": 27,
+  "name": "Abdulrazzak Junaid",
+  "ns": 0,
+  "su": [
+   2
+  ],
+  "tp": [
+   "quran.hifz",
+   "quran.tajweed"
+  ]
+ },
+ {
+  "aliases": [
+   "Imam Tom Facchine"
+  ],
+  "id": "tom-facchine",
+  "n": 24,
+  "name": "Tom Facchine",
+  "ns": 37,
+  "su": [],
+  "tp": [
+   "contemporary.current-affairs",
+   "character-family.akhlaq",
+   "spirituality.overcoming-sins",
+   "character-family.brotherhood-community",
+   "spirituality.heart"
+  ]
+ },
+ {
+  "aliases": [
+   "Sh. Mohammad Elshinawy",
+   "Sh. Elshinawy"
+  ],
+  "id": "mohammad-elshinawy",
+  "n": 20,
+  "name": "Mohammad Elshinawy",
+  "ns": 24,
+  "su": [
+   27
+  ],
+  "tp": [
+   "hadith.explanations",
+   "character-family.akhlaq",
+   "fiqh.halal-haram",
+   "spirituality.sincerity",
+   "seerah-history.sahabah"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "ali-hammuda",
+  "n": 10,
+  "name": "Sh. Ali Hammuda",
+  "ns": 19,
+  "su": [],
+  "tp": [
+   "seasons.dhul-hijjah",
+   "aqeedah.day-of-judgement",
+   "spirituality.sincerity",
+   "aqeedah.death-and-grave",
+   "fiqh.hajj-umrah"
+  ]
+ },
+ {
+  "aliases": [
+   "Sheikh Muhammad Huzaifah",
+   "Ustadh Muhammad Huzaifah"
+  ],
+  "id": "muhammad-huzaifah",
+  "n": 9,
+  "name": "Muhammad Huzaifah",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "seerah-history.islamic-history",
+   "hadith.hadith-sciences",
+   "character-family.parenting",
+   "dawah.atheism",
+   "character-family.marriage-relationships"
+  ]
+ },
+ {
+  "aliases": [
+   "Sheikh Mohamed Eid Almuhairi"
+  ],
+  "id": "mohamed-eid-almuhairi",
+  "n": 8,
+  "name": "Mohamed Eid AlMuhairi",
+  "ns": 0,
+  "su": [
+   10,
+   104,
+   107
+  ],
+  "tp": [
+   "quran.tafsir",
+   "spirituality.heart",
+   "fiqh.salah",
+   "fiqh.hajj-umrah",
+   "seasons.dhul-hijjah"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "yaser-birjas",
+  "n": 7,
+  "name": "Sh. Yaser Birjas",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "spirituality.dua-dhikr",
+   "seasons.ramadan",
+   "spirituality.heart",
+   "character-family.brotherhood-community",
+   "aqeedah.names-of-allah"
+  ]
+ },
+ {
+  "aliases": [
+   "Dr. Tesneem Alkiek"
+  ],
+  "id": "tesneem-alkiek",
+  "n": 4,
+  "name": "Tesneem Alkiek",
+  "ns": 7,
+  "su": [
+   4
+  ],
+  "tp": [
+   "character-family.women",
+   "hadith.explanations",
+   "character-family.marriage-relationships",
+   "fiqh.marriage-divorce",
+   "quran.tafsir"
+  ]
+ },
+ {
+  "aliases": [
+   "Ustadh Sadiq A. Yasin"
+  ],
+  "id": "sadiq-a-yasin",
+  "n": 4,
+  "name": "Sadiq A. Yasin",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "aqeedah.tawheed",
+   "spirituality.sincerity",
+   "aqeedah.names-of-allah",
+   "spirituality.heart",
+   "aqeedah.death-and-grave"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "cadar-mohamud",
+  "n": 4,
+  "name": "Cadar Mohamud",
+  "ns": 2,
+  "su": [
+   4
+  ],
+  "tp": [
+   "character-family.women",
+   "hadith.explanations",
+   "character-family.marriage-relationships",
+   "fiqh.marriage-divorce",
+   "quran.tafsir"
+  ]
+ },
+ {
+  "aliases": [
+   "Sheikh Abu Bakr Al-Khalafi",
+   "Sheikh Abubakar al-Khalafi"
+  ],
+  "id": "abu-bakr-al-khalafi",
+  "n": 3,
+  "name": "Abu Bakr Al-Khalafi",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "spirituality.sincerity"
+  ]
+ },
+ {
+  "aliases": [
+   "Sheikh Dr. Ibrahim bin Khaleel Bani Salamah",
+   "Sheikh Dr. Ibrahim ibn Khaleel Bani Salamah"
+  ],
+  "id": "ibrahim-bani-salamah",
+  "n": 3,
+  "name": "Ibrahim bin Khaleel Bani Salamah",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "seerah-history.prophet-muhammad",
+   "fiqh.halal-haram",
+   "character-family.brotherhood-community"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "ibrahim-hindy",
+  "n": 3,
+  "name": "Sh. Ibrahim Hindy",
+  "ns": 5,
+  "su": [],
+  "tp": [
+   "spirituality.overcoming-sins",
+   "wellbeing.hardship-trials",
+   "seerah-history.sahabah",
+   "spirituality.sincerity",
+   "aqeedah.tawheed"
+  ]
+ },
+ {
+  "aliases": [
+   "Sheikh Abdullahi Abdisalam",
+   "Sheikh Abdullahi Abdissalam"
+  ],
+  "id": "abdullahi-abdisalam",
+  "n": 2,
+  "name": "Abdullahi Abdisalam",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "contemporary.muslims-in-the-west",
+   "wellbeing.hardship-trials",
+   "spirituality.patience-gratitude"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "shahid-hassan",
+  "n": 2,
+  "name": "Br. Shahid Hassan",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "seerah-history.prophet-muhammad",
+   "seerah-history.islamic-history"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "muhammad-hisham-at-tahiri",
+  "n": 2,
+  "name": "Sheikh Muhammad Hisham at-Tahiri",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "fiqh.halal-haram",
+   "aqeedah.tawheed"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "aussie-mammoth",
+  "n": 1,
+  "name": "Aussie Mammoth",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "character-family.brotherhood-community"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "salah",
+  "n": 1,
+  "name": "Dr Salah",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "character-family.brotherhood-community"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "farah-islam",
+  "n": 1,
+  "name": "Dr. Farah Islam",
+  "ns": 4,
+  "su": [],
+  "tp": [
+   "wellbeing.hardship-trials",
+   "spirituality.patience-gratitude"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "jinan-yousef",
+  "n": 1,
+  "name": "Dr. Jinan Yousef",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "spirituality.heart",
+   "seasons.ramadan"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "nazir-khan",
+  "n": 1,
+  "name": "Dr. Nazir Khan",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "spirituality.heart",
+   "seasons.ramadan"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "ebro-ahmed",
+  "n": 1,
+  "name": "Ebro Ahmed",
+  "ns": 1,
+  "su": [],
+  "tp": [
+   "contemporary.muslims-in-the-west",
+   "character-family.akhlaq"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "justin-wood",
+  "n": 1,
+  "name": "Imam Justin Wood",
+  "ns": 1,
+  "su": [],
+  "tp": [
+   "contemporary.current-affairs",
+   "spirituality.dua-dhikr"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "jamil-al-amin",
+  "n": 1,
+  "name": "Jamil Al-Amin",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "contemporary.current-affairs"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "abdul-rahman-waheed",
+  "n": 1,
+  "name": "Mufti Abdul Rahman Waheed",
+  "ns": 2,
+  "su": [],
+  "tp": [
+   "spirituality.dua-dhikr",
+   "seasons.ramadan"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "renad-attalah",
+  "n": 1,
+  "name": "Renad Attalah",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "contemporary.current-affairs",
+   "wellbeing.hope"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "abu-bakr-zoud",
+  "n": 1,
+  "name": "Sh. Abu Bakr Zoud",
+  "ns": 1,
+  "su": [],
+  "tp": [
+   "seasons.laylat-al-qadr",
+   "seasons.ramadan"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "ammar-alshukry",
+  "n": 1,
+  "name": "Sh. Ammar AlShukry",
+  "ns": 1,
+  "su": [],
+  "tp": [
+   "contemporary.current-affairs"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "mikaeel-smith",
+  "n": 1,
+  "name": "Sh. Mikaeel Smith",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "wellbeing.hardship-trials",
+   "spirituality.patience-gratitude"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "navaid-aziz",
+  "n": 1,
+  "name": "Sh. Navaid Aziz",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "aqeedah.names-of-allah",
+   "seasons.ramadan"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "abu-seereen-muhammad-huzaifah",
+  "n": 1,
+  "name": "Sheikh Abu Seereen Muhammad Huzaifah",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "quran.recitation"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "ahmad-yare",
+  "n": 1,
+  "name": "Sheikh Ahmad Yare",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "character-family.akhlaq",
+   "spirituality.sincerity"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "ahmed-umar",
+  "n": 1,
+  "name": "Sheikh Ahmed Umar",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "fiqh.finance-business",
+   "wellbeing.hardship-trials"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "haytham-sarhan",
+  "n": 1,
+  "name": "Sheikh Haytham Sarhan",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "spirituality.sincerity"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "muhammad-ibn-salih-al-uthaymeen",
+  "n": 1,
+  "name": "Sheikh Muhammad ibn Salih al-Uthaymeen",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "hadith.explanations"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "zahir-mahmood",
+  "n": 1,
+  "name": "Zahir Mahmood",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "character-family.brotherhood-community"
+  ]
+ }
+]

@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "khutbah",
+ "fingerprint": "f871c011ff84",
+ "id": "I8SDEQtP2o8",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "seasons.eid",
+  "aqeedah.jannah"
+ ]
+}

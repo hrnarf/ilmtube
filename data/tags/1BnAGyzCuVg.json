@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "other",
+ "fingerprint": "5a619c4d37e9",
+ "id": "1BnAGyzCuVg",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.prophet-muhammad",
+  "seasons.ramadan"
+ ]
+}

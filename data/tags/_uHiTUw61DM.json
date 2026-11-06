@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.45,
+ "content_type": "reminder",
+ "fingerprint": "5ee99de4e4b5",
+ "id": "_uHiTUw61DM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.finance-business",
+  "spirituality.patience-gratitude"
+ ]
+}

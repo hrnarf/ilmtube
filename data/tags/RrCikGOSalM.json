@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.45,
+ "content_type": "reminder",
+ "fingerprint": "46dfd1c584e7",
+ "id": "RrCikGOSalM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "wellbeing.hardship-trials",
+  "wellbeing.hope"
+ ]
+}

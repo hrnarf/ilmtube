@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.65,
+ "content_type": "reminder",
+ "fingerprint": "1a889a70c952",
+ "id": "qDEJyfrbUjU",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Mikaeel Ahmed Smith"
+ ],
+ "surahs": [],
+ "topics": [
+  "wellbeing.anxiety-stress",
+  "quran.tafsir"
+ ]
+}

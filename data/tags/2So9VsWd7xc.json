@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.35,
+ "content_type": "other",
+ "fingerprint": "7f15697a248b",
+ "id": "2So9VsWd7xc",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "wellbeing.grief-loss",
+  "wellbeing.hardship-trials"
+ ]
+}

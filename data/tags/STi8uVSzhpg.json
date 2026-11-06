@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.55,
+ "content_type": "lecture",
+ "fingerprint": "bdfa070f648a",
+ "id": "STi8uVSzhpg",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "fiqh.marriage-divorce",
+  "character-family.women"
+ ]
+}

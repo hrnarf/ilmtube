@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.55,
+ "content_type": "reminder",
+ "fingerprint": "c6aefa82e06d",
+ "id": "A-meTnbr-Ec",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Imam Tom Facchine"
+ ],
+ "surahs": [],
+ "topics": [
+  "quran.tafsir",
+  "seerah-history.sahabah"
+ ]
+}

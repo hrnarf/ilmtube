@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "reminder",
+ "fingerprint": "e3e5ac1f9800",
+ "id": "LUakE_6bePg",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.repentance",
+  "seerah-history.sahabah",
+  "spirituality.dua-dhikr"
+ ]
+}

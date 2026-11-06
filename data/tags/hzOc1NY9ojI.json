@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "reminder",
+ "fingerprint": "5047c303b997",
+ "id": "hzOc1NY9ojI",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman",
+  "Sh. Ali Hammuda"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.tawheed",
+  "spirituality.heart"
+ ]
+}

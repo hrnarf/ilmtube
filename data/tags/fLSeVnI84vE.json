@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "brothers"
+ ],
+ "confidence": 0.6,
+ "content_type": "reminder",
+ "fingerprint": "10c43c9bac07",
+ "id": "fLSeVnI84vE",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "character-family.women",
+  "character-family.marriage-relationships"
+ ]
+}

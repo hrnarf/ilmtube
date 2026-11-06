@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.35,
+ "content_type": "other",
+ "fingerprint": "4a444ce1780c",
+ "id": "LZ5Ggv7D5fk",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "quran.tafsir",
+  "seasons.ramadan"
+ ]
+}

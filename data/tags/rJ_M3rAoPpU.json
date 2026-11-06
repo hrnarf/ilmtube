@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "reminder",
+ "fingerprint": "202468eb6f8e",
+ "id": "rJ_M3rAoPpU",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Mohammad Elshinawy"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.sincerity",
+  "spirituality.overcoming-sins"
+ ]
+}

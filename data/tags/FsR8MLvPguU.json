@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "brothers"
+ ],
+ "confidence": 0.75,
+ "content_type": "reminder",
+ "fingerprint": "7be0e62d2a12",
+ "id": "FsR8MLvPguU",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Imam Tom Facchine"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.akhlaq",
+  "seerah-history.prophet-muhammad"
+ ]
+}

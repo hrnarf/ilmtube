@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.3,
+ "content_type": "other",
+ "fingerprint": "188664566723",
+ "id": "OtCS24E7iX0",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "seasons.ramadan",
+  "quran.recitation"
+ ]
+}

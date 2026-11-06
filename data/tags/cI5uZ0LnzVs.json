@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "parents"
+ ],
+ "confidence": 0.7,
+ "content_type": "reminder",
+ "fingerprint": "6d4dc3f0f78c",
+ "id": "cI5uZ0LnzVs",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.parenting"
+ ]
+}

@@ -1,0 +1,411 @@
+[
+ {
+  "children": [
+   {
+    "id": "quran.recitation",
+    "n": 15,
+    "name": "Recitation"
+   },
+   {
+    "id": "quran.tafsir",
+    "n": 81,
+    "name": "Tafsir"
+   },
+   {
+    "id": "quran.tajweed",
+    "n": 29,
+    "name": "Tajweed"
+   },
+   {
+    "id": "quran.hifz",
+    "n": 60,
+    "name": "Hifz (memorisation)"
+   },
+   {
+    "id": "quran.quran-stories",
+    "n": 2,
+    "name": "Qur'an stories"
+   }
+  ],
+  "id": "quran",
+  "n": 187,
+  "name": "Qur'an"
+ },
+ {
+  "children": [
+   {
+    "id": "aqeedah.tawheed",
+    "n": 22,
+    "name": "Tawheed"
+   },
+   {
+    "id": "aqeedah.names-of-allah",
+    "n": 30,
+    "name": "Names of Allah"
+   },
+   {
+    "id": "aqeedah.the-unseen",
+    "n": 0,
+    "name": "The unseen (angels, jinn)"
+   },
+   {
+    "id": "aqeedah.qadr",
+    "n": 6,
+    "name": "Qadr"
+   },
+   {
+    "id": "aqeedah.death-and-grave",
+    "n": 12,
+    "name": "Death & the grave"
+   },
+   {
+    "id": "aqeedah.day-of-judgement",
+    "n": 18,
+    "name": "Day of Judgement"
+   },
+   {
+    "id": "aqeedah.jannah",
+    "n": 9,
+    "name": "Jannah"
+   },
+   {
+    "id": "aqeedah.jahannam",
+    "n": 5,
+    "name": "Jahannam"
+   },
+   {
+    "id": "aqeedah.signs-of-the-hour",
+    "n": 25,
+    "name": "Signs of the Hour"
+   }
+  ],
+  "id": "aqeedah",
+  "n": 127,
+  "name": "Aqeedah (belief)"
+ },
+ {
+  "children": [
+   {
+    "id": "seerah-history.prophet-muhammad",
+    "n": 52,
+    "name": "The Prophet Muhammad ﷺ"
+   },
+   {
+    "id": "seerah-history.prophets",
+    "n": 13,
+    "name": "Stories of the prophets"
+   },
+   {
+    "id": "seerah-history.sahabah",
+    "n": 39,
+    "name": "Sahabah"
+   },
+   {
+    "id": "seerah-history.women-of-islam",
+    "n": 5,
+    "name": "Women of Islam"
+   },
+   {
+    "id": "seerah-history.islamic-history",
+    "n": 15,
+    "name": "Islamic history"
+   }
+  ],
+  "id": "seerah-history",
+  "n": 124,
+  "name": "Seerah & history"
+ },
+ {
+  "children": [
+   {
+    "id": "hadith.explanations",
+    "n": 32,
+    "name": "Hadith explanations"
+   },
+   {
+    "id": "hadith.hadith-sciences",
+    "n": 8,
+    "name": "Hadith sciences"
+   }
+  ],
+  "id": "hadith",
+  "n": 40,
+  "name": "Hadith"
+ },
+ {
+  "children": [
+   {
+    "id": "fiqh.purification",
+    "n": 4,
+    "name": "Purification"
+   },
+   {
+    "id": "fiqh.salah",
+    "n": 19,
+    "name": "Salah"
+   },
+   {
+    "id": "fiqh.fasting",
+    "n": 15,
+    "name": "Fasting"
+   },
+   {
+    "id": "fiqh.zakat-charity",
+    "n": 6,
+    "name": "Zakat & charity"
+   },
+   {
+    "id": "fiqh.hajj-umrah",
+    "n": 26,
+    "name": "Hajj & umrah"
+   },
+   {
+    "id": "fiqh.halal-haram",
+    "n": 24,
+    "name": "Halal & haram"
+   },
+   {
+    "id": "fiqh.finance-business",
+    "n": 7,
+    "name": "Finance & business"
+   },
+   {
+    "id": "fiqh.marriage-divorce",
+    "n": 4,
+    "name": "Marriage & divorce"
+   },
+   {
+    "id": "fiqh.inheritance",
+    "n": 1,
+    "name": "Inheritance"
+   },
+   {
+    "id": "fiqh.funerals",
+    "n": 2,
+    "name": "Funerals"
+   }
+  ],
+  "id": "fiqh",
+  "n": 108,
+  "name": "Fiqh"
+ },
+ {
+  "children": [
+   {
+    "id": "spirituality.dua-dhikr",
+    "n": 30,
+    "name": "Dua & dhikr"
+   },
+   {
+    "id": "spirituality.heart",
+    "n": 68,
+    "name": "The heart (tazkiyah)"
+   },
+   {
+    "id": "spirituality.patience-gratitude",
+    "n": 15,
+    "name": "Patience & gratitude"
+   },
+   {
+    "id": "spirituality.repentance",
+    "n": 24,
+    "name": "Repentance"
+   },
+   {
+    "id": "spirituality.tawakkul",
+    "n": 8,
+    "name": "Tawakkul"
+   },
+   {
+    "id": "spirituality.sincerity",
+    "n": 49,
+    "name": "Sincerity"
+   },
+   {
+    "id": "spirituality.overcoming-sins",
+    "n": 29,
+    "name": "Overcoming sins"
+   }
+  ],
+  "id": "spirituality",
+  "n": 223,
+  "name": "Spirituality"
+ },
+ {
+  "children": [
+   {
+    "id": "character-family.akhlaq",
+    "n": 85,
+    "name": "Akhlaq (manners)"
+   },
+   {
+    "id": "character-family.marriage-relationships",
+    "n": 24,
+    "name": "Marriage & relationships"
+   },
+   {
+    "id": "character-family.parenting",
+    "n": 10,
+    "name": "Parenting"
+   },
+   {
+    "id": "character-family.parents-rights",
+    "n": 8,
+    "name": "Parents' rights"
+   },
+   {
+    "id": "character-family.women",
+    "n": 11,
+    "name": "Women"
+   },
+   {
+    "id": "character-family.youth",
+    "n": 3,
+    "name": "Youth"
+   },
+   {
+    "id": "character-family.brotherhood-community",
+    "n": 28,
+    "name": "Brotherhood & community"
+   }
+  ],
+  "id": "character-family",
+  "n": 169,
+  "name": "Character & family"
+ },
+ {
+  "children": [
+   {
+    "id": "wellbeing.grief-loss",
+    "n": 4,
+    "name": "Grief & loss"
+   },
+   {
+    "id": "wellbeing.anxiety-stress",
+    "n": 6,
+    "name": "Anxiety & stress"
+   },
+   {
+    "id": "wellbeing.hope",
+    "n": 19,
+    "name": "Hope"
+   },
+   {
+    "id": "wellbeing.hardship-trials",
+    "n": 30,
+    "name": "Hardship & trials"
+   }
+  ],
+  "id": "wellbeing",
+  "n": 59,
+  "name": "Wellbeing"
+ },
+ {
+  "children": [
+   {
+    "id": "contemporary.social-media",
+    "n": 11,
+    "name": "Social media"
+   },
+   {
+    "id": "contemporary.work-career",
+    "n": 11,
+    "name": "Work & career"
+   },
+   {
+    "id": "contemporary.muslims-in-the-west",
+    "n": 15,
+    "name": "Muslims in the West"
+   },
+   {
+    "id": "contemporary.current-affairs",
+    "n": 41,
+    "name": "Current affairs"
+   },
+   {
+    "id": "contemporary.science-and-islam",
+    "n": 4,
+    "name": "Science & Islam"
+   }
+  ],
+  "id": "contemporary",
+  "n": 82,
+  "name": "Contemporary"
+ },
+ {
+  "children": [
+   {
+    "id": "dawah.reverts",
+    "n": 7,
+    "name": "Reverts"
+   },
+   {
+    "id": "dawah.christianity",
+    "n": 0,
+    "name": "Christianity"
+   },
+   {
+    "id": "dawah.atheism",
+    "n": 2,
+    "name": "Atheism"
+   },
+   {
+    "id": "dawah.debates",
+    "n": 0,
+    "name": "Debates"
+   }
+  ],
+  "id": "dawah",
+  "n": 9,
+  "name": "Dawah"
+ },
+ {
+  "children": [
+   {
+    "id": "seasons.ramadan",
+    "n": 76,
+    "name": "Ramadan"
+   },
+   {
+    "id": "seasons.laylat-al-qadr",
+    "n": 7,
+    "name": "Laylat al-Qadr"
+   },
+   {
+    "id": "seasons.eid",
+    "n": 3,
+    "name": "Eid"
+   },
+   {
+    "id": "seasons.dhul-hijjah",
+    "n": 36,
+    "name": "Dhul Hijjah"
+   },
+   {
+    "id": "seasons.muharram-ashura",
+    "n": 1,
+    "name": "Muharram & Ashura"
+   },
+   {
+    "id": "seasons.jumuah",
+    "n": 7,
+    "name": "Jumu'ah"
+   }
+  ],
+  "id": "seasons",
+  "n": 130,
+  "name": "Seasons"
+ },
+ {
+  "children": [
+   {
+    "id": "arabic.language-learning",
+    "n": 3,
+    "name": "Language learning"
+   }
+  ],
+  "id": "arabic",
+  "n": 3,
+  "name": "Arabic"
+ }
+]

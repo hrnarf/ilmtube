@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.35,
+ "content_type": "other",
+ "fingerprint": "375771c4ff81",
+ "id": "sJawSDQ23SQ",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "seerah-history.women-of-islam",
+  "seerah-history.sahabah"
+ ]
+}

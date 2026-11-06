@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "reminder",
+ "fingerprint": "c06b4a7a4fd1",
+ "id": "2-a9iQpgX3Y",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman",
+  "Sh. Ali Hammuda"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.jahannam",
+  "aqeedah.day-of-judgement"
+ ]
+}

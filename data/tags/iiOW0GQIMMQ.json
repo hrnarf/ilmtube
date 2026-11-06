@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.2,
+ "content_type": "other",
+ "fingerprint": "62e67bbee2fa",
+ "id": "iiOW0GQIMMQ",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.brotherhood-community"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "lecture",
+ "fingerprint": "fc46da34cb37",
+ "id": "EDOp5fJxUtM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman",
+  "Sh. Tahir Wyatt"
+ ],
+ "surahs": [],
+ "topics": [
+  "dawah.atheism",
+  "aqeedah.jahannam"
+ ]
+}

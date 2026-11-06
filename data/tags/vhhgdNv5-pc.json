@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "parents"
+ ],
+ "confidence": 0.4,
+ "content_type": "reminder",
+ "fingerprint": "2f58aa993c64",
+ "id": "vhhgdNv5-pc",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.parenting"
+ ]
+}

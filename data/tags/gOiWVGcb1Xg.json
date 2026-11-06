@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "reminder",
+ "fingerprint": "63a8bb65c830",
+ "id": "gOiWVGcb1Xg",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.eid",
+  "quran.recitation"
+ ]
+}

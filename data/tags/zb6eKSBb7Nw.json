@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "reminder",
+ "fingerprint": "579b8cf835c5",
+ "id": "zb6eKSBb7Nw",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Abu Bakr Zoud"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.laylat-al-qadr",
+  "seasons.ramadan"
+ ]
+}

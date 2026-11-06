@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "lecture",
+ "fingerprint": "e92dac63d8b1",
+ "id": "F_JTEP7fJE8",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.islamic-history",
+  "seasons.muharram-ashura"
+ ]
+}

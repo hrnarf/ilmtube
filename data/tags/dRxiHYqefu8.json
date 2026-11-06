@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "youth"
+ ],
+ "confidence": 0.5,
+ "content_type": "reminder",
+ "fingerprint": "e96dfe762072",
+ "id": "dRxiHYqefu8",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Waleed Basyouni"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.heart"
+ ]
+}

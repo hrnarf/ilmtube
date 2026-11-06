@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "khutbah",
+ "fingerprint": "90dab2436465",
+ "id": "S8crS4kNDAA",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "quran.quran-stories",
+  "spirituality.sincerity"
+ ]
+}

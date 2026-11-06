@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "khutbah",
+ "fingerprint": "377ac8edde29",
+ "id": "y4fGbeAApXU",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.dua-dhikr",
+  "spirituality.patience-gratitude"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "parents"
+ ],
+ "confidence": 0.7,
+ "content_type": "reminder",
+ "fingerprint": "879179560965",
+ "id": "z2BJl-BgfYo",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Mohammad Elshinawy"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.parenting",
+  "aqeedah.tawheed"
+ ]
+}

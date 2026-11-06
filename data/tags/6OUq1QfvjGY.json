@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "brothers"
+ ],
+ "confidence": 0.3,
+ "content_type": "reminder",
+ "fingerprint": "f03e17bde3fa",
+ "id": "6OUq1QfvjGY",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "character-family.akhlaq"
+ ]
+}

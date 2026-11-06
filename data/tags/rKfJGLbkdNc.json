@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "podcast",
+ "fingerprint": "0bb71890dc3e",
+ "id": "rKfJGLbkdNc",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Tesneem Alkiek"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.marriage-relationships",
+  "character-family.women"
+ ]
+}

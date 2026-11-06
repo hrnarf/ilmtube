@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.3,
+ "content_type": "other",
+ "fingerprint": "ffc00f81079e",
+ "id": "5AkaiFUw0Lc",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman",
+  "Mufti Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "wellbeing.hope"
+ ]
+}

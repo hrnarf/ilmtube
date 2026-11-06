@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "lecture",
+ "fingerprint": "51c09a84036b",
+ "id": "SAhrbiJ7vgA",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.women-of-islam",
+  "seasons.muharram-ashura"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "lecture",
+ "fingerprint": "3f03db29cd7b",
+ "id": "_MIjF-nGrE4",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.signs-of-the-hour",
+  "seerah-history.sahabah"
+ ]
+}

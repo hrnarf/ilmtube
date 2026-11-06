@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "lecture",
+ "fingerprint": "92292d3124e5",
+ "id": "RCoCpKeSkkA",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "seasons.eid",
+  "seerah-history.prophet-muhammad"
+ ]
+}

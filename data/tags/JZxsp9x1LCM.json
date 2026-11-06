@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.55,
+ "content_type": "reminder",
+ "fingerprint": "c5bcb9eae7a6",
+ "id": "JZxsp9x1LCM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sr. Sarah Sultan"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.heart",
+  "spirituality.overcoming-sins"
+ ]
+}

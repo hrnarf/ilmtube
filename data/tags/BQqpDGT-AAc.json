@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "youth",
+  "brothers"
+ ],
+ "confidence": 0.75,
+ "content_type": "reminder",
+ "fingerprint": "89b6ab60bbe8",
+ "id": "BQqpDGT-AAc",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Abdullah Oduro"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.dua-dhikr",
+  "character-family.marriage-relationships"
+ ]
+}

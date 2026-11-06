@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "reverts"
+ ],
+ "confidence": 0.6,
+ "content_type": "reminder",
+ "fingerprint": "56ce3cadc926",
+ "id": "EBCthV2X75I",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "dawah.reverts",
+  "character-family.brotherhood-community"
+ ]
+}

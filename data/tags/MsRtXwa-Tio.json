@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "lecture",
+ "fingerprint": "f98da0e38635",
+ "id": "MsRtXwa-Tio",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "aqeedah.signs-of-the-hour",
+  "seerah-history.islamic-history"
+ ]
+}

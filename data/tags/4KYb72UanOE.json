@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "reminder",
+ "fingerprint": "68b4762efc37",
+ "id": "4KYb72UanOE",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Ibrahim Hindy"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.heart",
+  "spirituality.overcoming-sins"
+ ]
+}

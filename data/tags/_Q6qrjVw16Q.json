@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.9,
+ "content_type": "reminder",
+ "fingerprint": "d562a3b926f8",
+ "id": "_Q6qrjVw16Q",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.tawakkul"
+ ]
+}

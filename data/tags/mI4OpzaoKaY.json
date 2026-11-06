@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.65,
+ "content_type": "khutbah",
+ "fingerprint": "398c33d5465c",
+ "id": "mI4OpzaoKaY",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.muslims-in-the-west",
+  "character-family.youth"
+ ]
+}

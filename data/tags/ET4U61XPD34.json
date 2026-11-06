@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.15,
+ "content_type": "reminder",
+ "fingerprint": "b10be5b294c5",
+ "id": "ET4U61XPD34",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "spirituality.heart"
+ ]
+}

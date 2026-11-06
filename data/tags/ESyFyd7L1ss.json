@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "podcast",
+ "fingerprint": "70c26b2fed9f",
+ "id": "ESyFyd7L1ss",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "hadith.explanations",
+  "character-family.marriage-relationships",
+  "character-family.women"
+ ]
+}

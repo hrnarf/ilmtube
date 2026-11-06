@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "other",
+ "fingerprint": "424bf3c15e9d",
+ "id": "SvnrucSq4Mw",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.laylat-al-qadr",
+  "fiqh.zakat-charity"
+ ]
+}

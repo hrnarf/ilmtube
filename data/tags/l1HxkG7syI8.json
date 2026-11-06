@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "parents"
+ ],
+ "confidence": 0.7,
+ "content_type": "reminder",
+ "fingerprint": "328d920f80a0",
+ "id": "l1HxkG7syI8",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "character-family.parenting"
+ ]
+}

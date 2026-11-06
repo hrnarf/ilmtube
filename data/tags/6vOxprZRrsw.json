@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "lecture",
+ "fingerprint": "2b3ba88db4ae",
+ "id": "6vOxprZRrsw",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mohammad Elshinawy"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.islamic-history",
+  "dawah.atheism"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "documentary",
+ "fingerprint": "135c8d556cc6",
+ "id": "uxdyQd8I1Sk",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "contemporary.current-affairs",
+  "wellbeing.hardship-trials"
+ ]
+}

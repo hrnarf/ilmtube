@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.65,
+ "content_type": "khutbah",
+ "fingerprint": "21f16e362fb6",
+ "id": "Sz8lRx2Hrio",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Mohammad Elshinawy"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.muslims-in-the-west",
+  "contemporary.current-affairs"
+ ]
+}

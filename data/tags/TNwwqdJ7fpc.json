@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "lecture",
+ "fingerprint": "f3f1393523df",
+ "id": "TNwwqdJ7fpc",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Abdullah Oduro"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.hajj-umrah",
+  "fiqh.salah"
+ ]
+}

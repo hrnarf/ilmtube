@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "lecture",
+ "fingerprint": "54c3b05845d2",
+ "id": "4h-LnkWAKdw",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.sahabah",
+  "character-family.marriage-relationships",
+  "seerah-history.women-of-islam"
+ ]
+}

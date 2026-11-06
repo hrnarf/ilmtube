@@ -1,0 +1,19 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "khutbah",
+ "fingerprint": "efa5a48797a6",
+ "id": "eTeQaKMfgAU",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "seerah-history.prophet-muhammad",
+  "fiqh.hajj-umrah"
+ ]
+}

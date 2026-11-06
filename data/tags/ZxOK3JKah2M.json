@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.65,
+ "content_type": "reminder",
+ "fingerprint": "ab1bbb667389",
+ "id": "ZxOK3JKah2M",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.hajj-umrah",
+  "seasons.dhul-hijjah",
+  "spirituality.dua-dhikr"
+ ]
+}

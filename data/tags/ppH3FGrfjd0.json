@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "lecture",
+ "fingerprint": "8009c9c040f2",
+ "id": "ppH3FGrfjd0",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Hassan Elwan"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.islamic-history",
+  "fiqh.hajj-umrah"
+ ]
+}

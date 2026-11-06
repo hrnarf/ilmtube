@@ -1,0 +1,35 @@
+[
+ {
+  "aliases": [
+   "Mufti Menk",
+   "Ismail Menk"
+  ],
+  "id": "ismail-menk",
+  "n": 3,
+  "name": "Mufti Ismail Menk",
+  "ns": 0,
+  "su": [
+   48,
+   49,
+   50
+  ],
+  "tp": [
+   "quran.recitation",
+   "seasons.ramadan"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "abdulrazzak-junaid",
+  "n": 2,
+  "name": "Abdulrazzak Junaid",
+  "ns": 0,
+  "su": [
+   2
+  ],
+  "tp": [
+   "quran.hifz",
+   "quran.recitation"
+  ]
+ }
+]

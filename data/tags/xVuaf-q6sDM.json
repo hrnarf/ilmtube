@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general",
+  "parents"
+ ],
+ "confidence": 0.8,
+ "content_type": "reminder",
+ "fingerprint": "fe37c5aaf356",
+ "id": "xVuaf-q6sDM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.parents-rights"
+ ]
+}

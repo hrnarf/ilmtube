@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "lecture",
+ "fingerprint": "a52bf8e52bd3",
+ "id": "iaJOGBZY0GM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Tesneem Alkiek"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.marriage-divorce",
+  "character-family.women",
+  "seerah-history.islamic-history"
+ ]
+}
