@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.9,
+ "content_type": "lecture",
+ "fingerprint": "1ffccac37685",
+ "id": "8g6g_Z_bNpA",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Abdulrahman Hassan"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.tawheed"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "khutbah",
+ "fingerprint": "988699fefec3",
+ "id": "S4ayL97D8_A",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Elshinawy"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.sahabah",
+  "spirituality.repentance"
+ ]
+}

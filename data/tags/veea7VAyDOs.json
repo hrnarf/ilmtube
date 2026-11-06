@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "lecture",
+ "fingerprint": "96cb554c3f75",
+ "id": "veea7VAyDOs",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Jinan Yousef"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.heart",
+  "seasons.ramadan"
+ ]
+}

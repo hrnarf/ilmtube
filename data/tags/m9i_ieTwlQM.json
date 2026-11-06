@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "lecture",
+ "fingerprint": "e848c621c77c",
+ "id": "m9i_ieTwlQM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman",
+  "Sh. Ali Hammuda"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.dhul-hijjah",
+  "fiqh.hajj-umrah"
+ ]
+}

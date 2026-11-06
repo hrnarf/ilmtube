@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "qa",
+ "fingerprint": "69103ca33775",
+ "id": "TDr1Pi5s8-o",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Asim Al-Qaryooti"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.marriage-relationships",
+  "spirituality.repentance"
+ ]
+}

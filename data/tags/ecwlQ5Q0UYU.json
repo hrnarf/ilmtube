@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "reminder",
+ "fingerprint": "f22d1d71eeaa",
+ "id": "ecwlQ5Q0UYU",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Dr. Asim al-Qaryooti"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.social-media"
+ ]
+}

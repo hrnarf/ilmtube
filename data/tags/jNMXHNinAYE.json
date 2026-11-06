@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "qa",
+ "fingerprint": "d9f12f95acb6",
+ "id": "jNMXHNinAYE",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Muhammad Tim Humble"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.ramadan",
+  "fiqh.fasting",
+  "contemporary.work-career"
+ ]
+}

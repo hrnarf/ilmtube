@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.9,
+ "content_type": "lecture",
+ "fingerprint": "79e9a1312cd8",
+ "id": "1JCCeBE81WQ",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.prophet-muhammad"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.3,
+ "content_type": "other",
+ "fingerprint": "6042400d25f0",
+ "id": "v1jq2qFoauQ",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Abdulrahman Hassan"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.ramadan"
+ ]
+}

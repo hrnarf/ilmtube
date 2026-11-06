@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "lecture",
+ "fingerprint": "1150b3971e6a",
+ "id": "rLnLRPfglSU",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Asim Al-Qaryooti"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.tawheed",
+  "aqeedah.names-of-allah"
+ ]
+}

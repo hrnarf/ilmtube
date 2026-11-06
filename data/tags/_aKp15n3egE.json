@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "youth"
+ ],
+ "confidence": 0.45,
+ "content_type": "reminder",
+ "fingerprint": "517de5e832b2",
+ "id": "_aKp15n3egE",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.marriage-relationships"
+ ]
+}

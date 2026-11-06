@@ -1,0 +1,23 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "lecture",
+ "fingerprint": "961afaf13894",
+ "id": "CA6ivANjzAI",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Abdulrahman Hassan"
+ ],
+ "surahs": [
+  1
+ ],
+ "topics": [
+  "quran.tafsir",
+  "quran.tajweed"
+ ]
+}

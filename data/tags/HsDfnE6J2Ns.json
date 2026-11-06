@@ -1,0 +1,23 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.9,
+ "content_type": "lecture",
+ "fingerprint": "b425929f8905",
+ "id": "HsDfnE6J2Ns",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [
+  2
+ ],
+ "topics": [
+  "quran.tafsir",
+  "quran.hifz"
+ ]
+}

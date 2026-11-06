@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "lecture",
+ "fingerprint": "57e7b36fbbb9",
+ "id": "ppi_fxOFjGE",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Muhammad Tim Humble"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.sahabah"
+ ]
+}

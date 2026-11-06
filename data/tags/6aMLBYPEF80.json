@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "lecture",
+ "fingerprint": "2ed31e0447ac",
+ "id": "6aMLBYPEF80",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Abdulrahman Hassan"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.ramadan",
+  "aqeedah.death-and-grave"
+ ]
+}

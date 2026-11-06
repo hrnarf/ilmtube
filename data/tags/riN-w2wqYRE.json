@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "lecture",
+ "fingerprint": "6d4caf1ac159",
+ "id": "riN-w2wqYRE",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Navaid Aziz"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.names-of-allah",
+  "seasons.ramadan"
+ ]
+}

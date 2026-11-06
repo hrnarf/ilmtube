@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "other",
+ "fingerprint": "bdba04f93d78",
+ "id": "uzuCeVbxTF0",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Muhammad Tim Humble",
+  "Ustadh Muhammad Huzaifah"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.dhul-hijjah",
+  "spirituality.dua-dhikr"
+ ]
+}

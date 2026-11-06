@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.2,
+ "content_type": "other",
+ "fingerprint": "f5b25ab8fd41",
+ "id": "9uMxt2JsAq0",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Muhammad Tim Humble"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.muslims-in-the-west"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "reverts"
+ ],
+ "confidence": 0.85,
+ "content_type": "reminder",
+ "fingerprint": "b09ccd73df3b",
+ "id": "1ElOyRVkXiM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Muhammad Tim Humble"
+ ],
+ "surahs": [],
+ "topics": [
+  "dawah.reverts",
+  "seasons.ramadan"
+ ]
+}

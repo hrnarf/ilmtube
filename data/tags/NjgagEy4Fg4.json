@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "lecture",
+ "fingerprint": "f9e841e9f72e",
+ "id": "NjgagEy4Fg4",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Abdulrahman Hassan"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.repentance",
+  "aqeedah.jannah"
+ ]
+}

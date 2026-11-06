@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "reminder",
+ "fingerprint": "871fc84a52ff",
+ "id": "6Ht09fwT09I",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Muhammad Tim Humble"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.repentance",
+  "spirituality.overcoming-sins"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "qa",
+ "fingerprint": "fa8bf3e3d312",
+ "id": "811ueJ1cLxs",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Asim Al-Qaryooti"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.ramadan",
+  "fiqh.fasting"
+ ]
+}

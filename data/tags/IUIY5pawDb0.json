@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "podcast",
+ "fingerprint": "c16f0addd4a2",
+ "id": "IUIY5pawDb0",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Ahmed Umar"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.finance-business",
+  "wellbeing.hardship-trials"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "khutbah",
+ "fingerprint": "ef31f0dbbf4b",
+ "id": "H3hijSGhdlo",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.dhul-hijjah",
+  "seasons.jumuah"
+ ]
+}

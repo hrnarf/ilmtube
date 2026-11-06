@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.9,
+ "content_type": "qa",
+ "fingerprint": "4d6d99fe54d2",
+ "id": "qdVqvNBzqyU",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Asim Al-Qaryooti"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.halal-haram"
+ ]
+}

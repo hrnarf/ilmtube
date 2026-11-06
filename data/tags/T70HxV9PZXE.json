@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "lecture",
+ "fingerprint": "5d3912f6d1dc",
+ "id": "T70HxV9PZXE",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Muhammad Tim Humble"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.sahabah",
+  "wellbeing.hardship-trials",
+  "spirituality.patience-gratitude"
+ ]
+}

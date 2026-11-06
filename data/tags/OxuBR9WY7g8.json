@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "lecture",
+ "fingerprint": "1a66299a6c7e",
+ "id": "OxuBR9WY7g8",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Abdulrahman Hassan"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.day-of-judgement",
+  "aqeedah.death-and-grave"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "lecture",
+ "fingerprint": "f4916052700a",
+ "id": "nCeOm7stmGU",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Abdulrahman Hassan"
+ ],
+ "surahs": [],
+ "topics": [
+  "hadith.explanations",
+  "character-family.akhlaq"
+ ]
+}

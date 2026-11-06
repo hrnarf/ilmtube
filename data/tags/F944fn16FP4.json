@@ -1,0 +1,23 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "lecture",
+ "fingerprint": "65cb2d44a78b",
+ "id": "F944fn16FP4",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Abdulrazzak Junaid"
+ ],
+ "surahs": [
+  2
+ ],
+ "topics": [
+  "quran.tajweed",
+  "quran.hifz"
+ ]
+}

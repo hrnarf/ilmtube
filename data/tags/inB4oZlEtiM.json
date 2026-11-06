@@ -1,0 +1,23 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.9,
+ "content_type": "lecture",
+ "fingerprint": "8085a08a80a7",
+ "id": "inB4oZlEtiM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Muhammad Tim Humble"
+ ],
+ "surahs": [
+  79
+ ],
+ "topics": [
+  "quran.tafsir",
+  "aqeedah.day-of-judgement"
+ ]
+}

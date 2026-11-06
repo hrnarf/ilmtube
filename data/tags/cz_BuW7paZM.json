@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "parents"
+ ],
+ "confidence": 0.9,
+ "content_type": "lecture",
+ "fingerprint": "9a883f0f1a4f",
+ "id": "cz_BuW7paZM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Muhammad Tim Humble",
+  "Ustadh Muhammad Huzaifah"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.parenting"
+ ]
+}

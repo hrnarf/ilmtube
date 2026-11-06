@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "sisters"
+ ],
+ "confidence": 0.9,
+ "content_type": "lecture",
+ "fingerprint": "02510c8cb4c6",
+ "id": "TNhIAz3M5oI",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Abdulrahman Hassan"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.women",
+  "hadith.explanations"
+ ]
+}

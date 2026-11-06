@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.9,
+ "content_type": "qa",
+ "fingerprint": "2158d7a3c401",
+ "id": "K5aQjaHqvy0",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Asim Al-Qaryooti"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.finance-business"
+ ]
+}

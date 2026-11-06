@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.95,
+ "content_type": "lecture",
+ "fingerprint": "dfbd53a62d0a",
+ "id": "Lpofl3N9fL4",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Abdulrahman Hassan"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.prophet-muhammad"
+ ]
+}

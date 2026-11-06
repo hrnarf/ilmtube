@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "lecture",
+ "fingerprint": "e8aa51b6af53",
+ "id": "xAPX6G8HaLE",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Asim Al-Qaryooti",
+  "Abdulrahman Hassan"
+ ],
+ "surahs": [],
+ "topics": [
+  "quran.tafsir",
+  "seasons.ramadan"
+ ]
+}

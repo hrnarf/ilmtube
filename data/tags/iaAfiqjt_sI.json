@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "brothers"
+ ],
+ "confidence": 0.9,
+ "content_type": "lecture",
+ "fingerprint": "43de6419fa38",
+ "id": "iaAfiqjt_sI",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Abdulrahman Hassan"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.marriage-relationships"
+ ]
+}

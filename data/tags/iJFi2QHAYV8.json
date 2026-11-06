@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "qa",
+ "fingerprint": "a63ffe06be0b",
+ "id": "iJFi2QHAYV8",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Asim Al-Qaryooti"
+ ],
+ "surahs": [],
+ "topics": [
+  "quran.recitation",
+  "quran.tajweed"
+ ]
+}

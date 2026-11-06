@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "lecture",
+ "fingerprint": "e3ae1e0a016c",
+ "id": "9spVY-J5FAg",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Muhammad Tim Humble"
+ ],
+ "surahs": [],
+ "topics": [
+  "wellbeing.hope",
+  "wellbeing.anxiety-stress",
+  "spirituality.dua-dhikr"
+ ]
+}

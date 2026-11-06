@@ -1,0 +1,23 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "lecture",
+ "fingerprint": "90d65d177f78",
+ "id": "Gd9j_R-QF7U",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Mohamed Eid Almuhairi"
+ ],
+ "surahs": [
+  10
+ ],
+ "topics": [
+  "quran.tafsir",
+  "spirituality.heart"
+ ]
+}

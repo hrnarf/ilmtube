@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "lecture",
+ "fingerprint": "ec2f8d7b778e",
+ "id": "vzJOsJAX-s0",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "hadith.explanations",
+  "fiqh.finance-business",
+  "character-family.marriage-relationships"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "khutbah",
+ "fingerprint": "626df9e30f8b",
+ "id": "pR-AfRwiLlM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Ibrahim Hindy"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.sahabah",
+  "spirituality.sincerity"
+ ]
+}

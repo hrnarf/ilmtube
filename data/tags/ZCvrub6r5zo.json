@@ -1,0 +1,23 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "lecture",
+ "fingerprint": "0dffe1224a01",
+ "id": "ZCvrub6r5zo",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Abdulrahman Hassan"
+ ],
+ "surahs": [
+  17
+ ],
+ "topics": [
+  "fiqh.salah",
+  "hadith.explanations"
+ ]
+}

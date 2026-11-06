@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "lecture",
+ "fingerprint": "4f210e362ded",
+ "id": "TYrxGEhR4Yk",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mohammad Elshinawy"
+ ],
+ "surahs": [],
+ "topics": [
+  "hadith.explanations",
+  "fiqh.fasting"
+ ]
+}

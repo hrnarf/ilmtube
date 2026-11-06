@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "youth"
+ ],
+ "confidence": 0.8,
+ "content_type": "qa",
+ "fingerprint": "b2e53cf4da2a",
+ "id": "_nDN75jo17k",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Dr. Asim Al-Qaryooti",
+  "Sheikh Muhammad Huzaifah"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.marriage-relationships",
+  "fiqh.halal-haram"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "reverts"
+ ],
+ "confidence": 0.8,
+ "content_type": "reminder",
+ "fingerprint": "3fac958c6c5b",
+ "id": "3_TAFkmlenM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "dawah.reverts"
+ ]
+}

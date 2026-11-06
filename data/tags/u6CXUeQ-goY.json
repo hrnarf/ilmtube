@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "lecture",
+ "fingerprint": "91c0de37b994",
+ "id": "u6CXUeQ-goY",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Nazir Khan"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.heart",
+  "seasons.ramadan"
+ ]
+}

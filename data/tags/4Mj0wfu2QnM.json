@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "sisters"
+ ],
+ "confidence": 0.85,
+ "content_type": "qa",
+ "fingerprint": "e5c3222cb8c3",
+ "id": "4Mj0wfu2QnM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Dr. Asim Al-Qaryooti"
+ ],
+ "surahs": [
+  33
+ ],
+ "topics": [
+  "character-family.women"
+ ]
+}

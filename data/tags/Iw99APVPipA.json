@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.65,
+ "content_type": "khutbah",
+ "fingerprint": "9fb8ad1e9389",
+ "id": "Iw99APVPipA",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Abdulrahman Hassan"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.death-and-grave",
+  "spirituality.heart"
+ ]
+}

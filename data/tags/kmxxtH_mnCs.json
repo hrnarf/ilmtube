@@ -1,0 +1,25 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "recitation",
+ "fingerprint": "d147493cb13a",
+ "id": "kmxxtH_mnCs",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": "Mufti Ismail Menk",
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [
+  48,
+  50,
+  49
+ ],
+ "topics": [
+  "quran.recitation",
+  "seasons.ramadan"
+ ]
+}

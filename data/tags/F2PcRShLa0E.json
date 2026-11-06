@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.4,
+ "content_type": "lecture",
+ "fingerprint": "e2d7e51955fc",
+ "id": "F2PcRShLa0E",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.salah",
+  "fiqh.fasting",
+  "fiqh.zakat-charity"
+ ]
+}

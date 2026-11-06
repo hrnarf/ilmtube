@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "podcast",
+ "fingerprint": "655dfec2f8c6",
+ "id": "ukxRZrg9ks4",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Muhammad Tim Humble",
+  "Sheikh Abdullahi Abdisalam"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.muslims-in-the-west"
+ ]
+}

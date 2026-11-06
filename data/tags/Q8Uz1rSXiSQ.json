@@ -1,0 +1,18 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.15,
+ "content_type": "other",
+ "fingerprint": "10d4309dd17a",
+ "id": "Q8Uz1rSXiSQ",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [],
+ "topics": [
+  "hadith.hadith-sciences"
+ ]
+}

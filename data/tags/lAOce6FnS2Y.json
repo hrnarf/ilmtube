@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "lecture",
+ "fingerprint": "d3a7d1a673ae",
+ "id": "lAOce6FnS2Y",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Mohamed Eid Almuhairi"
+ ],
+ "surahs": [
+  104
+ ],
+ "topics": [
+  "quran.tafsir"
+ ]
+}

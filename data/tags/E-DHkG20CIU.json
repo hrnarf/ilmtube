@@ -1,0 +1,24 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "lecture",
+ "fingerprint": "ba0a5eace3a7",
+ "id": "E-DHkG20CIU",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Abdulrazzak Junaid",
+  "Omar Suleiman"
+ ],
+ "surahs": [
+  2
+ ],
+ "topics": [
+  "quran.tajweed",
+  "quran.hifz"
+ ]
+}

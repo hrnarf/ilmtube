@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.2,
+ "content_type": "other",
+ "fingerprint": "98088bbbdaaf",
+ "id": "_q_sBcGq59U",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Br. Shahid Hassan"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.islamic-history"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "reminder",
+ "fingerprint": "0f1f7a33f389",
+ "id": "szah-LjLpK4",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Tom Facchine"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.prophets",
+  "contemporary.current-affairs"
+ ]
+}

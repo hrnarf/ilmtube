@@ -1,0 +1,24 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "podcast",
+ "fingerprint": "a4f6ff8920e6",
+ "id": "LwoMhQ0EKIo",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Tesneem Alkiek",
+  "Cadar Mohamud"
+ ],
+ "surahs": [
+  4
+ ],
+ "topics": [
+  "character-family.marriage-relationships",
+  "quran.tafsir"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.65,
+ "content_type": "khutbah",
+ "fingerprint": "01b5b236c03e",
+ "id": "9kEXaYOvsf0",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.death-and-grave",
+  "spirituality.sincerity"
+ ]
+}

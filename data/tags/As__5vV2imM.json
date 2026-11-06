@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.4,
+ "content_type": "lecture",
+ "fingerprint": "57a2c80328a9",
+ "id": "As__5vV2imM",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Dr. Asim al-Qaryooti"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.tawheed"
+ ]
+}

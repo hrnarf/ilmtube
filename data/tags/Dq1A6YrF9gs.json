@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "lecture",
+ "fingerprint": "b745c1417a46",
+ "id": "Dq1A6YrF9gs",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Abdulrahman Hassan"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.social-media",
+  "spirituality.sincerity"
+ ]
+}

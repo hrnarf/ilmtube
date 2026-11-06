@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "reverts"
+ ],
+ "confidence": 0.85,
+ "content_type": "qa",
+ "fingerprint": "40ee6f26b2c8",
+ "id": "8pVqsUE8u14",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Asim Al-Qaryooti",
+  "Abdulrahman Hassan"
+ ],
+ "surahs": [],
+ "topics": [
+  "dawah.reverts"
+ ]
+}

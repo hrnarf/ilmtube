@@ -1,0 +1,23 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "khutbah",
+ "fingerprint": "eadbcc1ffd78",
+ "id": "aebSVGzkgjQ",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Mohammad Elshinawy"
+ ],
+ "surahs": [
+  27
+ ],
+ "topics": [
+  "seerah-history.prophets",
+  "quran.quran-stories"
+ ]
+}

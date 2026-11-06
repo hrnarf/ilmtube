@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.7,
+ "content_type": "lecture",
+ "fingerprint": "236ececdcf6d",
+ "id": "2YYxH4AFw5U",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sadiq A. Yasin"
+ ],
+ "surahs": [],
+ "topics": [
+  "spirituality.heart",
+  "aqeedah.death-and-grave"
+ ]
+}

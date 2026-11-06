@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "khutbah",
+ "fingerprint": "1191dc92f4bf",
+ "id": "Jkc9crOaep8",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Elshinawy"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.women-of-islam",
+  "seerah-history.prophet-muhammad"
+ ]
+}

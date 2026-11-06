@@ -1,0 +1,23 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.9,
+ "content_type": "lecture",
+ "fingerprint": "0b1583d9152d",
+ "id": "QhvVx6yZh18",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Abdulrahman Hassan"
+ ],
+ "surahs": [
+  1
+ ],
+ "topics": [
+  "quran.tafsir",
+  "seasons.ramadan"
+ ]
+}

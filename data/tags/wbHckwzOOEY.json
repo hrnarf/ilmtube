@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.55,
+ "content_type": "lecture",
+ "fingerprint": "a5116b39bf8a",
+ "id": "wbHckwzOOEY",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Muhammad Huzaifah"
+ ],
+ "surahs": [],
+ "topics": [
+  "seerah-history.islamic-history"
+ ]
+}

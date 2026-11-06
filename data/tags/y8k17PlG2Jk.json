@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "other",
+ "fingerprint": "69c050ff8d12",
+ "id": "y8k17PlG2Jk",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Dr. Asim al-Qaryooti"
+ ],
+ "surahs": [],
+ "topics": [
+  "hadith.hadith-sciences"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "lecture",
+ "fingerprint": "42d8c3f4396e",
+ "id": "DLgmDOIaJs0",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Muhammad Tim Humble"
+ ],
+ "surahs": [
+  1
+ ],
+ "topics": [
+  "aqeedah.names-of-allah",
+  "quran.tafsir"
+ ]
+}

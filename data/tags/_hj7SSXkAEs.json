@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.9,
+ "content_type": "qa",
+ "fingerprint": "1c02ea6dc1ea",
+ "id": "_hj7SSXkAEs",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Dr. Asim Al-Qaryooti"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.zakat-charity"
+ ]
+}

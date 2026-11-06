@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "lecture",
+ "fingerprint": "be1ec09edc73",
+ "id": "lQ3Ikx1iazc",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mohammad Elshinawy"
+ ],
+ "surahs": [],
+ "topics": [
+  "hadith.explanations",
+  "spirituality.dua-dhikr",
+  "fiqh.halal-haram"
+ ]
+}

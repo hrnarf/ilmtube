@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.9,
+ "content_type": "reminder",
+ "fingerprint": "cf813d7fcadc",
+ "id": "EzE1TPGcGrY",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Dr. Asim Al-Qaryooti"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.jahannam"
+ ]
+}

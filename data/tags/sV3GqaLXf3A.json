@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.9,
+ "content_type": "qa",
+ "fingerprint": "57aee515b94b",
+ "id": "sV3GqaLXf3A",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Dr. Asim Al-Qaryooti"
+ ],
+ "surahs": [],
+ "topics": [
+  "fiqh.salah",
+  "spirituality.dua-dhikr"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "lecture",
+ "fingerprint": "658842120ab7",
+ "id": "PPgNSHKh60o",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [],
+ "topics": [
+  "hadith.explanations",
+  "spirituality.sincerity"
+ ]
+}

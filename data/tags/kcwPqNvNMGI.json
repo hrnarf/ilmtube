@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.95,
+ "content_type": "lecture",
+ "fingerprint": "145734a9eb85",
+ "id": "kcwPqNvNMGI",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Muhammad Tim Humble"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.jahannam"
+ ]
+}

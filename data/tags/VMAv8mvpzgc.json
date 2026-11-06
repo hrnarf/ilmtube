@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "lecture",
+ "fingerprint": "6991a1bc8a63",
+ "id": "VMAv8mvpzgc",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Ahmad Yare"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.akhlaq",
+  "spirituality.sincerity"
+ ]
+}

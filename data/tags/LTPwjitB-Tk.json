@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "reminder",
+ "fingerprint": "ba41c51b25b2",
+ "id": "LTPwjitB-Tk",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Dr. Asim Al-Qaryooti"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.ramadan",
+  "spirituality.sincerity"
+ ]
+}

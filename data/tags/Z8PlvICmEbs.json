@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.75,
+ "content_type": "lecture",
+ "fingerprint": "0350da0ae7c9",
+ "id": "Z8PlvICmEbs",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Ibrahim Hindy"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.tawheed",
+  "aqeedah.names-of-allah"
+ ]
+}

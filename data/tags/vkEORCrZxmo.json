@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "youth"
+ ],
+ "confidence": 0.8,
+ "content_type": "reminder",
+ "fingerprint": "72d7ad4a5b1f",
+ "id": "vkEORCrZxmo",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Muhammad Tim Humble"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.youth",
+  "contemporary.muslims-in-the-west"
+ ]
+}

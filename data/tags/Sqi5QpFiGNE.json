@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "khutbah",
+ "fingerprint": "efb97e377628",
+ "id": "Sqi5QpFiGNE",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mohammad Elshinawy"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.science-and-islam",
+  "contemporary.work-career"
+ ]
+}

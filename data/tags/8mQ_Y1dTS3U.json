@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "lecture",
+ "fingerprint": "bb619db56f1e",
+ "id": "8mQ_Y1dTS3U",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Ustadh Sadiq A. Yasin"
+ ],
+ "surahs": [],
+ "topics": [
+  "aqeedah.tawheed",
+  "aqeedah.names-of-allah"
+ ]
+}

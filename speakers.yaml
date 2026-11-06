@@ -1,0 +1,132 @@
+# Canonical speakers. Generated once from tagger output; now HUMAN-EDITED and authoritative.
+# Reviewer notes (NOT merged, please decide):
+#  - 'Sheikh Abu Seereen Muhammad Huzaifah' may be the same person as Muhammad Huzaifah.
+#  - 'Sh. Elshinawy' was merged into Mohammad Elshinawy (surname-only; likely the same).
+#  - 'Dr Salah' and 'Aussie Mammoth' are single mentions and unverified.
+
+- id: ismail-menk
+  name: Mufti Ismail Menk
+  aliases: [Mufti Menk, Ismail ibn Musa Menk, Ismail Menk]
+- id: omar-suleiman
+  name: Omar Suleiman
+  aliases: [Dr. Omar Suleiman]
+- id: abdulrahman-hassan
+  name: Abdulrahman Hassan
+  aliases: [Ustadh Abdulrahman Hassan]
+- id: muhammad-tim-humble
+  name: Muhammad Tim Humble
+  aliases: [Sheikh Muhammad Tim Humble, Ustadh Muhammad Tim Humble]
+- id: asim-al-qaryooti
+  name: Asim Al-Qaryooti
+  aliases: [Sheikh Dr. Asim Al-Qaryooti, Sheikh Dr. Asim al-Qaryooti]
+- id: mohammad-elshinawy
+  name: Mohammad Elshinawy
+  aliases: [Sh. Mohammad Elshinawy, Sh. Elshinawy]
+- id: tom-facchine
+  name: Tom Facchine
+  aliases: [Imam Tom Facchine]
+- id: tesneem-alkiek
+  name: Tesneem Alkiek
+  aliases: [Dr. Tesneem Alkiek]
+- id: sadiq-a-yasin
+  name: Sadiq A. Yasin
+  aliases: [Ustadh Sadiq A. Yasin]
+- id: mohamed-eid-almuhairi
+  name: Mohamed Eid AlMuhairi
+  aliases: [Sheikh Mohamed Eid Almuhairi]
+- id: abdullahi-abdisalam
+  name: Abdullahi Abdisalam
+  aliases: [Sheikh Abdullahi Abdisalam, Sheikh Abdullahi Abdissalam]
+- id: abu-bakr-al-khalafi
+  name: Abu Bakr Al-Khalafi
+  aliases: [Sheikh Abu Bakr Al-Khalafi, Sheikh Abubakar al-Khalafi]
+- id: ibrahim-bani-salamah
+  name: Ibrahim bin Khaleel Bani Salamah
+  aliases: [Sheikh Dr. Ibrahim bin Khaleel Bani Salamah, Sheikh Dr. Ibrahim ibn Khaleel Bani Salamah]
+- id: muhammad-huzaifah
+  name: Muhammad Huzaifah
+  aliases: [Sheikh Muhammad Huzaifah, Ustadh Muhammad Huzaifah]
+- id: ibn-uthaymeen
+  name: Muhammad ibn Salih al-Uthaymeen
+  aliases: []
+- id: abdulrazzak-junaid
+  name: Abdulrazzak Junaid
+  aliases: []
+- id: aussie-mammoth
+  name: Aussie Mammoth
+  aliases: []
+- id: shahid-hassan
+  name: Br. Shahid Hassan
+  aliases: []
+- id: cadar-mohamud
+  name: Cadar Mohamud
+  aliases: []
+- id: salah
+  name: Dr Salah
+  aliases: []
+- id: farah-islam
+  name: Dr. Farah Islam
+  aliases: []
+- id: jinan-yousef
+  name: Dr. Jinan Yousef
+  aliases: []
+- id: nazir-khan
+  name: Dr. Nazir Khan
+  aliases: []
+- id: ebro-ahmed
+  name: Ebro Ahmed
+  aliases: []
+- id: justin-wood
+  name: Imam Justin Wood
+  aliases: []
+- id: jamil-al-amin
+  name: Jamil Al-Amin
+  aliases: []
+- id: abdul-rahman-waheed
+  name: Mufti Abdul Rahman Waheed
+  aliases: []
+- id: renad-attalah
+  name: Renad Attalah
+  aliases: []
+- id: abu-bakr-zoud
+  name: Sh. Abu Bakr Zoud
+  aliases: []
+- id: ali-hammuda
+  name: Sh. Ali Hammuda
+  aliases: []
+- id: ammar-alshukry
+  name: Sh. Ammar AlShukry
+  aliases: []
+- id: ibrahim-hindy
+  name: Sh. Ibrahim Hindy
+  aliases: []
+- id: mikaeel-smith
+  name: Sh. Mikaeel Smith
+  aliases: []
+- id: navaid-aziz
+  name: Sh. Navaid Aziz
+  aliases: []
+- id: yaser-birjas
+  name: Sh. Yaser Birjas
+  aliases: []
+- id: abu-seereen-muhammad-huzaifah
+  name: Sheikh Abu Seereen Muhammad Huzaifah
+  aliases: []
+- id: ahmad-yare
+  name: Sheikh Ahmad Yare
+  aliases: []
+- id: ahmed-umar
+  name: Sheikh Ahmed Umar
+  aliases: []
+- id: haytham-sarhan
+  name: Sheikh Haytham Sarhan
+  aliases: []
+- id: muhammad-hisham-at-tahiri
+  name: Sheikh Muhammad Hisham at-Tahiri
+  aliases: []
+- id: muhammad-ibn-salih-al-uthaymeen
+  name: Sheikh Muhammad ibn Salih al-Uthaymeen
+  aliases: []
+- id: zahir-mahmood
+  name: Zahir Mahmood
+  aliases: []

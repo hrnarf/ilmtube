@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.3,
+ "content_type": "other",
+ "fingerprint": "6cc030fcaf43",
+ "id": "455zqxb7M0c",
+ "not_content": true,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Tesneem Alkiek",
+  "Cadar Mohamud"
+ ],
+ "surahs": [],
+ "topics": [
+  "hadith.hadith-sciences"
+ ]
+}

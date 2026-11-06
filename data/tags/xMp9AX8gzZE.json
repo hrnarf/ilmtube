@@ -1,0 +1,24 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.55,
+ "content_type": "lecture",
+ "fingerprint": "474e96e3beca",
+ "id": "xMp9AX8gzZE",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Omar Suleiman"
+ ],
+ "surahs": [
+  5
+ ],
+ "topics": [
+  "quran.tafsir",
+  "character-family.akhlaq",
+  "seerah-history.sahabah"
+ ]
+}

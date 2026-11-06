@@ -12,7 +12,7 @@ from collections import Counter
 import yaml
 from .common import DATA, ROOT, read_json, write_json
 
-TITLES = r"\b(sheikh|shaykh|shaikh|imam|imaam|dr|ustadh|ustadha|ustaz|mufti|maulana|moulana|mawlana|prof|professor|hafiz|qari|qaari|br|brother|sr|sister)\b\.?"
+TITLES = r"\b(sh|sheikh|shaykh|shaikh|imam|imaam|dr|ustadh|ustadha|ustaz|mufti|maulana|moulana|mawlana|prof|professor|hafiz|qari|qaari|br|brother|sr|sister)\b\.?"
 
 
 def key(name: str) -> str:

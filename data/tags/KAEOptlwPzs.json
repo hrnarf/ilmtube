@@ -1,0 +1,23 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.6,
+ "content_type": "lecture",
+ "fingerprint": "c2fe44c854ab",
+ "id": "KAEOptlwPzs",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Abdulrahman Hassan"
+ ],
+ "surahs": [
+  25
+ ],
+ "topics": [
+  "character-family.akhlaq",
+  "quran.tafsir"
+ ]
+}

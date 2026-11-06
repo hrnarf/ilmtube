@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "youth"
+ ],
+ "confidence": 0.7,
+ "content_type": "lecture",
+ "fingerprint": "73b6a9bd1897",
+ "id": "O1kR9d634kw",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Mufti Ismail Menk"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.marriage-relationships",
+  "fiqh.marriage-divorce"
+ ]
+}

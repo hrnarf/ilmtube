@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "recitation",
+ "fingerprint": "8b8335458338",
+ "id": "KzS0Hwf_ak8",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": "Abdulrazzak Junaid",
+ "riwayah": null,
+ "speakers": [],
+ "surahs": [
+  2
+ ],
+ "topics": [
+  "quran.hifz",
+  "quran.recitation"
+ ]
+}

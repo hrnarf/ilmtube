@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.5,
+ "content_type": "lecture",
+ "fingerprint": "d778f861bc58",
+ "id": "F_MtzSKyghg",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Muhammad Tim Humble"
+ ],
+ "surahs": [],
+ "topics": [
+  "contemporary.work-career",
+  "spirituality.sincerity"
+ ]
+}

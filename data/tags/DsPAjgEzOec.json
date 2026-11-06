@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "podcast",
+ "fingerprint": "e2a01da2552a",
+ "id": "DsPAjgEzOec",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Dr. Tesneem Alkiek",
+  "Cadar Mohamud"
+ ],
+ "surahs": [],
+ "topics": [
+  "character-family.marriage-relationships",
+  "hadith.explanations"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.9,
+ "content_type": "reminder",
+ "fingerprint": "c6dfafc5a135",
+ "id": "izbAbavYRfQ",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sheikh Dr. Asim Al-Qaryooti"
+ ],
+ "surahs": [],
+ "topics": [
+  "arabic.language-learning"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.85,
+ "content_type": "podcast",
+ "fingerprint": "fdd9c3193e7a",
+ "id": "teLgL8sCNF4",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Tesneem Alkiek",
+  "Cadar Mohamud"
+ ],
+ "surahs": [],
+ "topics": [
+  "hadith.explanations",
+  "character-family.women"
+ ]
+}

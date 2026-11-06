@@ -1,0 +1,21 @@
+{
+ "audience": [
+  "general"
+ ],
+ "confidence": 0.8,
+ "content_type": "lecture",
+ "fingerprint": "6d0120b523a4",
+ "id": "52HgWWGzEik",
+ "not_content": false,
+ "prompt_version": "v1",
+ "reciter": null,
+ "riwayah": null,
+ "speakers": [
+  "Sh. Abu Bakr Zoud"
+ ],
+ "surahs": [],
+ "topics": [
+  "seasons.laylat-al-qadr",
+  "seasons.ramadan"
+ ]
+}
