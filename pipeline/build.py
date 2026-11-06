@@ -54,7 +54,7 @@ def main():
     for ch in channels:
         pls = read_json(DATA / "raw" / ch["id"] / "playlists.json", {"playlists": {}})["playlists"]
         for pid, p in pls.items():
-            if p["title"].strip().lower() in SKIP_SERIES:
+            if p["title"].strip().lower() in SKIP_SERIES or re.search(r"\bshorts?\b", p["title"], re.I):
                 continue
             eps = [x for x in p["items"] if x in inlib]
             if len(eps) < 3:
@@ -65,7 +65,7 @@ def main():
                 vid_series[x].append([si, n])
 
     sp_ids = lambda t: sorted({nmap["speakers"][s] for s in t["speakers"] if s in nmap["speakers"]})
-    videos, shorts = [], []
+    videos, shorts, descs = [], [], {}
     for v in kept:
         t, r = tags[v["id"]], rank.get(v["id"], {"q": 0})
         rec = {"id": v["id"], "c": cidx[v["channel_id"]], "t": v["title"], "p": v["published"][:10], "s": v["seconds"], "v": v["views"],
@@ -76,7 +76,7 @@ def main():
         if v["is_short"]:
             shorts.append(rec)
         else:
-            rec["d"] = clean_desc(v["description"])
+            descs[v["id"]] = clean_desc(v["description"])
             rec["tr"] = r.get("trend", 0)
             rec["se"] = vid_series.get(v["id"], [])
             videos.append(rec)
@@ -120,6 +120,7 @@ def main():
 
     write_json(OUT / "videos.json", videos)
     write_json(OUT / "shorts.json", shorts)
+    write_json(OUT / "desc.json", descs)
     write_json(OUT / "channels.json", chans)
     write_json(OUT / "topics.json", topics)
     write_json(OUT / "speakers.json", entities("speakers.yaml", "sp"))

@@ -95,7 +95,7 @@ Every stage (fetch, tag, build) must respect `max_videos_per_channel`. Raising i
 ### 3.3 `clean.py`: rule-based exclusion
 
 Exclude, but record the reason in `data/excluded.json`:
-- **Shorts:** duration ≤ 180s **and** `HEAD https://www.youtube.com/shorts/{id}` returns 200 (it redirects for normal videos). Keep a config flag `include_shorts: false`.
+- **Shorts:** duration ≤ 180s **and** `HEAD https://www.youtube.com/shorts/{id}` returns 200 (it redirects for normal videos). Config flag `include_shorts`: when `true` (owner decision), Shorts are kept and flagged `is_short`, tagged like other videos, and shown only in their own **Shorts** section of the site (not in search, shelves or topic pages); when `false` they are excluded. Clips under 60s that are *not* Shorts are still excluded as trailers/bumpers.
 - `liveBroadcastContent` set to `upcoming` or `live`; videos that aren't public or embeddable (`status.embeddable == false`).
 - Duration < 60s for non-Shorts (trailers, bumpers).
 - Anything left ambiguous (e.g. "LIVE NOW", "Appeal", "Donate", "Trailer", "Announcement") goes to the tagger, which can return `not_content: true`.
@@ -190,6 +190,7 @@ The topic tree is fixed. The LLM may only choose from it. Two levels; slugs in `
   - **Browse by surah**: a 114-surah grid. Each surah page shows *recitations* (grouped by reciter) **and** *tafsir and lectures* about that surah. This cross-link is a key feature.
   - **Reciters**: a directory with a card per reciter (video count, surahs covered, riwayah if known).
   - **New reciters**: reciters first seen in the last 60 days, plus anything recently approved from discovery (§6).
+- **Shorts** (`/shorts`): grid of short clips with topic filter and an in-page player; kept out of search and shelves.
 - **Library**: Watch later, history and liked items (localStorage). **Export/import JSON** so a family can move their history between devices.
 
 **Seasonal shelf.** Compute the Hijri date on the client with `Intl.DateTimeFormat('en-u-ca-islamic-umalqura')`:
