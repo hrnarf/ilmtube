@@ -81,7 +81,7 @@ def write_batches(vids: list[dict], start: int = 1) -> int:
                 f.write(json.dumps({
                     "id": v["id"], "title": v["title"], "description": v["description"][:1500],
                     "channel": v["channel"], "kind": v["kind"], "single_speaker_hint": v["single_speaker"],
-                    "playlists": pls.get(v["id"], [])[:8], "seconds": v["seconds"],
+                    "playlists": pls.get(v["id"], [])[:8], "seconds": v["seconds"], "is_short": v.get("is_short", False),
                 }, ensure_ascii=False) + "\n")
     return n
 
@@ -90,8 +90,9 @@ def prepare():
     clean = read_json(DATA / "videos_clean.json", [])
     todo = [v for v in clean if needs_tag(v)]
     for old in QUEUE.glob("batch_*.jsonl") if QUEUE.exists() else []:
-        old.unlink()
-    n = write_batches(todo)
+        old.unlink()  # queue holds only pending work; finished raw outputs stay in tag_out/
+    start = max([int(p.stem.split('_')[1]) for p in OUT.glob('batch_*.jsonl')] + [0]) + 1
+    n = write_batches(todo, start)
     print(f"{len(todo)} videos to tag -> {n} batches in {QUEUE}")
 
 
@@ -124,7 +125,7 @@ def validate():
     for vid, why in list(failed.items())[:10]:
         print(f"  {vid}: {why}")
     if missing:
-        nxt = max([int(p.stem.split('_')[1]) for p in QUEUE.glob('batch_*.jsonl')] + [0]) + 1
+        nxt = max([int(p.stem.split('_')[1]) for p in [*QUEUE.glob('batch_*.jsonl'), *OUT.glob('batch_*.jsonl')]] + [0]) + 1
         n = write_batches(missing, nxt)
         print(f"re-queued {len(missing)} videos in {n} new batch file(s) starting batch_{nxt:03d}")
     return len(missing)
