@@ -3,7 +3,8 @@ import { Footer, Header } from "./components";
 import { DataCtx } from "./ctx";
 import { loadData, type Data } from "./lib/data";
 import { useRoute } from "./lib/router";
-import { Home, Search, SeriesPage, Shorts, Speaker, Topic, Topics, Watch } from "./pages";
+import { Home, Search, SeriesPage, Speaker, Topic, Topics, Watch } from "./pages";
+import { Shorts } from "./shorts";
 
 export function App() {
   const route = useRoute();
@@ -19,8 +20,12 @@ export function App() {
     case "speaker": page = <Speaker route={route} />; break;
     case "series": page = <SeriesPage route={route} />; break;
     case "watch": page = <Watch route={route} />; break;
-    case "shorts": page = <Shorts route={route} />; break;
+    case "shorts": page = <Shorts key={route.query.toString()} route={route} />; break;
     default: page = <Home />;
+  }
+  if (route.path[0] === "shorts") {
+    // Immersive feed: no site header or footer.
+    return err ? <main><p class="empty">Couldn't load the library: {err}</p></main> : data ? <DataCtx.Provider value={data}>{page}</DataCtx.Provider> : <div class="reelwrap"><p class="reel-msg">Loading…</p></div>;
   }
   return (
     <>

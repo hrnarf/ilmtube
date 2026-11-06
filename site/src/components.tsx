@@ -76,7 +76,7 @@ export function Chip({ href: h, on, children }: { href: string; on?: boolean; ch
 
 declare global { interface Window { YT?: any; onYouTubeIframeAPIReady?: () => void } }
 let ytReady: Promise<void> | null = null;
-function loadYT(): Promise<void> {
+export function loadYT(): Promise<void> {
   if (window.YT?.Player) return Promise.resolve();
   ytReady ??= new Promise((res, rej) => {
     const prev = window.onYouTubeIframeAPIReady;

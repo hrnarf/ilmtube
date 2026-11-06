@@ -2,7 +2,7 @@ import { useEffect, useMemo, useState } from "preact/hooks";
 import { Chip, Player, ProgressBar, Shelf, VideoCard } from "./components";
 import { useData } from "./ctx";
 import type { Data, Video } from "./lib/data";
-import { fetchIndex, loadDescs, loadShorts } from "./lib/data";
+import { fetchIndex, loadDescs } from "./lib/data";
 import { ago, dur, thumb, views, ytLink } from "./lib/format";
 import { go, href, type Route } from "./lib/router";
 import { fraction, getHistory, getProgress, isDone, getLater, toggleLater } from "./lib/store";
@@ -270,46 +270,6 @@ export function Watch({ route }: { route: Route }) {
         <a class="btn ghost" href={ytLink(v.id)} target="_blank" rel="noopener">Watch on YouTube ↗</a>
       </div>
       <aside class="side"><h2>Up next</h2>{nextUp.map((x) => <VideoCard v={x} compact />)}</aside>
-    </main>
-  );
-}
-
-// ---------- shorts (own section; excluded from search and shelves) ----------
-export function Shorts({ route }: { route: Route }) {
-  const d = useData();
-  const topic = route.query.get("topic") ?? "";
-  const [all, setAll] = useState<Video[] | null>(null);
-  const [open, setOpen] = useState<string | null>(null);
-  const [n, setN] = useState(48);
-  useEffect(() => { loadShorts().then(setAll); }, []);
-  if (!all) return <main><h1>Shorts</h1><Empty>Loading…</Empty></main>;
-  const list = all.filter((v) => !topic || v.tp.some((t) => t.startsWith(topic)));
-  const parents = d.topics.filter((p) => all.some((v) => v.tp.some((t) => t.startsWith(`${p.id}.`))));
-  const cur = open ? all.find((v) => v.id === open) : null;
-  const idx = cur ? list.findIndex((v) => v.id === cur.id) : -1;
-  return (
-    <main>
-      <h1>Shorts <small class="dim">{list.length} clips</small></h1>
-      <p class="dim">Short clips from the same channels. Many are excerpts from longer talks, so use “Watch on YouTube” for the full video.</p>
-      <div class="chips"><Chip href={href("/shorts")} on={!topic}>All</Chip>{parents.map((p) => <Chip href={href("/shorts", { topic: p.id })} on={topic === p.id}>{p.name}</Chip>)}</div>
-      <div class="shorts">{list.slice(0, n).map((v) => (
-        <button class="short" onClick={() => setOpen(v.id)}><img src={thumb(v.id)} alt="" loading="lazy" /><span>{v.t}</span></button>
-      ))}</div>
-      {list.length > n && <button class="more" onClick={() => setN(n + 48)}>Show more</button>}
-      {cur && (
-        <div class="modal" role="dialog" aria-label={cur.t} onClick={(e) => { if (e.target === e.currentTarget) setOpen(null); }}>
-          <div class="sheet">
-            <button class="x" aria-label="Close" onClick={() => setOpen(null)}>✕</button>
-            <Player id={cur.id} autoplay />
-            <h3>{cur.t}</h3>
-            <p class="dim">{d.channels[cur.c].t} · {views(cur.v)} · {ago(cur.p)}</p>
-            <div class="nav2">
-              <button disabled={idx <= 0} onClick={() => setOpen(list[idx - 1].id)}>‹ Prev</button>
-              <button disabled={idx < 0 || idx >= list.length - 1} onClick={() => setOpen(list[idx + 1].id)}>Next ›</button>
-            </div>
-          </div>
-        </div>
-      )}
     </main>
   );
 }
