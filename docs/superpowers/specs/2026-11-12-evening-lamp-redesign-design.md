@@ -1,6 +1,6 @@
 # Evening lamp redesign + Library page: design
 
-**Status:** draft for owner approval, 2026-11-12. Requirements input: SPEC.md §5 (site), the owner's
+**Status:** draft for owner approval, 2026-11-12 (builder check done; owner answered the Library question). Requirements input: SPEC.md §5 (site), the owner's
 choices in chat, and the approved mockups at https://claude.ai/artifact/MV1n5M2nnxFnthSYThWbvN
 (version 5, option "Deepest navy").
 
@@ -61,12 +61,22 @@ stores them (`site/src/lib/store.ts`) but has nowhere to show them.
   Nowhere else.
 
 ## Design decisions (builder's calls, proposed; owner may correct)
-- **Home:** the first block is the lamp panel. If there is something to resume, it says
-  "Carry on with "<title>"", names the series/episode or speaker, and has "Resume at mm:ss". With no
-  history yet, the panel holds the search box and the line "Search lectures, speakers and surahs"
-  instead. Shelves follow as today (Continue series, For you, New & noteworthy, Browse topics).
-- **Header:** logo "Ilm" in moon cream + "Tube" in lamplight (Literata); menu: Topics, Shorts, Library;
-  the search field stays in the header on every page except Home's first panel.
+- **Home, top:** the first block is the lamp panel.
+  - *Something to resume* = the most recently watched video that is started (> 5 s) and unfinished
+    (< 92%), the same filter Home uses today. If the most recent video is a finished series episode
+    and the series has a next episode, offer that next episode instead ("Start episode N"). Otherwise
+    fall back to the most recent unfinished video. If there is none, use the no-history state.
+  - *With something to resume:* "Carry on with "<title>"", the series/episode or speaker, and
+    "Resume at mm:ss". A search box sits directly under the panel (as in the mockup).
+  - *No history yet:* the panel itself holds the search box and the line "Search lectures, speakers
+    and surahs".
+  - So Home always has its search near the top (SPEC §5.1 "big search bar at the top" still holds), and
+    the header hides its own search field on Home only.
+- **Home, shelves:** all of today's shelves stay, in today's order: Continue watching (other
+  half-watched videos, excluding the one in the lamp panel), Continue series, For you, Watch later,
+  New & noteworthy, Browse topics, and the Shorts teaser.
+- **Header:** logo "Ilm" in moon cream + "Tube" in lamplight (Literata); menu: Topics, Shorts, Library
+  (the mockup's "Quran" link waits for M4); the search field shows on every page except Home.
 - **Cards:** thumbnail with rounded corners and duration badge, then title and speaker as plain text
   on the page background, no card box, border or shadow. Panels (dusk) are reserved for things that
   group content: the lamp panel, the search box, the surah row, filter bars.
@@ -87,14 +97,22 @@ stores them (`site/src/lib/store.ts`) but has nowhere to show them.
   "Watch later" button stays (restyled) and is how items are added.
 - **History:** most recently watched first, using `Progress.at`. Each card shows the progress bar and
   "Watched <ago>". Each card has a "Remove" control; the section has "Clear history", which asks for
-  confirmation inside the page (two-step button, no browser dialog) before deleting.
+  confirmation inside the page (two-step button, no browser dialog).
+- **Remove / Clear only hide (owner decision, option B).** They take videos off the History list but
+  keep the progress records, so resume points, thumbnail progress bars, Continue watching/series and
+  "For you" are unaffected. Store: a `hidden` set (or a per-record `hiddenAt`) in the same
+  `localStorage` state; watching a hidden video again makes it reappear in History (its `at` is newer
+  than when it was hidden). The confirm text: "Clear your watch history list? Where you stopped in
+  each video is kept."
 - **Finished videos** (≥ 92%, `isDone`) stay in History and show "Watched" instead of a resume point.
 - **Shorts** do not appear in History (they are not saved there today) or Watch later.
 - **Empty states:** Watch later empty: "Save videos to watch later from any video page." History empty:
   "Videos you watch will appear here." Each links to Topics.
 - **Privacy line** under the heading: "Saved on this device only. Nothing to sign in to."
-- `store.ts` needs: `removeFromHistory(id)`, `clearHistory()`, and `removeLater(id)` (or reuse
-  `toggleLater`). Tests cover these.
+- `store.ts` needs: `hideFromHistory(id)`, `clearHistoryList()` (hides all current entries),
+  `historyList()` (visible entries, newest first), and `removeLater(id)` (or reuse `toggleLater`).
+  Existing stored data (`ilmtube:v1`) must keep working: a missing hidden set means nothing hidden.
+  Tests cover these.
 
 ## Testing and verification
 - Unit tests (Vitest, added as a dev dependency) for the new `store.ts` functions and the Library's
@@ -108,6 +126,7 @@ stores them (`site/src/lib/store.ts`) but has nowhere to show them.
 ## SPEC.md changes (part of this work)
 - §5.1 Library: remove "Export/import JSON"; Library = Watch later + History.
 - §5.3 UX notes: "Light and dark themes" becomes "Dark only (Evening lamp)".
+- §7 M4 row: drop "library export/import" (the Library itself ships in this work).
 
 ## Left to the builder
 Exact type scale and spacing values; how to subset and bundle the fonts (e.g. `@fontsource` packages);
