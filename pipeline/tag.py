@@ -1,8 +1,8 @@
 """LLM tagging orchestration. The tagging itself is done by Claude Code subagents (no API).
 
   python -m pipeline.tag prepare   -> data/tag_queue/batch_NNN.jsonl (untagged/stale videos, ~150 each)
-  (subagents read a batch + prompts/tag_v1.md, write data/tag_out/batch_NNN.jsonl)
-  python -m pipeline.tag validate  -> validates tag_out against schema + taxonomy, writes data/tags/<id>.json,
+  (subagents read a batch + prompts/tag_v2.md, write data/tag_out/batch_NNN.jsonl)
+  python -m pipeline.tag validate [model]  -> validates tag_out against schema + taxonomy, writes data/tags/<id>.json,
                                       re-queues failures (a fresh batch of only failed ids)
   python -m pipeline.tag report    -> reports/low_confidence.md + reports/tagging_sample.md
 """
@@ -12,10 +12,11 @@ from typing import Literal
 from pydantic import BaseModel, Field, ValidationError, field_validator
 from .common import DATA, ROOT, load_yaml, read_json, write_json, config
 
-PROMPT_VERSION = "v1"
+PROMPT_VERSION = "v2"
+DEFAULT_MODEL = "claude-opus-5-5"  # recorded in each tag file; v2 tagging run by Opus 5.5, medium thinking
 BATCH = 150
-QUEUE, OUT, TAGS = DATA / "tag_queue", DATA / "tag_out", DATA / "tags"
-ContentType = Literal["lecture", "reminder", "khutbah", "qa", "podcast", "debate", "recitation", "documentary", "kids", "nasheed", "other"]
+QUEUE, OUT, TAGS = DATA / "tag_queue", DATA / "tag_out" / PROMPT_VERSION, DATA / "tags"  # outputs kept per prompt version
+ContentType = Literal["lecture", "reminder", "khutbah", "qa", "podcast", "debate", "recitation", "documentary", "kids", "nasheed", "news", "other"]
 Audience = Literal["general", "youth", "sisters", "brothers", "reverts", "kids", "parents"]
 
 
@@ -57,7 +58,8 @@ def fingerprint(v: dict) -> str:
 
 def playlist_titles() -> dict[str, list[str]]:
     out: dict[str, list[str]] = {}
-    for ch in (DATA / "raw").iterdir():
+    raw = DATA / "raw"
+    for ch in raw.iterdir() if raw.exists() else []:
         pl = read_json(ch / "playlists.json", {"playlists": {}})["playlists"]
         for p in pl.values():
             for vid in p["items"]:
@@ -96,7 +98,7 @@ def prepare():
     print(f"{len(todo)} videos to tag -> {n} batches in {QUEUE}")
 
 
-def validate():
+def validate(model: str = DEFAULT_MODEL):
     clean = {v["id"]: v for v in read_json(DATA / "videos_clean.json", [])}
     TAGS.mkdir(parents=True, exist_ok=True)
     ok, failed = 0, {}
@@ -118,7 +120,7 @@ def validate():
                 else:
                     print(f"  {f.name}:{ln} unparseable line")
                 continue
-            write_json(TAGS / f"{tag.id}.json", {**tag.model_dump(), "prompt_version": PROMPT_VERSION, "fingerprint": fingerprint(clean[tag.id])})
+            write_json(TAGS / f"{tag.id}.json", {**tag.model_dump(), "prompt_version": PROMPT_VERSION, "model": model, "fingerprint": fingerprint(clean[tag.id])})
             ok += 1
     missing = [v for v in clean.values() if needs_tag(v)]
     print(f"valid tags written: {ok}; invalid: {len(failed)}; still untagged: {len(missing)}")
@@ -152,4 +154,4 @@ def report():
 
 
 if __name__ == "__main__":
-    {"prepare": prepare, "validate": validate, "report": report}[sys.argv[1]]()
+    {"prepare": prepare, "validate": validate, "report": report}[sys.argv[1]](*sys.argv[2:])
