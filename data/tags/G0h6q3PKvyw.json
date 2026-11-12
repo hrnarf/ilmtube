@@ -2,18 +2,18 @@
  "audience": [
   "general"
  ],
- "confidence": 0.45,
+ "confidence": 0.5,
  "content_type": "reminder",
  "fingerprint": "0086e393204d",
  "id": "G0h6q3PKvyw",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
-  "contemporary.work-career",
-  "spirituality.heart"
+  "contemporary.work-career"
  ]
 }

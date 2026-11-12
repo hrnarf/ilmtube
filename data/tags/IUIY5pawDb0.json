@@ -2,16 +2,18 @@
  "audience": [
   "general"
  ],
- "confidence": 0.8,
+ "confidence": 0.9,
  "content_type": "podcast",
  "fingerprint": "c16f0addd4a2",
  "id": "IUIY5pawDb0",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Sheikh Ahmed Umar"
+  "Sheikh Ahmed Umar",
+  "Brother Shahid Hassan"
  ],
  "surahs": [],
  "topics": [

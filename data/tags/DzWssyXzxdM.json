@@ -6,16 +6,18 @@
  "content_type": "lecture",
  "fingerprint": "0ddabd3b7d41",
  "id": "DzWssyXzxdM",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Abdulrahman Hassan"
+  "Ustadh Abdulrahman Hassan"
  ],
  "surahs": [],
  "topics": [
   "character-family.akhlaq",
+  "spirituality.overcoming-sins",
   "seasons.ramadan"
  ]
 }

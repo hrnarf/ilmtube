@@ -6,12 +6,13 @@
  "content_type": "lecture",
  "fingerprint": "20df8fb4defc",
  "id": "DbCXD3mWVjk",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Abdulrahman Hassan"
+  "Ustadh Abdurahman Hassan"
  ],
  "surahs": [
   49

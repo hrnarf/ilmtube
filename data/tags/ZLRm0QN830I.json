@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.8,
+ "confidence": 0.85,
  "content_type": "lecture",
  "fingerprint": "b9b8b4841ac6",
  "id": "ZLRm0QN830I",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -17,6 +18,7 @@
  "surahs": [],
  "topics": [
   "aqeedah.jannah",
+  "aqeedah.jahannam",
   "seasons.dhul-hijjah"
  ]
 }

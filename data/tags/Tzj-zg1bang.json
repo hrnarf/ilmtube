@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.6,
+ "confidence": 0.75,
  "content_type": "reminder",
  "fingerprint": "14a6d40175af",
  "id": "Tzj-zg1bang",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,6 @@
  ],
  "surahs": [],
  "topics": [
-  "contemporary.muslims-in-the-west",
-  "dawah.reverts"
+  "contemporary.muslims-in-the-west"
  ]
 }

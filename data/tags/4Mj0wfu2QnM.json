@@ -6,17 +6,17 @@
  "content_type": "qa",
  "fingerprint": "e5c3222cb8c3",
  "id": "4Mj0wfu2QnM",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Sheikh Dr. Asim Al-Qaryooti"
+  "Asim Al-Qaryooti"
  ],
- "surahs": [
-  33
- ],
+ "surahs": [],
  "topics": [
-  "character-family.women"
+  "character-family.women",
+  "fiqh.halal-haram"
  ]
 }

@@ -6,8 +6,9 @@
  "content_type": "reminder",
  "fingerprint": "988af4faacc9",
  "id": "Y9lVt08FJ4w",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "character-family.marriage-relationships"
+  "character-family.marriage-relationships",
+  "aqeedah.day-of-judgement"
  ]
 }

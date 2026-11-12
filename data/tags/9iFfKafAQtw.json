@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.7,
+ "confidence": 0.8,
  "content_type": "reminder",
  "fingerprint": "17de87e1d83b",
  "id": "9iFfKafAQtw",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -16,7 +17,7 @@
  ],
  "surahs": [],
  "topics": [
-  "aqeedah.jahannam",
-  "fiqh.zakat-charity"
+  "fiqh.zakat-charity",
+  "aqeedah.jahannam"
  ]
 }

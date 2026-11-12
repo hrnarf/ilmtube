@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.65,
+ "confidence": 0.75,
  "content_type": "lecture",
  "fingerprint": "78650831130f",
  "id": "ttoqvhojgUg",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,8 @@
  ],
  "surahs": [],
  "topics": [
-  "seasons.ramadan",
-  "hadith.hadith-sciences"
+  "hadith.hadith-sciences",
+  "spirituality.heart",
+  "seasons.ramadan"
  ]
 }

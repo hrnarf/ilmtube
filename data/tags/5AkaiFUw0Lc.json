@@ -2,20 +2,20 @@
  "audience": [
   "general"
  ],
- "confidence": 0.3,
- "content_type": "other",
+ "confidence": 0.4,
+ "content_type": "reminder",
  "fingerprint": "ffc00f81079e",
  "id": "5AkaiFUw0Lc",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Omar Suleiman",
   "Mufti Menk"
  ],
  "surahs": [],
  "topics": [
-  "wellbeing.hope"
+  "character-family.brotherhood-community"
  ]
 }

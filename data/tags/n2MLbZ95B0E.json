@@ -2,17 +2,19 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
- "content_type": "other",
+ "confidence": 0.55,
+ "content_type": "news",
  "fingerprint": "c2ef29f2e5ee",
  "id": "n2MLbZ95B0E",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
+  "contemporary.politics",
   "contemporary.current-affairs"
  ]
 }

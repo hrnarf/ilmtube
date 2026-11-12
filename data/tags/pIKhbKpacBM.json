@@ -2,19 +2,18 @@
  "audience": [
   "general"
  ],
- "confidence": 0.2,
- "content_type": "qa",
+ "confidence": 0.35,
+ "content_type": "other",
  "fingerprint": "2c858600908a",
  "id": "pIKhbKpacBM",
- "not_content": false,
- "prompt_version": "v1",
+ "model": "claude-opus-5-5",
+ "not_content": true,
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
- "speakers": [
-  "Mufti Ismail Menk"
- ],
+ "speakers": [],
  "surahs": [],
  "topics": [
-  "fiqh.halal-haram"
+  "spirituality.dua-dhikr"
  ]
 }

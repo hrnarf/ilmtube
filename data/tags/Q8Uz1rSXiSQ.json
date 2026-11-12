@@ -2,17 +2,18 @@
  "audience": [
   "general"
  ],
- "confidence": 0.15,
+ "confidence": 0.3,
  "content_type": "other",
  "fingerprint": "10d4309dd17a",
  "id": "Q8Uz1rSXiSQ",
+ "model": "claude-opus-5-5",
  "not_content": true,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
-  "hadith.hadith-sciences"
+  "seerah-history.islamic-history"
  ]
 }

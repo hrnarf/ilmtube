@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.85,
+ "confidence": 0.9,
  "content_type": "khutbah",
  "fingerprint": "eadbcc1ffd78",
  "id": "aebSVGzkgjQ",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -17,7 +18,7 @@
   27
  ],
  "topics": [
-  "seerah-history.prophets",
-  "quran.quran-stories"
+  "quran.tafsir",
+  "seerah-history.prophets"
  ]
 }

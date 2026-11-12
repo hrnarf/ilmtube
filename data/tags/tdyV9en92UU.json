@@ -2,19 +2,20 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.4,
  "content_type": "reminder",
  "fingerprint": "60222af01502",
  "id": "tdyV9en92UU",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Ismail Menk"
+  "Mufti Menk"
  ],
  "surahs": [],
  "topics": [
-  "wellbeing.hope"
+  "character-family.akhlaq"
  ]
 }

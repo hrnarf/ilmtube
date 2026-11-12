@@ -2,19 +2,18 @@
  "audience": [
   "general"
  ],
- "confidence": 0.55,
- "content_type": "other",
+ "confidence": 0.8,
+ "content_type": "news",
  "fingerprint": "b6ea93be6c65",
  "id": "FJnDKjl2lms",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
- "speakers": [
-  "Lindsey Graham"
- ],
+ "speakers": [],
  "surahs": [],
  "topics": [
-  "contemporary.current-affairs"
+  "contemporary.politics"
  ]
 }

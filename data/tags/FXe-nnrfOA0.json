@@ -2,19 +2,21 @@
  "audience": [
   "general"
  ],
- "confidence": 0.55,
+ "confidence": 0.6,
  "content_type": "reminder",
  "fingerprint": "10c1e9a0d936",
  "id": "FXe-nnrfOA0",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Sheikh Dr. Asim Al-Qaryooti"
+  "Shaikh Asim Al-Qaryooti"
  ],
  "surahs": [],
  "topics": [
+  "contemporary.work-career",
   "spirituality.heart"
  ]
 }

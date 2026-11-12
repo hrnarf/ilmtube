@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.75,
+ "confidence": 0.7,
  "content_type": "reminder",
  "fingerprint": "787b372135e7",
  "id": "ZSZpL5OWN2k",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -17,6 +18,6 @@
  "surahs": [],
  "topics": [
   "wellbeing.grief-loss",
-  "aqeedah.jannah"
+  "aqeedah.day-of-judgement"
  ]
 }

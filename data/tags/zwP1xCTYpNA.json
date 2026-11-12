@@ -1,17 +1,18 @@
 {
  "audience": [
-  "reverts"
+  "general"
  ],
- "confidence": 0.8,
+ "confidence": 0.65,
  "content_type": "reminder",
  "fingerprint": "59c443938457",
  "id": "zwP1xCTYpNA",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Ismail Menk"
+  "Mufti Menk"
  ],
  "surahs": [],
  "topics": [

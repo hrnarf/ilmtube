@@ -2,17 +2,19 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
- "content_type": "other",
+ "confidence": 0.7,
+ "content_type": "news",
  "fingerprint": "e7e7a03ae277",
  "id": "7_70MU-rsoo",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
-  "contemporary.current-affairs"
+  "contemporary.politics",
+  "contemporary.muslims-in-the-west"
  ]
 }

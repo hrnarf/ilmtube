@@ -6,18 +6,19 @@
  "content_type": "lecture",
  "fingerprint": "4fe6d9d32c49",
  "id": "haJy0_cCFIA",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Abdulrahman Hassan"
+  "Ustadh Abdulrahman Hassan"
  ],
  "surahs": [
   1
  ],
  "topics": [
   "quran.tafsir",
-  "seasons.ramadan"
+  "aqeedah.names-of-allah"
  ]
 }

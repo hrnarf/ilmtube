@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.6,
- "content_type": "other",
+ "confidence": 0.55,
+ "content_type": "reminder",
  "fingerprint": "140b61a42cf6",
  "id": "qHbgDtUxZa4",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "contemporary.current-affairs",
-  "character-family.brotherhood-community"
+  "character-family.brotherhood-community",
+  "contemporary.current-affairs"
  ]
 }

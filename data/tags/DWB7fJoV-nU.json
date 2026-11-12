@@ -2,19 +2,19 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
- "content_type": "other",
+ "confidence": 0.7,
+ "content_type": "news",
  "fingerprint": "e809131f5ae3",
  "id": "DWB7fJoV-nU",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
- "speakers": [
-  "Netanyahu"
- ],
+ "speakers": [],
  "surahs": [],
  "topics": [
+  "contemporary.politics",
   "contemporary.current-affairs"
  ]
 }

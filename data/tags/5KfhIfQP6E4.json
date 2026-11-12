@@ -2,20 +2,20 @@
  "audience": [
   "general"
  ],
- "confidence": 0.8,
+ "confidence": 0.85,
  "content_type": "lecture",
  "fingerprint": "5049e5b7e587",
  "id": "5KfhIfQP6E4",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Ustadh Abdulrahman Hassan"
+  "Abdulrahman Hassan"
  ],
  "surahs": [],
  "topics": [
-  "spirituality.overcoming-sins",
-  "spirituality.repentance"
+  "spirituality.overcoming-sins"
  ]
 }

@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.75,
- "content_type": "lecture",
+ "confidence": 0.8,
+ "content_type": "reminder",
  "fingerprint": "6abd3d3c9ede",
  "id": "Ev4zRlI-cvw",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "seerah-history.sahabah",
+  "seerah-history.prophet-muhammad",
   "fiqh.hajj-umrah"
  ]
 }

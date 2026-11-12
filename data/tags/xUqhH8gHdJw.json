@@ -6,12 +6,13 @@
  "content_type": "lecture",
  "fingerprint": "3970aa1c04b5",
  "id": "xUqhH8gHdJw",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Ismail Menk"
+  "Mufti Menk"
  ],
  "surahs": [],
  "topics": [

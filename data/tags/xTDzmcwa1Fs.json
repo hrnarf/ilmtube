@@ -1,13 +1,14 @@
 {
  "audience": [
-  "youth"
+  "general"
  ],
- "confidence": 0.8,
- "content_type": "podcast",
+ "confidence": 0.75,
+ "content_type": "reminder",
  "fingerprint": "85647a2b3714",
  "id": "xTDzmcwa1Fs",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,6 @@
  ],
  "surahs": [],
  "topics": [
-  "contemporary.social-media",
-  "wellbeing.anxiety-stress"
+  "contemporary.social-media"
  ]
 }

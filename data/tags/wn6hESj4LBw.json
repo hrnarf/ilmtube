@@ -6,16 +6,16 @@
  "content_type": "lecture",
  "fingerprint": "dbed8162c92e",
  "id": "wn6hESj4LBw",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Abdulrahman Hassan"
+  "Ustadh Abdulrahman Hassan"
  ],
  "surahs": [],
  "topics": [
-  "aqeedah.death-and-grave",
-  "aqeedah.day-of-judgement"
+  "aqeedah.death-and-grave"
  ]
 }

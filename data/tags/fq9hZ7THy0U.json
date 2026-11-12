@@ -2,20 +2,21 @@
  "audience": [
   "general"
  ],
- "confidence": 0.8,
+ "confidence": 0.85,
  "content_type": "qa",
  "fingerprint": "bdefb10d2437",
  "id": "fq9hZ7THy0U",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Sheikh Dr. Asim Al-Qaryooti"
+  "Asim Al-Qaryooti"
  ],
  "surahs": [],
  "topics": [
-  "quran.tajweed",
-  "quran.recitation"
+  "quran.recitation",
+  "quran.tajweed"
  ]
 }

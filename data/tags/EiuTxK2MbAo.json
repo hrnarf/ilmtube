@@ -6,15 +6,17 @@
  "content_type": "lecture",
  "fingerprint": "ce597444c598",
  "id": "EiuTxK2MbAo",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Ismail Menk"
+  "Mufti Menk"
  ],
  "surahs": [],
  "topics": [
-  "seerah-history.prophet-muhammad"
+  "seerah-history.prophet-muhammad",
+  "aqeedah.the-unseen"
  ]
 }

@@ -1,13 +1,15 @@
 {
  "audience": [
-  "general"
+  "general",
+  "sisters"
  ],
- "confidence": 0.8,
- "content_type": "podcast",
+ "confidence": 0.7,
+ "content_type": "reminder",
  "fingerprint": "77a2fe8993db",
  "id": "OatznfKen4A",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -17,7 +19,6 @@
  "surahs": [],
  "topics": [
   "hadith.explanations",
-  "character-family.women",
-  "aqeedah.jahannam"
+  "character-family.women"
  ]
 }

@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.7,
+ "confidence": 0.75,
  "content_type": "reminder",
  "fingerprint": "f1e1b5291100",
  "id": "noTcasEKYXk",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,8 @@
  ],
  "surahs": [],
  "topics": [
-  "aqeedah.jannah",
-  "character-family.akhlaq"
+  "character-family.akhlaq",
+  "spirituality.heart",
+  "aqeedah.jannah"
  ]
 }

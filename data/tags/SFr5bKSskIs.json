@@ -2,17 +2,16 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
- "content_type": "other",
+ "confidence": 0.6,
+ "content_type": "news",
  "fingerprint": "26cd661ea465",
  "id": "SFr5bKSskIs",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
- "speakers": [
-  "Omar Suleiman"
- ],
+ "speakers": [],
  "surahs": [],
  "topics": [
   "contemporary.current-affairs"

@@ -2,19 +2,21 @@
  "audience": [
   "general"
  ],
- "confidence": 0.85,
+ "confidence": 0.8,
  "content_type": "lecture",
  "fingerprint": "c3b39cfd7f63",
  "id": "0SFf1s-rQ-0",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Abdulrahman Hassan"
+  "Ustadh Abdulrahman Hassan"
  ],
  "surahs": [],
  "topics": [
-  "seerah-history.prophet-muhammad"
+  "seerah-history.prophet-muhammad",
+  "seerah-history.islamic-history"
  ]
 }

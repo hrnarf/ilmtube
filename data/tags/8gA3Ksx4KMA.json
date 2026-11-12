@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.4,
- "content_type": "documentary",
+ "confidence": 0.5,
+ "content_type": "other",
  "fingerprint": "20976a1d01f3",
  "id": "8gA3Ksx4KMA",
+ "model": "claude-opus-5-5",
  "not_content": true,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],

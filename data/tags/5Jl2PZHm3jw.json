@@ -2,16 +2,17 @@
  "audience": [
   "general"
  ],
- "confidence": 0.85,
+ "confidence": 0.9,
  "content_type": "lecture",
  "fingerprint": "b2cff8674717",
  "id": "5Jl2PZHm3jw",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Muhammad Tim Humble"
+  "Ustadh Muhammad Tim Humble"
  ],
  "surahs": [],
  "topics": [

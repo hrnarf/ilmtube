@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.65,
+ "confidence": 0.7,
  "content_type": "reminder",
  "fingerprint": "ee2dded3e944",
  "id": "_wo17AHtboY",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "spirituality.tawakkul",
-  "character-family.brotherhood-community"
+  "character-family.brotherhood-community",
+  "contemporary.work-career"
  ]
 }

@@ -6,15 +6,18 @@
  "content_type": "lecture",
  "fingerprint": "12b684563da4",
  "id": "l1Zwj51KF9g",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Ismail Menk"
+  "Mufti Menk"
  ],
  "surahs": [],
  "topics": [
-  "seerah-history.prophet-muhammad"
+  "seerah-history.prophet-muhammad",
+  "seerah-history.sahabah",
+  "seerah-history.women-of-islam"
  ]
 }

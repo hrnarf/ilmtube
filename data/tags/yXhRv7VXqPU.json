@@ -2,19 +2,19 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
- "content_type": "podcast",
+ "confidence": 0.6,
+ "content_type": "news",
  "fingerprint": "0ce6c45a0502",
  "id": "yXhRv7VXqPU",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
- "speakers": [
-  "Tucker Carlson"
- ],
+ "speakers": [],
  "surahs": [],
  "topics": [
-  "contemporary.current-affairs"
+  "contemporary.politics",
+  "contemporary.social-media"
  ]
 }

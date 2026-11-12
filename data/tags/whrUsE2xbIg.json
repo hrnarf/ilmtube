@@ -6,18 +6,18 @@
  "content_type": "lecture",
  "fingerprint": "92a034d6bd43",
  "id": "whrUsE2xbIg",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Abdulrahman Hassan"
+  "Ustadh Abdulrahman Hassan"
  ],
  "surahs": [
   1
  ],
  "topics": [
-  "quran.tafsir",
-  "seasons.ramadan"
+  "quran.tafsir"
  ]
 }

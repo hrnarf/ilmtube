@@ -6,16 +6,18 @@
  "content_type": "reminder",
  "fingerprint": "10010bda9946",
  "id": "KUgBzZGgvkM",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Ustadh Muhammad Tim Humble"
+  "Muhammad Tim Humble"
  ],
  "surahs": [],
  "topics": [
   "spirituality.overcoming-sins",
-  "spirituality.repentance"
+  "spirituality.repentance",
+  "seasons.ramadan"
  ]
 }

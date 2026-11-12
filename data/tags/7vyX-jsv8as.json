@@ -6,13 +6,14 @@
  "content_type": "reminder",
  "fingerprint": "fd9111ec58af",
  "id": "7vyX-jsv8as",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
-  "aqeedah.death-and-grave"
+  "spirituality.heart"
  ]
 }

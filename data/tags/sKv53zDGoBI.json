@@ -6,8 +6,9 @@
  "content_type": "lecture",
  "fingerprint": "350292e971b9",
  "id": "sKv53zDGoBI",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "contemporary.current-affairs",
-  "seerah-history.islamic-history"
+  "contemporary.politics",
+  "contemporary.current-affairs"
  ]
 }

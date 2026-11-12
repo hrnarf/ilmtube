@@ -2,19 +2,19 @@
  "audience": [
   "general"
  ],
- "confidence": 0.4,
- "content_type": "other",
+ "confidence": 0.75,
+ "content_type": "news",
  "fingerprint": "e4d9b4457ea0",
  "id": "236zsgBZs-w",
- "not_content": true,
- "prompt_version": "v1",
+ "model": "claude-opus-5-5",
+ "not_content": false,
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
- "speakers": [
-  "Omar Suleiman"
- ],
+ "speakers": [],
  "surahs": [],
  "topics": [
-  "contemporary.current-affairs"
+  "contemporary.current-affairs",
+  "contemporary.muslims-in-the-west"
  ]
 }

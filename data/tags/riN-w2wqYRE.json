@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.75,
+ "confidence": 0.85,
  "content_type": "lecture",
  "fingerprint": "6d4caf1ac159",
  "id": "riN-w2wqYRE",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
+  "quran.tafsir",
   "aqeedah.names-of-allah",
   "seasons.ramadan"
  ]

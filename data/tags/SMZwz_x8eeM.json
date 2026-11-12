@@ -2,15 +2,19 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.35,
  "content_type": "other",
  "fingerprint": "db163a163a1b",
  "id": "SMZwz_x8eeM",
+ "model": "claude-opus-5-5",
  "not_content": true,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
- "speakers": [],
+ "speakers": [
+  "Mufti Menk",
+  "Na’ima Robert"
+ ],
  "surahs": [],
  "topics": [
   "character-family.marriage-relationships"

@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.65,
+ "confidence": 0.7,
  "content_type": "reminder",
  "fingerprint": "ef0db9856cfb",
  "id": "_BHOzYhtKUI",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -16,6 +17,6 @@
  "surahs": [],
  "topics": [
   "wellbeing.hardship-trials",
-  "spirituality.tawakkul"
+  "aqeedah.qadr"
  ]
 }

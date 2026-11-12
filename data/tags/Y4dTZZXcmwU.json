@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.45,
+ "confidence": 0.5,
  "content_type": "reminder",
  "fingerprint": "3ec020adc5a6",
  "id": "Y4dTZZXcmwU",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "wellbeing.hope",
-  "character-family.akhlaq"
+  "character-family.akhlaq",
+  "wellbeing.hope"
  ]
 }

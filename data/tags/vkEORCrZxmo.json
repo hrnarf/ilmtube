@@ -2,20 +2,21 @@
  "audience": [
   "youth"
  ],
- "confidence": 0.8,
+ "confidence": 0.85,
  "content_type": "reminder",
  "fingerprint": "72d7ad4a5b1f",
  "id": "vkEORCrZxmo",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Ustadh Muhammad Tim Humble"
+  "Muhammad Tim Humble"
  ],
  "surahs": [],
  "topics": [
   "character-family.youth",
-  "contemporary.muslims-in-the-west"
+  "seasons.ramadan"
  ]
 }

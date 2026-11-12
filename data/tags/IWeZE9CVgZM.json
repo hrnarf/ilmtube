@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.6,
- "content_type": "qa",
+ "confidence": 0.65,
+ "content_type": "reminder",
  "fingerprint": "440b01a467fb",
  "id": "IWeZE9CVgZM",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,6 @@
  ],
  "surahs": [],
  "topics": [
-  "spirituality.tawakkul",
   "wellbeing.hope"
  ]
 }

@@ -2,20 +2,19 @@
  "audience": [
   "general"
  ],
- "confidence": 0.6,
- "content_type": "other",
+ "confidence": 0.65,
+ "content_type": "news",
  "fingerprint": "df8bced1a2d8",
  "id": "kUWZ_-OFjSY",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
- "speakers": [
-  "Omar Suleiman"
- ],
+ "speakers": [],
  "surahs": [],
  "topics": [
-  "quran.hifz",
-  "contemporary.current-affairs"
+  "contemporary.current-affairs",
+  "quran.hifz"
  ]
 }

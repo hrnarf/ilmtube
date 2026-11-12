@@ -2,20 +2,26 @@
  "audience": [
   "general"
  ],
- "confidence": 0.7,
+ "confidence": 0.85,
  "content_type": "lecture",
  "fingerprint": "96cb554c3f75",
  "id": "veea7VAyDOs",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Dr. Jinan Yousef"
+  "Dr. Jinan Yousef",
+  "Dr. Omar Suleiman",
+  "Sh. Abdullah Oduro"
  ],
- "surahs": [],
+ "surahs": [
+  59
+ ],
  "topics": [
-  "spirituality.heart",
+  "quran.tafsir",
+  "aqeedah.names-of-allah",
   "seasons.ramadan"
  ]
 }

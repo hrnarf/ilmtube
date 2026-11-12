@@ -6,13 +6,12 @@
  "content_type": "other",
  "fingerprint": "8b2c5fca92bf",
  "id": "DE2oSyRSNxA",
+ "model": "claude-opus-5-5",
  "not_content": true,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
- "speakers": [
-  "Sheikh Muhammad Huzaifah"
- ],
+ "speakers": [],
  "surahs": [],
  "topics": [
   "hadith.hadith-sciences"

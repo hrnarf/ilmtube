@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.6,
+ "confidence": 0.75,
  "content_type": "reminder",
  "fingerprint": "ed3b83a6d9d2",
  "id": "TXgDrivMcPI",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [

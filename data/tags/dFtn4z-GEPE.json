@@ -2,19 +2,19 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
- "content_type": "podcast",
+ "confidence": 0.65,
+ "content_type": "news",
  "fingerprint": "9f8dce174df2",
  "id": "dFtn4z-GEPE",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
- "speakers": [
-  "Tucker"
- ],
+ "speakers": [],
  "surahs": [],
  "topics": [
+  "contemporary.politics",
   "contemporary.current-affairs"
  ]
 }

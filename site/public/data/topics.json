@@ -8,44 +8,44 @@
    },
    {
     "id": "quran.tafsir",
-    "n": 81,
+    "n": 90,
     "name": "Tafsir"
    },
    {
     "id": "quran.tajweed",
-    "n": 29,
+    "n": 28,
     "name": "Tajweed"
    },
    {
     "id": "quran.hifz",
-    "n": 60,
+    "n": 62,
     "name": "Hifz (memorisation)"
    },
    {
     "id": "quran.quran-stories",
-    "n": 2,
+    "n": 6,
     "name": "Qur'an stories"
    }
   ],
   "id": "quran",
-  "n": 187,
+  "n": 201,
   "name": "Qur'an"
  },
  {
   "children": [
    {
     "id": "aqeedah.tawheed",
-    "n": 22,
+    "n": 26,
     "name": "Tawheed"
    },
    {
     "id": "aqeedah.names-of-allah",
-    "n": 30,
+    "n": 31,
     "name": "Names of Allah"
    },
    {
     "id": "aqeedah.the-unseen",
-    "n": 0,
+    "n": 5,
     "name": "The unseen (angels, jinn)"
    },
    {
@@ -60,12 +60,12 @@
    },
    {
     "id": "aqeedah.day-of-judgement",
-    "n": 18,
+    "n": 17,
     "name": "Day of Judgement"
    },
    {
     "id": "aqeedah.jannah",
-    "n": 9,
+    "n": 11,
     "name": "Jannah"
    },
    {
@@ -75,61 +75,61 @@
    },
    {
     "id": "aqeedah.signs-of-the-hour",
-    "n": 25,
+    "n": 26,
     "name": "Signs of the Hour"
    }
   ],
   "id": "aqeedah",
-  "n": 127,
+  "n": 139,
   "name": "Aqeedah (belief)"
  },
  {
   "children": [
    {
     "id": "seerah-history.prophet-muhammad",
-    "n": 52,
+    "n": 63,
     "name": "The Prophet Muhammad ﷺ"
    },
    {
     "id": "seerah-history.prophets",
-    "n": 13,
+    "n": 15,
     "name": "Stories of the prophets"
    },
    {
     "id": "seerah-history.sahabah",
-    "n": 39,
+    "n": 43,
     "name": "Sahabah"
    },
    {
     "id": "seerah-history.women-of-islam",
-    "n": 5,
+    "n": 6,
     "name": "Women of Islam"
    },
    {
     "id": "seerah-history.islamic-history",
-    "n": 15,
+    "n": 41,
     "name": "Islamic history"
    }
   ],
   "id": "seerah-history",
-  "n": 124,
+  "n": 168,
   "name": "Seerah & history"
  },
  {
   "children": [
    {
     "id": "hadith.explanations",
-    "n": 32,
+    "n": 37,
     "name": "Hadith explanations"
    },
    {
     "id": "hadith.hadith-sciences",
-    "n": 8,
+    "n": 10,
     "name": "Hadith sciences"
    }
   ],
   "id": "hadith",
-  "n": 40,
+  "n": 47,
   "name": "Hadith"
  },
  {
@@ -141,42 +141,42 @@
    },
    {
     "id": "fiqh.salah",
-    "n": 19,
+    "n": 25,
     "name": "Salah"
    },
    {
     "id": "fiqh.fasting",
-    "n": 15,
+    "n": 17,
     "name": "Fasting"
    },
    {
     "id": "fiqh.zakat-charity",
-    "n": 6,
+    "n": 5,
     "name": "Zakat & charity"
    },
    {
     "id": "fiqh.hajj-umrah",
-    "n": 26,
+    "n": 21,
     "name": "Hajj & umrah"
    },
    {
     "id": "fiqh.halal-haram",
-    "n": 24,
+    "n": 27,
     "name": "Halal & haram"
    },
    {
     "id": "fiqh.finance-business",
-    "n": 7,
+    "n": 9,
     "name": "Finance & business"
    },
    {
     "id": "fiqh.marriage-divorce",
-    "n": 4,
+    "n": 8,
     "name": "Marriage & divorce"
    },
    {
     "id": "fiqh.inheritance",
-    "n": 1,
+    "n": 0,
     "name": "Inheritance"
    },
    {
@@ -186,66 +186,66 @@
    }
   ],
   "id": "fiqh",
-  "n": 108,
+  "n": 118,
   "name": "Fiqh"
  },
  {
   "children": [
    {
     "id": "spirituality.dua-dhikr",
-    "n": 30,
+    "n": 35,
     "name": "Dua & dhikr"
    },
    {
     "id": "spirituality.heart",
-    "n": 68,
+    "n": 79,
     "name": "The heart (tazkiyah)"
    },
    {
     "id": "spirituality.patience-gratitude",
-    "n": 15,
+    "n": 22,
     "name": "Patience & gratitude"
    },
    {
     "id": "spirituality.repentance",
-    "n": 24,
+    "n": 26,
     "name": "Repentance"
    },
    {
     "id": "spirituality.tawakkul",
-    "n": 8,
+    "n": 14,
     "name": "Tawakkul"
    },
    {
     "id": "spirituality.sincerity",
-    "n": 49,
+    "n": 48,
     "name": "Sincerity"
    },
    {
     "id": "spirituality.overcoming-sins",
-    "n": 29,
+    "n": 32,
     "name": "Overcoming sins"
    }
   ],
   "id": "spirituality",
-  "n": 223,
+  "n": 256,
   "name": "Spirituality"
  },
  {
   "children": [
    {
     "id": "character-family.akhlaq",
-    "n": 85,
+    "n": 74,
     "name": "Akhlaq (manners)"
    },
    {
     "id": "character-family.marriage-relationships",
-    "n": 24,
+    "n": 29,
     "name": "Marriage & relationships"
    },
    {
     "id": "character-family.parenting",
-    "n": 10,
+    "n": 12,
     "name": "Parenting"
    },
    {
@@ -255,120 +255,125 @@
    },
    {
     "id": "character-family.women",
-    "n": 11,
+    "n": 10,
     "name": "Women"
    },
    {
     "id": "character-family.youth",
-    "n": 3,
+    "n": 6,
     "name": "Youth"
    },
    {
     "id": "character-family.brotherhood-community",
-    "n": 28,
+    "n": 39,
     "name": "Brotherhood & community"
    }
   ],
   "id": "character-family",
-  "n": 169,
+  "n": 178,
   "name": "Character & family"
  },
  {
   "children": [
    {
     "id": "wellbeing.grief-loss",
-    "n": 4,
+    "n": 3,
     "name": "Grief & loss"
    },
    {
     "id": "wellbeing.anxiety-stress",
-    "n": 6,
+    "n": 5,
     "name": "Anxiety & stress"
    },
    {
     "id": "wellbeing.hope",
-    "n": 19,
+    "n": 18,
     "name": "Hope"
    },
    {
     "id": "wellbeing.hardship-trials",
-    "n": 30,
+    "n": 38,
     "name": "Hardship & trials"
    }
   ],
   "id": "wellbeing",
-  "n": 59,
+  "n": 64,
   "name": "Wellbeing"
  },
  {
   "children": [
    {
     "id": "contemporary.social-media",
-    "n": 11,
+    "n": 16,
     "name": "Social media"
    },
    {
     "id": "contemporary.work-career",
-    "n": 11,
+    "n": 14,
     "name": "Work & career"
    },
    {
     "id": "contemporary.muslims-in-the-west",
-    "n": 15,
+    "n": 21,
     "name": "Muslims in the West"
    },
    {
     "id": "contemporary.current-affairs",
-    "n": 41,
+    "n": 33,
     "name": "Current affairs"
    },
    {
+    "id": "contemporary.politics",
+    "n": 17,
+    "name": "Politics"
+   },
+   {
     "id": "contemporary.science-and-islam",
-    "n": 4,
+    "n": 2,
     "name": "Science & Islam"
    }
   ],
   "id": "contemporary",
-  "n": 82,
+  "n": 103,
   "name": "Contemporary"
  },
  {
   "children": [
    {
     "id": "dawah.reverts",
-    "n": 7,
+    "n": 9,
     "name": "Reverts"
    },
    {
     "id": "dawah.christianity",
-    "n": 0,
+    "n": 1,
     "name": "Christianity"
    },
    {
     "id": "dawah.atheism",
-    "n": 2,
+    "n": 1,
     "name": "Atheism"
    },
    {
     "id": "dawah.debates",
-    "n": 0,
+    "n": 1,
     "name": "Debates"
    }
   ],
   "id": "dawah",
-  "n": 9,
+  "n": 12,
   "name": "Dawah"
  },
  {
   "children": [
    {
     "id": "seasons.ramadan",
-    "n": 76,
+    "n": 82,
     "name": "Ramadan"
    },
    {
     "id": "seasons.laylat-al-qadr",
-    "n": 7,
+    "n": 9,
     "name": "Laylat al-Qadr"
    },
    {
@@ -388,24 +393,24 @@
    },
    {
     "id": "seasons.jumuah",
-    "n": 7,
+    "n": 4,
     "name": "Jumu'ah"
    }
   ],
   "id": "seasons",
-  "n": 130,
+  "n": 135,
   "name": "Seasons"
  },
  {
   "children": [
    {
     "id": "arabic.language-learning",
-    "n": 3,
+    "n": 5,
     "name": "Language learning"
    }
   ],
   "id": "arabic",
-  "n": 3,
+  "n": 5,
   "name": "Arabic"
  }
 ]

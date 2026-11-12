@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.7,
+ "confidence": 0.6,
  "content_type": "reminder",
  "fingerprint": "13464ece743c",
  "id": "6f_6pd9r-78",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,6 @@
  ],
  "surahs": [],
  "topics": [
-  "spirituality.dua-dhikr",
   "seerah-history.sahabah"
  ]
 }

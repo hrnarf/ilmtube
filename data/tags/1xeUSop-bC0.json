@@ -2,18 +2,18 @@
  "audience": [
   "general"
  ],
- "confidence": 0.7,
+ "confidence": 0.65,
  "content_type": "reminder",
  "fingerprint": "67bb76bd2c20",
  "id": "1xeUSop-bC0",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
-  "spirituality.dua-dhikr",
-  "seasons.ramadan"
+  "spirituality.dua-dhikr"
  ]
 }

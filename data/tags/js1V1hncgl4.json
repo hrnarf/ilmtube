@@ -2,19 +2,21 @@
  "audience": [
   "general"
  ],
- "confidence": 0.45,
+ "confidence": 0.6,
  "content_type": "lecture",
  "fingerprint": "8008c841a9e6",
  "id": "js1V1hncgl4",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Ustadh Abdulrahman Hassan"
+  "Abdulrahman Hassan"
  ],
  "surahs": [],
  "topics": [
-  "spirituality.heart"
+  "aqeedah.signs-of-the-hour",
+  "contemporary.social-media"
  ]
 }

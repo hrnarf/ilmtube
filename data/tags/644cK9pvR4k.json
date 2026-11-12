@@ -2,17 +2,18 @@
  "audience": [
   "general"
  ],
- "confidence": 0.3,
+ "confidence": 0.25,
  "content_type": "reminder",
  "fingerprint": "586a0ea7a275",
  "id": "644cK9pvR4k",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
-  "aqeedah.day-of-judgement"
+  "spirituality.heart"
  ]
 }

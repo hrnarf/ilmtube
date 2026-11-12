@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.8,
- "content_type": "podcast",
+ "confidence": 0.75,
+ "content_type": "reminder",
  "fingerprint": "ac2452e1d9f8",
  "id": "YZ1dZea9le0",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -16,7 +17,6 @@
  ],
  "surahs": [],
  "topics": [
-  "character-family.marriage-relationships",
-  "character-family.women"
+  "character-family.marriage-relationships"
  ]
 }

@@ -2,22 +2,21 @@
  "audience": [
   "general"
  ],
- "confidence": 0.6,
+ "confidence": 0.65,
  "content_type": "lecture",
  "fingerprint": "c2fe44c854ab",
  "id": "KAEOptlwPzs",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Abdulrahman Hassan"
+  "Ustadh Abdulrahman Hassan"
  ],
- "surahs": [
-  25
- ],
+ "surahs": [],
  "topics": [
   "character-family.akhlaq",
-  "quran.tafsir"
+  "spirituality.heart"
  ]
 }

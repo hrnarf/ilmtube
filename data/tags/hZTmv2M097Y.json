@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.8,
+ "confidence": 0.75,
  "content_type": "reminder",
  "fingerprint": "260b09d787c5",
  "id": "hZTmv2M097Y",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "spirituality.repentance"
+  "spirituality.repentance",
+  "wellbeing.hope"
  ]
 }

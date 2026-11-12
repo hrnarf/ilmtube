@@ -3,11 +3,12 @@
   "general"
  ],
  "confidence": 0.8,
- "content_type": "lecture",
+ "content_type": "reminder",
  "fingerprint": "d9fb730d129d",
  "id": "Gix0rhFhCB8",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [

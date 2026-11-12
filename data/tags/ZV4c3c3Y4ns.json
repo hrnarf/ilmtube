@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.8,
+ "confidence": 0.85,
  "content_type": "khutbah",
  "fingerprint": "719e8535016a",
  "id": "ZV4c3c3Y4ns",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "spirituality.sincerity"
+  "spirituality.sincerity",
+  "seerah-history.prophets"
  ]
 }
