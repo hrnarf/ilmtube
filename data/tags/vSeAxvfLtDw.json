@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.6,
  "content_type": "other",
  "fingerprint": "168f389f9d50",
  "id": "vSeAxvfLtDw",
@@ -14,7 +14,7 @@
  "speakers": [],
  "surahs": [],
  "topics": [
-  "fiqh.salah",
-  "spirituality.heart"
+  "spirituality.heart",
+  "fiqh.salah"
  ]
 }

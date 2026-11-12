@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.4,
+ "confidence": 0.45,
  "content_type": "reminder",
  "fingerprint": "821e0303552d",
  "id": "AFAS5iEPc-Q",
@@ -12,11 +12,11 @@
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Menk"
+  "Mufti Ismail Menk"
  ],
  "surahs": [],
  "topics": [
-  "dawah.reverts",
-  "character-family.brotherhood-community"
+  "character-family.brotherhood-community",
+  "character-family.akhlaq"
  ]
 }

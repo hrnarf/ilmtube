@@ -17,9 +17,9 @@
   "tp": [
    "character-family.akhlaq",
    "seerah-history.prophet-muhammad",
-   "seerah-history.islamic-history",
    "character-family.brotherhood-community",
-   "fiqh.hajj-umrah"
+   "seerah-history.islamic-history",
+   "seasons.dhul-hijjah"
   ]
  },
  {
@@ -117,9 +117,9 @@
   "tp": [
    "fiqh.halal-haram",
    "seasons.ramadan",
+   "fiqh.salah",
    "aqeedah.tawheed",
-   "character-family.women",
-   "fiqh.salah"
+   "character-family.women"
   ]
  },
  {

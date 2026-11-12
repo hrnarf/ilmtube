@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.55,
  "content_type": "podcast",
  "fingerprint": "96a1f19ed1d9",
  "id": "wLfS-WV11vs",
@@ -12,8 +12,8 @@
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Muhammad Tim Humble",
-  "Abu Bakr Al-Khalafi"
+  "Ustadh Muhammad Tim Humble",
+  "Sheikh Abu Bakr Al-Khalafi"
  ],
  "surahs": [],
  "topics": [

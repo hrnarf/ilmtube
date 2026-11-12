@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.45,
  "content_type": "lecture",
  "fingerprint": "59d7dd92f4a1",
  "id": "S1urFU0S0MQ",
@@ -16,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "character-family.brotherhood-community"
+  "character-family.brotherhood-community",
+  "contemporary.current-affairs"
  ]
 }

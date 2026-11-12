@@ -18,7 +18,7 @@
    },
    {
     "id": "quran.hifz",
-    "n": 61,
+    "n": 62,
     "name": "Hifz (memorisation)"
    },
    {
@@ -28,7 +28,7 @@
    }
   ],
   "id": "quran",
-  "n": 200,
+  "n": 201,
   "name": "Qur'an"
  },
  {
@@ -40,7 +40,7 @@
    },
    {
     "id": "aqeedah.names-of-allah",
-    "n": 30,
+    "n": 31,
     "name": "Names of Allah"
    },
    {
@@ -60,7 +60,7 @@
    },
    {
     "id": "aqeedah.day-of-judgement",
-    "n": 16,
+    "n": 17,
     "name": "Day of Judgement"
    },
    {
@@ -80,19 +80,19 @@
    }
   ],
   "id": "aqeedah",
-  "n": 137,
+  "n": 139,
   "name": "Aqeedah (belief)"
  },
  {
   "children": [
    {
     "id": "seerah-history.prophet-muhammad",
-    "n": 62,
+    "n": 63,
     "name": "The Prophet Muhammad ﷺ"
    },
    {
     "id": "seerah-history.prophets",
-    "n": 14,
+    "n": 15,
     "name": "Stories of the prophets"
    },
    {
@@ -107,19 +107,19 @@
    },
    {
     "id": "seerah-history.islamic-history",
-    "n": 42,
+    "n": 41,
     "name": "Islamic history"
    }
   ],
   "id": "seerah-history",
-  "n": 167,
+  "n": 168,
   "name": "Seerah & history"
  },
  {
   "children": [
    {
     "id": "hadith.explanations",
-    "n": 36,
+    "n": 37,
     "name": "Hadith explanations"
    },
    {
@@ -129,7 +129,7 @@
    }
   ],
   "id": "hadith",
-  "n": 46,
+  "n": 47,
   "name": "Hadith"
  },
  {
@@ -141,7 +141,7 @@
    },
    {
     "id": "fiqh.salah",
-    "n": 26,
+    "n": 25,
     "name": "Salah"
    },
    {
@@ -166,12 +166,12 @@
    },
    {
     "id": "fiqh.finance-business",
-    "n": 8,
+    "n": 9,
     "name": "Finance & business"
    },
    {
     "id": "fiqh.marriage-divorce",
-    "n": 9,
+    "n": 8,
     "name": "Marriage & divorce"
    },
    {
@@ -186,66 +186,66 @@
    }
   ],
   "id": "fiqh",
-  "n": 119,
+  "n": 118,
   "name": "Fiqh"
  },
  {
   "children": [
    {
     "id": "spirituality.dua-dhikr",
-    "n": 34,
+    "n": 35,
     "name": "Dua & dhikr"
    },
    {
     "id": "spirituality.heart",
-    "n": 76,
+    "n": 79,
     "name": "The heart (tazkiyah)"
    },
    {
     "id": "spirituality.patience-gratitude",
-    "n": 23,
+    "n": 22,
     "name": "Patience & gratitude"
    },
    {
     "id": "spirituality.repentance",
-    "n": 27,
+    "n": 26,
     "name": "Repentance"
    },
    {
     "id": "spirituality.tawakkul",
-    "n": 13,
+    "n": 14,
     "name": "Tawakkul"
    },
    {
     "id": "spirituality.sincerity",
-    "n": 46,
+    "n": 48,
     "name": "Sincerity"
    },
    {
     "id": "spirituality.overcoming-sins",
-    "n": 31,
+    "n": 32,
     "name": "Overcoming sins"
    }
   ],
   "id": "spirituality",
-  "n": 250,
+  "n": 256,
   "name": "Spirituality"
  },
  {
   "children": [
    {
     "id": "character-family.akhlaq",
-    "n": 73,
+    "n": 74,
     "name": "Akhlaq (manners)"
    },
    {
     "id": "character-family.marriage-relationships",
-    "n": 23,
+    "n": 29,
     "name": "Marriage & relationships"
    },
    {
     "id": "character-family.parenting",
-    "n": 13,
+    "n": 12,
     "name": "Parenting"
    },
    {
@@ -265,12 +265,12 @@
    },
    {
     "id": "character-family.brotherhood-community",
-    "n": 38,
+    "n": 39,
     "name": "Brotherhood & community"
    }
   ],
   "id": "character-family",
-  "n": 171,
+  "n": 178,
   "name": "Character & family"
  },
  {
@@ -282,22 +282,22 @@
    },
    {
     "id": "wellbeing.anxiety-stress",
-    "n": 4,
+    "n": 5,
     "name": "Anxiety & stress"
    },
    {
     "id": "wellbeing.hope",
-    "n": 16,
+    "n": 18,
     "name": "Hope"
    },
    {
     "id": "wellbeing.hardship-trials",
-    "n": 37,
+    "n": 38,
     "name": "Hardship & trials"
    }
   ],
   "id": "wellbeing",
-  "n": 60,
+  "n": 64,
   "name": "Wellbeing"
  },
  {
@@ -319,7 +319,7 @@
    },
    {
     "id": "contemporary.current-affairs",
-    "n": 31,
+    "n": 33,
     "name": "Current affairs"
    },
    {
@@ -334,14 +334,14 @@
    }
   ],
   "id": "contemporary",
-  "n": 101,
+  "n": 103,
   "name": "Contemporary"
  },
  {
   "children": [
    {
     "id": "dawah.reverts",
-    "n": 10,
+    "n": 9,
     "name": "Reverts"
    },
    {
@@ -361,7 +361,7 @@
    }
   ],
   "id": "dawah",
-  "n": 13,
+  "n": 12,
   "name": "Dawah"
  },
  {
@@ -383,7 +383,7 @@
    },
    {
     "id": "seasons.dhul-hijjah",
-    "n": 33,
+    "n": 36,
     "name": "Dhul Hijjah"
    },
    {
@@ -398,19 +398,19 @@
    }
   ],
   "id": "seasons",
-  "n": 132,
+  "n": 135,
   "name": "Seasons"
  },
  {
   "children": [
    {
     "id": "arabic.language-learning",
-    "n": 4,
+    "n": 5,
     "name": "Language learning"
    }
   ],
   "id": "arabic",
-  "n": 4,
+  "n": 5,
   "name": "Arabic"
  }
 ]

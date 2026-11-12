@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.6,
  "content_type": "reminder",
  "fingerprint": "1c45a9d2b925",
  "id": "e4IYZjOVF3A",
@@ -16,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "spirituality.heart"
+  "spirituality.heart",
+  "wellbeing.hope"
  ]
 }

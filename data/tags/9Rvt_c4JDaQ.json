@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.4,
+ "confidence": 0.5,
  "content_type": "reminder",
  "fingerprint": "76c1de86b735",
  "id": "9Rvt_c4JDaQ",
@@ -12,7 +12,7 @@
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Menk"
+  "Mufti Ismail Menk"
  ],
  "surahs": [],
  "topics": [

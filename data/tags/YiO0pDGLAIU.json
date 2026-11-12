@@ -3,7 +3,7 @@
   "general"
  ],
  "confidence": 0.55,
- "content_type": "lecture",
+ "content_type": "reminder",
  "fingerprint": "ec6d77309458",
  "id": "YiO0pDGLAIU",
  "model": "claude-opus-5-5",

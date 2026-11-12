@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.45,
  "content_type": "reminder",
  "fingerprint": "5cb1dd425df5",
  "id": "EpWECX_ZGAY",
@@ -16,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "wellbeing.hardship-trials"
+  "wellbeing.hardship-trials",
+  "wellbeing.anxiety-stress"
  ]
 }

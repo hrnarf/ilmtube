@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.35,
  "content_type": "reminder",
  "fingerprint": "785169674e0b",
  "id": "Ikh8k1SFHx4",
@@ -16,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "aqeedah.tawheed"
+  "spirituality.heart",
+  "character-family.marriage-relationships"
  ]
 }

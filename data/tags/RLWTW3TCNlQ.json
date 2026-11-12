@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.45,
  "content_type": "reminder",
  "fingerprint": "e6dd8512f612",
  "id": "RLWTW3TCNlQ",
@@ -16,7 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "seerah-history.prophets",
-  "spirituality.overcoming-sins"
+  "spirituality.overcoming-sins",
+  "seerah-history.prophets"
  ]
 }

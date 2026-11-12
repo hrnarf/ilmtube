@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.45,
  "content_type": "reminder",
  "fingerprint": "fd37c96b14f3",
  "id": "bkYdl1GXnFc",
@@ -16,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "fiqh.salah"
+  "fiqh.salah",
+  "character-family.akhlaq"
  ]
 }

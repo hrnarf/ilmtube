@@ -13,7 +13,7 @@
 | Hear And Obey #rules #motivation #muslim #bless #allah #muftimenk #life #dua #lord | Mufti Menk | aqeedah.tawheed | Mufti Menk | reminder | - | 0.40 |
 | What Happens Between You and Allah in Prayer / Allah’s Names / Dr. Omar Suleiman / Ep. 25 | Yaqeen Institute | fiqh.salah, aqeedah.names-of-allah | Dr. Omar Suleiman | lecture | - | 0.90 |
 | Masjid Al-Aqsa is closed right now | Omar Suleiman Personal | contemporary.current-affairs | - | news | - | 0.75 |
-| The Person From Paradise  #muftimenk #muslim #quran #islam #quran #humanity #heaven #life #best #dua | Mufti Menk | aqeedah.jannah, character-family.akhlaq | Mufti Ismail Menk | reminder | - | 0.50 |
+| The Person From Paradise  #muftimenk #muslim #quran #islam #quran #humanity #heaven #life #best #dua | Mufti Menk | aqeedah.jannah, spirituality.heart | Mufti Ismail Menk | reminder | - | 0.50 |
 | You Don’t Have ‘Absolute’ Free Will | Omar Suleiman Personal | aqeedah.qadr | Omar Suleiman | reminder | - | 0.70 |
 | Apparently I’m being deported? | Omar Suleiman Personal | contemporary.politics, contemporary.current-affairs | - | news | - | 0.55 |
 | Nukhbat Al-Fikr - Part 2 / Fabrications & Hidden Gaps Exposed / Ustadh Muhammad Tim Humble #AMAU | AMAU | hadith.hadith-sciences | Ustadh Muhammad Tim Humble | lecture | - | 0.90 |
@@ -42,8 +42,8 @@
 | Handing Out Sweets After a Death-Penalty Bill | Omar Suleiman Personal | contemporary.politics, contemporary.current-affairs | - | news | - | 0.65 |
 | A faith crisis because of Gaza? | Omar Suleiman Personal | wellbeing.hardship-trials, contemporary.current-affairs | Omar Suleiman | reminder | - | 0.70 |
 | We Have To Stand For One Another #help #support #love #unity #motivation #family #strong #quran #dua | Mufti Menk | character-family.brotherhood-community | Mufti Ismail Menk | reminder | - | 0.65 |
-| They Want To Breed Negativity #comment #war #gaza #muftimenk #muslim #islam #socialmedia #motivation | Mufti Menk | contemporary.social-media, contemporary.current-affairs | Mufti Menk | reminder | - | 0.55 |
-| What Brings Us Together  #muftimenk #muslim #quran #islam #quran #dua #unity #family #support #love | Mufti Menk | character-family.brotherhood-community | Mufti Menk | reminder | - | 0.55 |
+| They Want To Breed Negativity #comment #war #gaza #muftimenk #muslim #islam #socialmedia #motivation | Mufti Menk | contemporary.social-media, contemporary.current-affairs | Mufti Ismail Menk | reminder | - | 0.55 |
+| What Brings Us Together  #muftimenk #muslim #quran #islam #quran #dua #unity #family #support #love | Mufti Menk | character-family.brotherhood-community | Mufti Ismail Menk | reminder | - | 0.45 |
 | A broken marriage? | Omar Suleiman Personal | character-family.marriage-relationships | Omar Suleiman | reminder | - | 0.65 |
 | The Real Reason You’ve Lost Your Spiritual Drive / Dr. Omar Suleiman | Yaqeen Institute | spirituality.heart | Dr. Omar Suleiman | reminder | - | 0.50 |
 | Ustadh Muhammad Tim Humble // Sweden & Denmark 2024 // AMAU Academy | AMAU | character-family.brotherhood-community | Ustadh Muhammad Tim Humble | other (NOT CONTENT) | - | 0.40 |
@@ -57,7 +57,7 @@
 | A Child Is a Gift / Mufti Menk | Mufti Menk | character-family.parenting | Mufti Ismail Menk | reminder | - | 0.65 |
 | The Basmalah Dispute Examined: Part of the Qur'an or Not? // Day 7 // Ustadh Abdulrahman Hassan | AMAU | quran.tafsir | Ustadh Abdulrahman Hassan | lecture | 1 | 0.80 |
 | Blessings of Surah Al Baqarah #muftimenk #muslim #islam #allah #quran #faith #cow #life #motivation | Mufti Menk | quran.tafsir | Mufti Ismail Menk | reminder | 2 | 0.60 |
-| Don't Lose Faith / Mufti Menk - Dundee / 2026 | Mufti Menk | wellbeing.hope, wellbeing.hardship-trials | Mufti Ismail Menk | lecture | - | 0.55 |
+| Don't Lose Faith / Mufti Menk - Dundee / 2026 | Mufti Menk | wellbeing.hope, wellbeing.hardship-trials | Mufti Ismail Menk | lecture | - | 0.50 |
 | Omar Suleiman Watched This As A Child | Omar Suleiman Personal | contemporary.current-affairs | Omar Suleiman | reminder | - | 0.35 |
 | How the Prophets Asked Allah for the Impossible | Yaqeen Institute | spirituality.dua-dhikr, aqeedah.names-of-allah, seerah-history.prophets | - | reminder | - | 0.65 |
 | The Tawbah Allah Never Rejects / Khutbah by Dr. Omar Suleiman | Yaqeen Institute | spirituality.repentance | Dr. Omar Suleiman | khutbah | - | 0.90 |

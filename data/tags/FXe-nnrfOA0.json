@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.55,
+ "confidence": 0.6,
  "content_type": "reminder",
  "fingerprint": "10c1e9a0d936",
  "id": "FXe-nnrfOA0",
@@ -12,10 +12,11 @@
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Asim Al-Qaryooti"
+  "Shaikh Asim Al-Qaryooti"
  ],
  "surahs": [],
  "topics": [
+  "contemporary.work-career",
   "spirituality.heart"
  ]
 }

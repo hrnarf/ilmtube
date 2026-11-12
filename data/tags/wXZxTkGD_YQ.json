@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.3,
+ "confidence": 0.35,
  "content_type": "lecture",
  "fingerprint": "548330fec219",
  "id": "wXZxTkGD_YQ",
@@ -16,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "character-family.akhlaq"
+  "contemporary.muslims-in-the-west",
+  "character-family.brotherhood-community"
  ]
 }

@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.45,
+ "confidence": 0.75,
  "content_type": "qa",
  "fingerprint": "df2ece1de682",
  "id": "_nDcjY21xR8",
@@ -16,6 +16,8 @@
  ],
  "surahs": [],
  "topics": [
-  "spirituality.sincerity"
+  "fiqh.finance-business",
+  "fiqh.salah",
+  "fiqh.halal-haram"
  ]
 }

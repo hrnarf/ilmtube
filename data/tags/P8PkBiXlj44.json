@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.55,
+ "confidence": 0.45,
  "content_type": "reminder",
  "fingerprint": "b23d43af6629",
  "id": "P8PkBiXlj44",
@@ -12,10 +12,11 @@
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Menk"
+  "Mufti Ismail Menk"
  ],
  "surahs": [],
  "topics": [
-  "character-family.akhlaq"
+  "character-family.akhlaq",
+  "character-family.marriage-relationships"
  ]
 }

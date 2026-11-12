@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.6,
  "content_type": "lecture",
  "fingerprint": "acfb175f4cfc",
  "id": "g6UDM5xQsqA",
@@ -16,7 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "hadith.hadith-sciences",
-  "spirituality.sincerity"
+  "spirituality.sincerity",
+  "character-family.akhlaq"
  ]
 }

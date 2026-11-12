@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.45,
+ "confidence": 0.7,
  "content_type": "qa",
  "fingerprint": "5fab5e0e6236",
  "id": "BVTocvtuWEE",
@@ -16,6 +16,8 @@
  ],
  "surahs": [],
  "topics": [
-  "fiqh.halal-haram"
+  "spirituality.overcoming-sins",
+  "fiqh.halal-haram",
+  "arabic.language-learning"
  ]
 }

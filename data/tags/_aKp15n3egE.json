@@ -1,8 +1,8 @@
 {
  "audience": [
-  "sisters"
+  "general"
  ],
- "confidence": 0.55,
+ "confidence": 0.6,
  "content_type": "reminder",
  "fingerprint": "517de5e832b2",
  "id": "_aKp15n3egE",

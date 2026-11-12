@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.55,
+ "confidence": 0.6,
  "content_type": "reminder",
  "fingerprint": "2b4d154e1f31",
  "id": "KlWWZ-u7Ies",
@@ -12,11 +12,11 @@
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Menk"
+  "Mufti Ismail Menk"
  ],
  "surahs": [],
  "topics": [
   "wellbeing.hardship-trials",
-  "fiqh.salah"
+  "spirituality.tawakkul"
  ]
 }

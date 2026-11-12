@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.4,
+ "confidence": 0.45,
  "content_type": "reminder",
  "fingerprint": "cc8a912ffd16",
  "id": "kTEwd4GumhA",
@@ -16,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "aqeedah.tawheed"
+  "aqeedah.tawheed",
+  "seerah-history.prophets"
  ]
 }

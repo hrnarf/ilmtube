@@ -2,7 +2,7 @@
  "audience": [
   "general"
  ],
- "confidence": 0.45,
+ "confidence": 0.75,
  "content_type": "qa",
  "fingerprint": "0c766e682458",
  "id": "pNAifUuzzbA",
@@ -16,6 +16,8 @@
  ],
  "surahs": [],
  "topics": [
-  "fiqh.halal-haram"
+  "hadith.hadith-sciences",
+  "hadith.explanations",
+  "quran.hifz"
  ]
 }
