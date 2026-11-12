@@ -3,6 +3,5 @@
 ## speakers (0 unmatched)
 
 
-## reciters (1 unmatched)
+## reciters (0 unmatched)
 
-- Sh. Hisham Abu Yusuf (1)
