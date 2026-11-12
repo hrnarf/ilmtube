@@ -177,6 +177,25 @@
   ]
  },
  {
+  "aliases": [
+   "Sheikh Muhammad Huzaifah",
+   "Ustadh Muhammad Huzaifah",
+   "Sheikh Abu Seereen Muhammad Huzaifah"
+  ],
+  "id": "muhammad-huzaifah",
+  "n": 10,
+  "name": "Muhammad Huzaifah",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "seerah-history.islamic-history",
+   "hadith.hadith-sciences",
+   "character-family.parenting",
+   "quran.hifz",
+   "character-family.akhlaq"
+  ]
+ },
+ {
   "aliases": [],
   "id": "ali-hammuda",
   "n": 10,
@@ -189,24 +208,6 @@
    "hadith.explanations",
    "aqeedah.death-and-grave",
    "spirituality.heart"
-  ]
- },
- {
-  "aliases": [
-   "Sheikh Muhammad Huzaifah",
-   "Ustadh Muhammad Huzaifah"
-  ],
-  "id": "muhammad-huzaifah",
-  "n": 9,
-  "name": "Muhammad Huzaifah",
-  "ns": 0,
-  "su": [],
-  "tp": [
-   "seerah-history.islamic-history",
-   "hadith.hadith-sciences",
-   "character-family.parenting",
-   "character-family.marriage-relationships",
-   "fiqh.marriage-divorce"
   ]
  },
  {
@@ -588,18 +589,6 @@
  },
  {
   "aliases": [],
-  "id": "abu-seereen-muhammad-huzaifah",
-  "n": 1,
-  "name": "Sheikh Abu Seereen Muhammad Huzaifah",
-  "ns": 0,
-  "su": [],
-  "tp": [
-   "quran.hifz",
-   "character-family.akhlaq"
-  ]
- },
- {
-  "aliases": [],
   "id": "ahmad-yare",
   "n": 1,
   "name": "Sheikh Ahmad Yare",
@@ -646,6 +635,55 @@
  },
  {
   "aliases": [],
+  "id": "clive-stafford-smith",
+  "n": 1,
+  "name": "Clive Stafford Smith",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "contemporary.current-affairs",
+   "contemporary.muslims-in-the-west"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "um-firas",
+  "n": 1,
+  "name": "Um Firas",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "contemporary.current-affairs",
+   "wellbeing.hardship-trials"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "mahmoud-khalil",
+  "n": 1,
+  "name": "Mahmoud Khalil",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "contemporary.muslims-in-the-west",
+   "contemporary.current-affairs",
+   "spirituality.dua-dhikr"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "muslim-undertaker",
+  "n": 1,
+  "name": "Muslim Undertaker",
+  "ns": 1,
+  "su": [],
+  "tp": [
+   "aqeedah.death-and-grave",
+   "fiqh.funerals"
+  ]
+ },
+ {
+  "aliases": [],
   "id": "sarah-sultan",
   "n": 0,
   "name": "Sr. Sarah Sultan",
@@ -688,6 +726,33 @@
   "id": "ibn-baz",
   "n": 0,
   "name": "Shaykh Abd al-Aziz ibn Baz",
+  "ns": 1,
+  "su": [],
+  "tp": []
+ },
+ {
+  "aliases": [],
+  "id": "sami-hamdi",
+  "n": 0,
+  "name": "Sami Hamdi",
+  "ns": 2,
+  "su": [],
+  "tp": []
+ },
+ {
+  "aliases": [],
+  "id": "robert-martin",
+  "n": 0,
+  "name": "Robert Martin",
+  "ns": 1,
+  "su": [],
+  "tp": []
+ },
+ {
+  "aliases": [],
+  "id": "saleh-aljafarawi",
+  "n": 0,
+  "name": "Saleh Aljafarawi",
   "ns": 1,
   "su": [],
   "tp": []

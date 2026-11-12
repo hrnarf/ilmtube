@@ -1,13 +1,15 @@
 # Canonical speakers. Generated once from tagger output; now HUMAN-EDITED and authoritative.
-# Reviewer notes (NOT merged, please decide):
-#  - 2026-11-12 tidy (v2 tags): merged the duplicate al-Uthaymeen entry; added spelling aliases; added
-#    Abdullah Oduro, Sarah Sultan, Hassan Elwan, Tahir Wyatt, Waleed Basyouni, Ibn Baz, Na'ima Robert.
-#    'Ustadh AbdulRahman' (AMAU) and 'Imam Tom' (Yaqeen) mapped by channel context - please confirm.
-#    Left unmatched on purpose (guests / not scholars, owner to decide): Sami Hamdi, Robert Martin,
-#    Clive Stafford Smith, Saleh Aljafarawi, Um Firas, Muslim Undertaker.
-#  - 'Sheikh Abu Seereen Muhammad Huzaifah' may be the same person as Muhammad Huzaifah.
-#  - 'Sh. Elshinawy' was merged into Mohammad Elshinawy (surname-only; likely the same).
-#  - 'Dr Salah' and 'Aussie Mammoth' are single mentions and unverified.
+# Rule (owner, 2026-11-12): never guess an identity. Every alias below is backed by the channel's own
+# titles/descriptions; the evidence video is noted where it isn't obvious.
+#  - 'Ustadh AbdulRahman' (AMAU) = Abdulrahman Hassan: Al-Muwatta Ep.25 (ZCvrub6r5zo) desc and Ep.31
+#    title name him; The Disease & The Cure #14 (zSqtSMxb_yI) desc names him.
+#  - 'Imam Tom' (Yaqeen) = Tom Facchine: Focal Point (_cAgGOcdL1c) desc says "Imam Tom Facchine".
+#  - 'Sheikh Abu Seereen Muhammad Huzaifah' = Muhammad Huzaifah: same video (pOm2pYi5e2c) uses both.
+#  - 'Sh. Elshinawy' / 'Sh. Shinawy' = Mohammad Elshinawy (Yaqeen khutbah titles).
+#  - 'Dr Salah' and 'Aussie Mammoth': named as speakers in the Light Upon Light Johannesburg title
+#    (Wea93B1lPUw). Dr Salah's full name is not given in the channel data.
+#  - Guests (owner: add as speakers): Sami Hamdi, Robert Martin, Clive Stafford Smith,
+#    Saleh Aljafarawi, Um Firas, Mahmoud Khalil, Muslim Undertaker.
 
 - id: ismail-menk
   name: Mufti Ismail Menk
@@ -50,7 +52,7 @@
   aliases: [Sheikh Dr. Ibrahim bin Khaleel Bani Salamah, Sheikh Dr. Ibrahim ibn Khaleel Bani Salamah]
 - id: muhammad-huzaifah
   name: Muhammad Huzaifah
-  aliases: [Sheikh Muhammad Huzaifah, Ustadh Muhammad Huzaifah]
+  aliases: [Sheikh Muhammad Huzaifah, Ustadh Muhammad Huzaifah, Sheikh Abu Seereen Muhammad Huzaifah]
 - id: ibn-uthaymeen
   name: Muhammad ibn Salih al-Uthaymeen
   aliases: [Sheikh Muhammad ibn Salih al-Uthaymeen]
@@ -114,9 +116,6 @@
 - id: yaser-birjas
   name: Sh. Yaser Birjas
   aliases: []
-- id: abu-seereen-muhammad-huzaifah
-  name: Sheikh Abu Seereen Muhammad Huzaifah
-  aliases: []
 - id: ahmad-yare
   name: Sheikh Ahmad Yare
   aliases: []
@@ -152,4 +151,25 @@
   aliases: [Shaykh Bin Baz, Ibn Baz]
 - id: naima-robert
   name: Na'ima Robert
+  aliases: []
+- id: sami-hamdi
+  name: Sami Hamdi
+  aliases: []
+- id: robert-martin
+  name: Robert Martin
+  aliases: []
+- id: clive-stafford-smith
+  name: Clive Stafford Smith
+  aliases: []
+- id: saleh-aljafarawi
+  name: Saleh Aljafarawi
+  aliases: []
+- id: um-firas
+  name: Um Firas
+  aliases: []
+- id: mahmoud-khalil
+  name: Mahmoud Khalil
+  aliases: []
+- id: muslim-undertaker
+  name: Muslim Undertaker
   aliases: []
