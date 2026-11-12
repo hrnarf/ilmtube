@@ -93,3 +93,60 @@ def test_playlist_context_gives_neighbouring_titles(tmp_path, monkeypatch):
     ctx = tag.playlist_context(titles)
     assert ctx["v4"] == [{"playlist": "Ramadan 2026", "before": ["T2", "T3"], "after": ["T5", "T6"]}]
     assert ctx["v1"][0]["before"] == []
+
+
+@pytest.fixture
+def pipe(tmp_path, monkeypatch):
+    """A tiny isolated pipeline: two videos, empty out/tags/queue dirs."""
+    vids = [{**VID, "id": "abc"}, {**VID, "id": "xyz", "title": "T2"}]
+    for v in vids:
+        v.update(channel="C", kind="lectures", single_speaker=None, seconds=600, is_short=False)
+    out, tags, queue = tmp_path / "out", tmp_path / "tags", tmp_path / "queue"
+    out.mkdir(); queue.mkdir()
+    monkeypatch.setattr(tag, "OUT", out); monkeypatch.setattr(tag, "TAGS", tags); monkeypatch.setattr(tag, "QUEUE", queue)
+    monkeypatch.setattr(tag, "DATA", tmp_path)
+    real = tag.read_json
+    monkeypatch.setattr(tag, "read_json", lambda p, d=None: vids if p.name == "videos_clean.json" else real(p, d))
+    return out, tags, queue
+
+
+def line(**kw):
+    return json.dumps({**BASE, **kw}) + "\n"
+
+
+def test_validate_later_batch_wins(pipe):
+    out, tags, _ = pipe
+    (out / "batch_001.jsonl").write_text(line(id="abc", confidence=0.4) + line(id="xyz"))
+    (out / "batch_002.jsonl").write_text(line(id="abc", confidence=0.9))
+    tag.validate(model="m1")
+    assert json.loads((tags / "abc.json").read_text())["confidence"] == 0.9
+
+
+def test_validate_keeps_model_of_unchanged_tags(pipe):
+    out, tags, _ = pipe
+    (out / "batch_001.jsonl").write_text(line(id="abc") + line(id="xyz"))
+    tag.validate(model="m1")
+    (out / "batch_002.jsonl").write_text(line(id="xyz", confidence=0.95))
+    tag.validate(model="m2")
+    assert json.loads((tags / "abc.json").read_text())["model"] == "m1"   # unchanged: not re-stamped
+    assert json.loads((tags / "xyz.json").read_text())["model"] == "m2"   # changed: new model
+
+
+def test_validate_requeues_video_whose_latest_line_is_invalid(pipe):
+    out, tags, queue = pipe
+    (out / "batch_001.jsonl").write_text(line(id="abc") + line(id="xyz"))
+    (out / "batch_002.jsonl").write_text(line(id="abc", topics=["made.up"]))
+    assert tag.validate(model="m1") == 1
+    queued = [json.loads(l)["id"] for f in queue.glob("*.jsonl") for l in f.read_text().splitlines()]
+    assert queued == ["abc"]
+
+
+def test_second_pass_numbers_after_pending_queue_and_rewrites_its_own_file(pipe):
+    out, tags, queue = pipe
+    (out / "batch_001.jsonl").write_text(line(id="abc", confidence=0.3) + line(id="xyz"))
+    tag.validate(model="m1")
+    (queue / "batch_002.jsonl").write_text('{"id": "pending"}\n')   # a pending re-queue batch
+    tag.second()
+    assert (queue / "batch_002.jsonl").read_text() == '{"id": "pending"}\n'   # untouched
+    row = json.loads((queue / "batch_003.jsonl").read_text())
+    assert row["id"] == "abc" and row["second_pass"] and row["first_pass"]["confidence"] == 0.3

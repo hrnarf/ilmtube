@@ -23,7 +23,7 @@
 |---|---|
 | Pipeline | Python 3.12, managed with `uv`. Libraries: `httpx`, `pydantic`, `pyyaml` |
 | YouTube | YouTube Data API v3 (API key, no OAuth) |
-| LLM tagging | **Done by Claude Code itself, not the Anthropic API** (this cloud environment can't use a separate API key). `tag.py prepare` writes batches of ~150 untagged videos to `data/tag_queue/batch_NNN.jsonl`; Claude Code subagents (Sonnet) read a batch plus `prompts/tag_v1.md` and write `data/tags/<video_id>.json`; `tag.py validate` checks every file against the pydantic schema and taxonomy, and re-queues failures. Run several subagents in parallel. |
+| LLM tagging | **Done by Claude Code itself, not the Anthropic API** (this cloud environment can't use a separate API key). `tag.py prepare` writes batches of ~150 untagged videos to `data/tag_queue/batch_NNN.jsonl`; Claude Code subagents (Opus 5.5, medium thinking, since prompt v2) read a batch plus `prompts/tag_v2.md` and write `data/tag_out/<prompt_version>/batch_NNN.jsonl`; `tag.py validate <model>` checks every line against the pydantic schema and taxonomy, writes `data/tags/<video_id>.json` (recording `prompt_version` and `model`), and re-queues failures. Run several subagents in parallel. |
 | Site | Vite + Preact + TypeScript; MiniSearch for client-side search |
 | Hosting | GitHub Pages (or Cloudflare Pages), deployed by a GitHub Action |
 | Schedule | GitHub Action runs nightly: incremental fetch, rule-based fallback tags for untagged videos (keyword match on taxonomy + surah names), rebuild, deploy. A **weekly scheduled Claude Code session** runs `fetch` → LLM tagging of new videos → `normalize` → commit, replacing the fallback tags |
@@ -40,7 +40,7 @@ speakers.yaml          # canonical speakers + aliases (generated once, then huma
 reciters.yaml          # canonical reciters + aliases (same)
 pipeline/
   resolve.py  fetch.py  clean.py  tag.py  normalize.py  rank.py  build.py  discover.py
-  prompts/tag_v1.md
+  prompts/tag_v2.md    # v1 kept for history
 data/
   raw/                 # API responses cached per channel (git-ignored or committed, see §3.2)
   tags/                # LLM tag cache, keyed by video_id + prompt version
@@ -108,7 +108,7 @@ Output (strict JSON via structured output / tool schema, validated with pydantic
 ```json
 {
   "not_content": false,
-  "content_type": "lecture",          // lecture | reminder | khutbah | qa | podcast | debate | recitation | documentary | kids | nasheed | other
+  "content_type": "lecture",          // lecture | reminder | khutbah | qa | podcast | debate | recitation | documentary | kids | nasheed | news | other
   "topics": ["fiqh.salah", "seasons.ramadan"],   // 1–3 slugs, MUST exist in taxonomy.yaml
   "speakers": ["Mufti Ismail Menk"],  // people speaking, as written; [] if unknown
   "reciter": null,                    // for recitations only
@@ -119,7 +119,7 @@ Output (strict JSON via structured output / tool schema, validated with pydantic
 }
 ```
 
-Rules for the prompt (`prompts/tag_v1.md`):
+Rules for the prompt (`prompts/tag_v2.md`):
 - Never invent a speaker. If the title or description doesn't name one, return `[]`. Don't assume the channel owner is the speaker unless the channel is clearly single-speaker (pass that as a hint from `channels.yaml`).
 - Surah detection must handle variants: "Al-Kahf", "Kahf", "Surah 18", "Surat al-Kahf", "سورة الكهف".
 - Cache results in `data/tags/<video_id>.json` with `prompt_version`. Only re-tag when the prompt version changes or the title or description changes.
@@ -165,7 +165,7 @@ The topic tree is fixed. The LLM may only choose from it. Two levels; slugs in `
 - **spirituality**: dua-dhikr, heart (tazkiyah), patience-gratitude, repentance, tawakkul, sincerity, overcoming-sins
 - **character-family**: akhlaq (manners), marriage-relationships, parenting, parents-rights, women, youth, brotherhood-community
 - **wellbeing**: grief-loss, anxiety-stress, hope, hardship-trials
-- **contemporary**: social-media, work-career, muslims-in-the-west, current-affairs, science-and-islam
+- **contemporary**: social-media, work-career, muslims-in-the-west, current-affairs, politics, science-and-islam
 - **dawah**: reverts, christianity, atheism, debates
 - **seasons**: ramadan, laylat-al-qadr, eid, dhul-hijjah, muharram-ashura, jumuah
 - **arabic**: language-learning
