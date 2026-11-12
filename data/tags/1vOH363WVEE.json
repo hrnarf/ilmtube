@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.7,
+ "confidence": 0.8,
  "content_type": "reminder",
  "fingerprint": "26bba7297b87",
  "id": "1vOH363WVEE",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,6 @@
  ],
  "surahs": [],
  "topics": [
-  "aqeedah.signs-of-the-hour",
-  "contemporary.science-and-islam"
+  "aqeedah.signs-of-the-hour"
  ]
 }

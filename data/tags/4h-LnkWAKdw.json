@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.7,
- "content_type": "lecture",
+ "confidence": 0.75,
+ "content_type": "reminder",
  "fingerprint": "54c3b05845d2",
  "id": "4h-LnkWAKdw",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -16,7 +17,6 @@
  "surahs": [],
  "topics": [
   "seerah-history.sahabah",
-  "character-family.marriage-relationships",
-  "seerah-history.women-of-islam"
+  "character-family.marriage-relationships"
  ]
 }

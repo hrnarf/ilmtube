@@ -2,18 +2,19 @@
  "audience": [
   "general"
  ],
- "confidence": 0.6,
+ "confidence": 0.55,
  "content_type": "other",
  "fingerprint": "05015ef95b87",
  "id": "bs70IniWc3o",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
   "aqeedah.names-of-allah",
-  "seasons.ramadan"
+  "contemporary.current-affairs"
  ]
 }

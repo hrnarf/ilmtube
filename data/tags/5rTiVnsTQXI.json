@@ -2,20 +2,22 @@
  "audience": [
   "general"
  ],
- "confidence": 0.6,
+ "confidence": 0.75,
  "content_type": "recitation",
  "fingerprint": "221b9044f0bd",
  "id": "5rTiVnsTQXI",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
- "reciter": "Mufti Ismail Menk",
+ "prompt_version": "v2",
+ "reciter": "Mufti Menk",
  "riwayah": null,
  "speakers": [
-  "Mufti Ismail Menk"
+  "Mufti Menk"
  ],
  "surahs": [],
  "topics": [
   "quran.recitation",
+  "seasons.laylat-al-qadr",
   "seasons.ramadan"
  ]
 }

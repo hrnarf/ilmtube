@@ -6,8 +6,9 @@
  "content_type": "reminder",
  "fingerprint": "2676f16b3bc1",
  "id": "foJalwzRiGI",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "contemporary.current-affairs"
+  "contemporary.current-affairs",
+  "contemporary.muslims-in-the-west"
  ]
 }

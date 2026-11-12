@@ -2,21 +2,22 @@
  "audience": [
   "general"
  ],
- "confidence": 0.85,
+ "confidence": 0.9,
  "content_type": "khutbah",
  "fingerprint": "f5f33609128d",
  "id": "rsuwNhhfew0",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Omar Suleiman"
+  "Dr. Omar Suleiman"
  ],
  "surahs": [],
  "topics": [
-  "contemporary.work-career",
   "spirituality.tawakkul",
+  "contemporary.work-career",
   "wellbeing.hardship-trials"
  ]
 }

@@ -2,19 +2,21 @@
  "audience": [
   "general"
  ],
- "confidence": 0.35,
+ "confidence": 0.5,
  "content_type": "reminder",
  "fingerprint": "da22519d44c7",
  "id": "zs9ccqOFv2U",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Ismail Menk"
+  "Mufti Menk"
  ],
  "surahs": [],
  "topics": [
-  "fiqh.halal-haram"
+  "fiqh.halal-haram",
+  "fiqh.marriage-divorce"
  ]
 }

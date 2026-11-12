@@ -6,8 +6,9 @@
  "content_type": "reminder",
  "fingerprint": "10e06e8d3975",
  "id": "t8A1nMwykzg",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [

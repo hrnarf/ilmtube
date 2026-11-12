@@ -6,12 +6,13 @@
  "content_type": "qa",
  "fingerprint": "69103ca33775",
  "id": "TDr1Pi5s8-o",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Asim Al-Qaryooti"
+  "Shaikh Dr. Asim Al-Qaryooti"
  ],
  "surahs": [],
  "topics": [

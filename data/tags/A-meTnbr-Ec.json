@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.55,
+ "confidence": 0.65,
  "content_type": "reminder",
  "fingerprint": "c6aefa82e06d",
  "id": "A-meTnbr-Ec",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "quran.tafsir",
-  "seerah-history.sahabah"
+  "seerah-history.sahabah",
+  "spirituality.heart"
  ]
 }

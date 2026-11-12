@@ -6,13 +6,14 @@
  "content_type": "other",
  "fingerprint": "cc457ae2cef1",
  "id": "1CELsbaLh_M",
+ "model": "claude-opus-5-5",
  "not_content": true,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
-  "spirituality.dua-dhikr"
+  "quran.recitation"
  ]
 }

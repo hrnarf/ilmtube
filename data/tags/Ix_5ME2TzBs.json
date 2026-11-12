@@ -6,8 +6,9 @@
  "content_type": "reminder",
  "fingerprint": "d1f322f8aaeb",
  "id": "Ix_5ME2TzBs",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -16,6 +17,6 @@
  "surahs": [],
  "topics": [
   "aqeedah.death-and-grave",
-  "wellbeing.grief-loss"
+  "character-family.parenting"
  ]
 }

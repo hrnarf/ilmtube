@@ -2,20 +2,20 @@
  "audience": [
   "general"
  ],
- "confidence": 0.45,
+ "confidence": 0.6,
  "content_type": "reminder",
  "fingerprint": "d0b0cab2b001",
  "id": "zUCHFka5bko",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Ismail Menk"
+  "Mufti Menk"
  ],
  "surahs": [],
  "topics": [
-  "seasons.ramadan",
-  "quran.recitation"
+  "seasons.ramadan"
  ]
 }

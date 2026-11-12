@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.75,
- "content_type": "reminder",
+ "confidence": 0.85,
+ "content_type": "lecture",
  "fingerprint": "ca51e4cd129b",
  "id": "20r09jbqsk4",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -16,6 +17,6 @@
  "surahs": [],
  "topics": [
   "spirituality.heart",
-  "aqeedah.day-of-judgement"
+  "seasons.ramadan"
  ]
 }

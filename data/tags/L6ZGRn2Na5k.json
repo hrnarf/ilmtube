@@ -6,8 +6,9 @@
  "content_type": "lecture",
  "fingerprint": "62d15d635af8",
  "id": "L6ZGRn2Na5k",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -18,6 +19,7 @@
   2
  ],
  "topics": [
+  "quran.recitation",
   "quran.tajweed",
   "quran.hifz"
  ]

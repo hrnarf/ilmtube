@@ -2,20 +2,22 @@
  "audience": [
   "general"
  ],
- "confidence": 0.6,
+ "confidence": 0.65,
  "content_type": "lecture",
  "fingerprint": "4c22f9da023e",
  "id": "Kvk-9ZjG8Ug",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Ismail Menk"
+  "Mufti Menk"
  ],
  "surahs": [],
  "topics": [
+  "spirituality.repentance",
   "seasons.laylat-al-qadr",
-  "spirituality.repentance"
+  "character-family.brotherhood-community"
  ]
 }

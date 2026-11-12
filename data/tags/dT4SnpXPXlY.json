@@ -6,15 +6,16 @@
  "content_type": "lecture",
  "fingerprint": "3f2748718682",
  "id": "dT4SnpXPXlY",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Ustadh Muhammad Tim Humble"
+  "Ust. Tim Humble"
  ],
  "surahs": [],
  "topics": [
-  "spirituality.heart"
+  "spirituality.sincerity"
  ]
 }

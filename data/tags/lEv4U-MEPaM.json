@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.75,
+ "confidence": 0.85,
  "content_type": "lecture",
  "fingerprint": "486c78c4492a",
  "id": "lEv4U-MEPaM",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,8 @@
  ],
  "surahs": [],
  "topics": [
+  "seerah-history.islamic-history",
   "contemporary.muslims-in-the-west",
-  "seerah-history.islamic-history"
+  "contemporary.politics"
  ]
 }

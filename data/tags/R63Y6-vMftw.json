@@ -2,17 +2,16 @@
  "audience": [
   "general"
  ],
- "confidence": 0.4,
+ "confidence": 0.5,
  "content_type": "other",
  "fingerprint": "d12d9fbd53d4",
  "id": "R63Y6-vMftw",
+ "model": "claude-opus-5-5",
  "not_content": true,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
- "speakers": [
-  "Mufti Ismail Menk"
- ],
+ "speakers": [],
  "surahs": [],
  "topics": [
   "seasons.eid"

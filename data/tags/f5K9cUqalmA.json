@@ -2,17 +2,18 @@
  "audience": [
   "general"
  ],
- "confidence": 0.3,
+ "confidence": 0.4,
  "content_type": "other",
  "fingerprint": "2272aa41354e",
  "id": "f5K9cUqalmA",
+ "model": "claude-opus-5-5",
  "not_content": true,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
-  "quran.recitation"
+  "contemporary.social-media"
  ]
 }

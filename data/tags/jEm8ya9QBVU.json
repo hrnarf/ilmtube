@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.75,
+ "confidence": 0.85,
  "content_type": "lecture",
  "fingerprint": "466fe38a70fb",
  "id": "jEm8ya9QBVU",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -16,7 +17,8 @@
  ],
  "surahs": [],
  "topics": [
-  "seasons.dhul-hijjah",
-  "spirituality.sincerity"
+  "fiqh.zakat-charity",
+  "hadith.explanations",
+  "seasons.dhul-hijjah"
  ]
 }

@@ -2,12 +2,13 @@
  "audience": [
   "brothers"
  ],
- "confidence": 0.65,
+ "confidence": 0.75,
  "content_type": "reminder",
  "fingerprint": "0769cfb519ee",
  "id": "cBGyORjxiOA",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "wellbeing.anxiety-stress",
-  "character-family.brotherhood-community"
+  "character-family.brotherhood-community",
+  "spirituality.tawakkul"
  ]
 }

@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
- "content_type": "reminder",
+ "confidence": 0.7,
+ "content_type": "lecture",
  "fingerprint": "b47af2bc2e9f",
  "id": "WjYlO2RhMHs",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,6 @@
  ],
  "surahs": [],
  "topics": [
-  "spirituality.sincerity",
   "seasons.ramadan"
  ]
 }

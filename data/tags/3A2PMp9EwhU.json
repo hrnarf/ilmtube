@@ -2,18 +2,18 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.4,
  "content_type": "other",
  "fingerprint": "96342d97343a",
  "id": "3A2PMp9EwhU",
+ "model": "claude-opus-5-5",
  "not_content": true,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
-  "fiqh.zakat-charity",
-  "seasons.ramadan"
+  "fiqh.zakat-charity"
  ]
 }

@@ -6,46 +6,50 @@
    "Ismail Menk"
   ],
   "id": "ismail-menk",
-  "n": 234,
+  "n": 232,
   "name": "Mufti Ismail Menk",
-  "ns": 184,
+  "ns": 185,
   "su": [
    48,
    49,
-   50,
-   96
+   50
   ],
   "tp": [
    "character-family.akhlaq",
    "seerah-history.prophet-muhammad",
-   "fiqh.hajj-umrah",
-   "seasons.dhul-hijjah",
-   "character-family.brotherhood-community"
+   "seerah-history.islamic-history",
+   "character-family.brotherhood-community",
+   "fiqh.hajj-umrah"
   ]
  },
  {
   "aliases": [
-   "Dr. Omar Suleiman"
+   "Dr. Omar Suleiman",
+   "Dr. Omar Sulaiman"
   ],
   "id": "omar-suleiman",
-  "n": 180,
+  "n": 186,
   "name": "Omar Suleiman",
-  "ns": 451,
+  "ns": 372,
   "su": [
    2,
-   5
+   5,
+   18,
+   59
   ],
   "tp": [
    "quran.hifz",
    "quran.tafsir",
-   "seerah-history.sahabah",
    "quran.tajweed",
-   "aqeedah.signs-of-the-hour"
+   "aqeedah.signs-of-the-hour",
+   "seerah-history.sahabah"
   ]
  },
  {
   "aliases": [
-   "Ustadh Abdulrahman Hassan"
+   "Ustadh Abdulrahman Hassan",
+   "Ustadh Abdurahman Hassan",
+   "Ustadh AbdulRahman"
   ],
   "id": "abdulrahman-hassan",
   "n": 131,
@@ -54,31 +58,33 @@
   "su": [
    1,
    9,
-   17,
    18,
-   25,
    49,
    57
   ],
   "tp": [
-   "seasons.ramadan",
    "quran.tafsir",
+   "seasons.ramadan",
    "hadith.explanations",
-   "seerah-history.prophet-muhammad",
-   "spirituality.heart"
+   "spirituality.heart",
+   "seerah-history.prophet-muhammad"
   ]
  },
  {
   "aliases": [
    "Sheikh Muhammad Tim Humble",
-   "Ustadh Muhammad Tim Humble"
+   "Ustadh Muhammad Tim Humble",
+   "Tim Humble",
+   "Ust. Muhammad Tim Humble",
+   "Ust. Tim Humble"
   ],
   "id": "muhammad-tim-humble",
-  "n": 105,
+  "n": 104,
   "name": "Muhammad Tim Humble",
   "ns": 0,
   "su": [
    1,
+   12,
    78,
    79,
    80,
@@ -86,11 +92,13 @@
    82,
    83,
    84,
-   85
+   85,
+   103,
+   112
   ],
   "tp": [
-   "spirituality.heart",
    "seasons.ramadan",
+   "spirituality.heart",
    "spirituality.sincerity",
    "aqeedah.names-of-allah",
    "quran.tafsir"
@@ -105,21 +113,19 @@
   "n": 49,
   "name": "Asim Al-Qaryooti",
   "ns": 0,
-  "su": [
-   33
-  ],
+  "su": [],
   "tp": [
    "fiqh.halal-haram",
    "seasons.ramadan",
+   "aqeedah.tawheed",
    "character-family.women",
-   "character-family.akhlaq",
-   "quran.tafsir"
+   "fiqh.salah"
   ]
  },
  {
   "aliases": [],
   "id": "abdulrazzak-junaid",
-  "n": 27,
+  "n": 29,
   "name": "Abdulrazzak Junaid",
   "ns": 0,
   "su": [
@@ -127,30 +133,33 @@
   ],
   "tp": [
    "quran.hifz",
-   "quran.tajweed"
+   "quran.tajweed",
+   "quran.recitation"
   ]
  },
  {
   "aliases": [
-   "Imam Tom Facchine"
+   "Imam Tom Facchine",
+   "Imam Tom"
   ],
   "id": "tom-facchine",
-  "n": 24,
+  "n": 25,
   "name": "Tom Facchine",
-  "ns": 37,
+  "ns": 38,
   "su": [],
   "tp": [
+   "contemporary.politics",
+   "contemporary.muslims-in-the-west",
+   "spirituality.heart",
    "contemporary.current-affairs",
-   "character-family.akhlaq",
-   "spirituality.overcoming-sins",
-   "character-family.brotherhood-community",
-   "spirituality.heart"
+   "character-family.brotherhood-community"
   ]
  },
  {
   "aliases": [
    "Sh. Mohammad Elshinawy",
-   "Sh. Elshinawy"
+   "Sh. Elshinawy",
+   "Sh. Shinawy"
   ],
   "id": "mohammad-elshinawy",
   "n": 20,
@@ -162,9 +171,9 @@
   "tp": [
    "hadith.explanations",
    "character-family.akhlaq",
+   "seerah-history.sahabah",
    "fiqh.halal-haram",
-   "spirituality.sincerity",
-   "seerah-history.sahabah"
+   "seerah-history.prophet-muhammad"
   ]
  },
  {
@@ -177,9 +186,9 @@
   "tp": [
    "seasons.dhul-hijjah",
    "aqeedah.day-of-judgement",
-   "spirituality.sincerity",
+   "hadith.explanations",
    "aqeedah.death-and-grave",
-   "fiqh.hajj-umrah"
+   "spirituality.heart"
   ]
  },
  {
@@ -196,8 +205,8 @@
    "seerah-history.islamic-history",
    "hadith.hadith-sciences",
    "character-family.parenting",
-   "dawah.atheism",
-   "character-family.marriage-relationships"
+   "character-family.marriage-relationships",
+   "fiqh.marriage-divorce"
   ]
  },
  {
@@ -215,10 +224,10 @@
   ],
   "tp": [
    "quran.tafsir",
+   "seasons.dhul-hijjah",
    "spirituality.heart",
-   "fiqh.salah",
    "fiqh.hajj-umrah",
-   "seasons.dhul-hijjah"
+   "spirituality.sincerity"
   ]
  },
  {
@@ -232,8 +241,7 @@
    "spirituality.dua-dhikr",
    "seasons.ramadan",
    "spirituality.heart",
-   "character-family.brotherhood-community",
-   "aqeedah.names-of-allah"
+   "aqeedah.jannah"
   ]
  },
  {
@@ -243,15 +251,15 @@
   "id": "tesneem-alkiek",
   "n": 4,
   "name": "Tesneem Alkiek",
-  "ns": 7,
+  "ns": 6,
   "su": [
    4
   ],
   "tp": [
+   "fiqh.marriage-divorce",
    "character-family.women",
    "hadith.explanations",
    "character-family.marriage-relationships",
-   "fiqh.marriage-divorce",
    "quran.tafsir"
   ]
  },
@@ -266,14 +274,15 @@
   "su": [],
   "tp": [
    "aqeedah.tawheed",
-   "spirituality.sincerity",
-   "aqeedah.names-of-allah",
    "spirituality.heart",
+   "spirituality.sincerity",
    "aqeedah.death-and-grave"
   ]
  },
  {
-  "aliases": [],
+  "aliases": [
+   "Cadar Mohammad"
+  ],
   "id": "cadar-mohamud",
   "n": 4,
   "name": "Cadar Mohamud",
@@ -282,11 +291,29 @@
    4
   ],
   "tp": [
+   "fiqh.marriage-divorce",
    "character-family.women",
    "hadith.explanations",
    "character-family.marriage-relationships",
-   "fiqh.marriage-divorce",
    "quran.tafsir"
+  ]
+ },
+ {
+  "aliases": [
+   "Abdullah Oduro"
+  ],
+  "id": "abdullah-oduro",
+  "n": 4,
+  "name": "Sh. Abdullah Oduro",
+  "ns": 6,
+  "su": [
+   59
+  ],
+  "tp": [
+   "quran.tafsir",
+   "seasons.ramadan",
+   "aqeedah.names-of-allah",
+   "spirituality.tawakkul"
   ]
  },
  {
@@ -300,7 +327,9 @@
   "ns": 0,
   "su": [],
   "tp": [
-   "spirituality.sincerity"
+   "spirituality.sincerity",
+   "contemporary.work-career",
+   "contemporary.social-media"
   ]
  },
  {
@@ -316,7 +345,22 @@
   "tp": [
    "seerah-history.prophet-muhammad",
    "fiqh.halal-haram",
-   "character-family.brotherhood-community"
+   "spirituality.sincerity",
+   "hadith.hadith-sciences",
+   "aqeedah.tawheed"
+  ]
+ },
+ {
+  "aliases": [],
+  "id": "shahid-hassan",
+  "n": 3,
+  "name": "Br. Shahid Hassan",
+  "ns": 0,
+  "su": [],
+  "tp": [
+   "seerah-history.islamic-history",
+   "fiqh.finance-business",
+   "wellbeing.hardship-trials"
   ]
  },
  {
@@ -328,10 +372,10 @@
   "su": [],
   "tp": [
    "spirituality.overcoming-sins",
-   "wellbeing.hardship-trials",
+   "spirituality.heart",
    "seerah-history.sahabah",
-   "spirituality.sincerity",
-   "aqeedah.tawheed"
+   "aqeedah.names-of-allah",
+   "quran.tafsir"
   ]
  },
  {
@@ -346,20 +390,9 @@
   "su": [],
   "tp": [
    "contemporary.muslims-in-the-west",
+   "arabic.language-learning",
    "wellbeing.hardship-trials",
    "spirituality.patience-gratitude"
-  ]
- },
- {
-  "aliases": [],
-  "id": "shahid-hassan",
-  "n": 2,
-  "name": "Br. Shahid Hassan",
-  "ns": 0,
-  "su": [],
-  "tp": [
-   "seerah-history.prophet-muhammad",
-   "seerah-history.islamic-history"
   ]
  },
  {
@@ -370,8 +403,10 @@
   "ns": 0,
   "su": [],
   "tp": [
+   "hadith.hadith-sciences",
    "fiqh.halal-haram",
-   "aqeedah.tawheed"
+   "aqeedah.tawheed",
+   "dawah.reverts"
   ]
  },
  {
@@ -382,7 +417,7 @@
   "ns": 0,
   "su": [],
   "tp": [
-   "character-family.brotherhood-community"
+   "spirituality.heart"
   ]
  },
  {
@@ -393,7 +428,7 @@
   "ns": 0,
   "su": [],
   "tp": [
-   "character-family.brotherhood-community"
+   "spirituality.heart"
   ]
  },
  {
@@ -405,7 +440,8 @@
   "su": [],
   "tp": [
    "wellbeing.hardship-trials",
-   "spirituality.patience-gratitude"
+   "aqeedah.names-of-allah",
+   "seasons.ramadan"
   ]
  },
  {
@@ -414,9 +450,12 @@
   "n": 1,
   "name": "Dr. Jinan Yousef",
   "ns": 0,
-  "su": [],
+  "su": [
+   59
+  ],
   "tp": [
-   "spirituality.heart",
+   "quran.tafsir",
+   "aqeedah.names-of-allah",
    "seasons.ramadan"
   ]
  },
@@ -428,8 +467,9 @@
   "ns": 0,
   "su": [],
   "tp": [
-   "spirituality.heart",
-   "seasons.ramadan"
+   "quran.tafsir",
+   "seasons.ramadan",
+   "aqeedah.day-of-judgement"
   ]
  },
  {
@@ -440,8 +480,8 @@
   "ns": 1,
   "su": [],
   "tp": [
-   "contemporary.muslims-in-the-west",
-   "character-family.akhlaq"
+   "character-family.akhlaq",
+   "contemporary.muslims-in-the-west"
   ]
  },
  {
@@ -453,7 +493,7 @@
   "su": [],
   "tp": [
    "contemporary.current-affairs",
-   "spirituality.dua-dhikr"
+   "dawah.christianity"
   ]
  },
  {
@@ -464,7 +504,9 @@
   "ns": 0,
   "su": [],
   "tp": [
-   "contemporary.current-affairs"
+   "character-family.brotherhood-community",
+   "contemporary.muslims-in-the-west",
+   "wellbeing.hardship-trials"
   ]
  },
  {
@@ -475,7 +517,8 @@
   "ns": 2,
   "su": [],
   "tp": [
-   "spirituality.dua-dhikr",
+   "quran.tafsir",
+   "aqeedah.names-of-allah",
    "seasons.ramadan"
   ]
  },
@@ -488,7 +531,7 @@
   "su": [],
   "tp": [
    "contemporary.current-affairs",
-   "wellbeing.hope"
+   "wellbeing.hardship-trials"
   ]
  },
  {
@@ -500,6 +543,7 @@
   "su": [],
   "tp": [
    "seasons.laylat-al-qadr",
+   "quran.tafsir",
    "seasons.ramadan"
   ]
  },
@@ -515,15 +559,18 @@
   ]
  },
  {
-  "aliases": [],
+  "aliases": [
+   "Sh. Mikaeel Ahmed Smith"
+  ],
   "id": "mikaeel-smith",
   "n": 1,
   "name": "Sh. Mikaeel Smith",
-  "ns": 0,
+  "ns": 1,
   "su": [],
   "tp": [
-   "wellbeing.hardship-trials",
-   "spirituality.patience-gratitude"
+   "spirituality.tawakkul",
+   "quran.tafsir",
+   "seasons.ramadan"
   ]
  },
  {
@@ -534,6 +581,7 @@
   "ns": 0,
   "su": [],
   "tp": [
+   "quran.tafsir",
    "aqeedah.names-of-allah",
    "seasons.ramadan"
   ]
@@ -546,7 +594,8 @@
   "ns": 0,
   "su": [],
   "tp": [
-   "quran.recitation"
+   "quran.hifz",
+   "character-family.akhlaq"
   ]
  },
  {
@@ -558,7 +607,7 @@
   "su": [],
   "tp": [
    "character-family.akhlaq",
-   "spirituality.sincerity"
+   "character-family.brotherhood-community"
   ]
  },
  {
@@ -581,18 +630,7 @@
   "ns": 0,
   "su": [],
   "tp": [
-   "spirituality.sincerity"
-  ]
- },
- {
-  "aliases": [],
-  "id": "muhammad-ibn-salih-al-uthaymeen",
-  "n": 1,
-  "name": "Sheikh Muhammad ibn Salih al-Uthaymeen",
-  "ns": 0,
-  "su": [],
-  "tp": [
-   "hadith.explanations"
+   "dawah.debates"
   ]
  },
  {
@@ -603,7 +641,55 @@
   "ns": 0,
   "su": [],
   "tp": [
-   "character-family.brotherhood-community"
+   "spirituality.heart"
   ]
+ },
+ {
+  "aliases": [],
+  "id": "sarah-sultan",
+  "n": 0,
+  "name": "Sr. Sarah Sultan",
+  "ns": 1,
+  "su": [],
+  "tp": []
+ },
+ {
+  "aliases": [],
+  "id": "hassan-elwan",
+  "n": 0,
+  "name": "Dr. Hassan Elwan",
+  "ns": 3,
+  "su": [],
+  "tp": []
+ },
+ {
+  "aliases": [],
+  "id": "tahir-wyatt",
+  "n": 0,
+  "name": "Sh. Tahir Wyatt",
+  "ns": 1,
+  "su": [],
+  "tp": []
+ },
+ {
+  "aliases": [],
+  "id": "waleed-basyouni",
+  "n": 0,
+  "name": "Sh. Waleed Basyouni",
+  "ns": 1,
+  "su": [],
+  "tp": []
+ },
+ {
+  "aliases": [
+   "Shaykh Bin Baz",
+   "Ibn Baz"
+  ],
+  "id": "ibn-baz",
+  "n": 0,
+  "name": "Shaykh Abd al-Aziz ibn Baz",
+  "ns": 1,
+  "su": [],
+  "tp": []
  }
 ]

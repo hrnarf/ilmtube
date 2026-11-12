@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.45,
+ "confidence": 0.55,
  "content_type": "reminder",
  "fingerprint": "46dfd1c584e7",
  "id": "RrCikGOSalM",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "wellbeing.hardship-trials",
-  "wellbeing.hope"
+  "wellbeing.hope",
+  "wellbeing.hardship-trials"
  ]
 }

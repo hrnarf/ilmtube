@@ -2,20 +2,21 @@
  "audience": [
   "general"
  ],
- "confidence": 0.6,
+ "confidence": 0.65,
  "content_type": "lecture",
  "fingerprint": "86bdccb88a64",
  "id": "DUMFvx9X74c",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Abdulrahman Hassan"
+  "Ustadh AbdulRahman Hassan"
  ],
  "surahs": [],
  "topics": [
   "hadith.explanations",
-  "quran.recitation"
+  "quran.tafsir"
  ]
 }

@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.3,
  "content_type": "other",
  "fingerprint": "3a6ee88a0663",
  "id": "Ye8pAv4PeyE",
+ "model": "claude-opus-5-5",
  "not_content": true,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],

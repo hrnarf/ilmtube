@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.75,
+ "confidence": 0.8,
  "content_type": "reminder",
  "fingerprint": "ca75935a5cd9",
  "id": "4bSPcE2gO4M",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -17,6 +18,6 @@
  "surahs": [],
  "topics": [
   "aqeedah.jannah",
-  "aqeedah.jahannam"
+  "aqeedah.day-of-judgement"
  ]
 }

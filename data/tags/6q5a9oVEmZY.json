@@ -2,17 +2,18 @@
  "audience": [
   "general"
  ],
- "confidence": 0.4,
+ "confidence": 0.3,
  "content_type": "other",
  "fingerprint": "e9292e694abc",
  "id": "6q5a9oVEmZY",
+ "model": "claude-opus-5-5",
  "not_content": true,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
-  "contemporary.current-affairs"
+  "fiqh.zakat-charity"
  ]
 }

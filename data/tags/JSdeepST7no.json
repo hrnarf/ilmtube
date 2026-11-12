@@ -2,22 +2,23 @@
  "audience": [
   "general"
  ],
- "confidence": 0.85,
+ "confidence": 0.8,
  "content_type": "lecture",
  "fingerprint": "812db4370c62",
  "id": "JSdeepST7no",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Abdulrahman Hassan"
+  "Ustadh Abdulrahman Hassan"
  ],
  "surahs": [
   1
  ],
  "topics": [
   "quran.tafsir",
-  "seasons.ramadan"
+  "character-family.brotherhood-community"
  ]
 }

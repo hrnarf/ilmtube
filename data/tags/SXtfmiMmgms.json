@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.3,
+ "confidence": 0.25,
  "content_type": "reminder",
  "fingerprint": "936f02c03110",
  "id": "SXtfmiMmgms",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],

@@ -2,20 +2,21 @@
  "audience": [
   "general"
  ],
- "confidence": 0.4,
+ "confidence": 0.55,
  "content_type": "reminder",
  "fingerprint": "0b57a04e31df",
  "id": "AC0oi3xZQQQ",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Ismail Menk"
+  "Mufti Menk"
  ],
  "surahs": [],
  "topics": [
-  "contemporary.current-affairs",
-  "wellbeing.hope"
+  "contemporary.social-media",
+  "contemporary.current-affairs"
  ]
 }

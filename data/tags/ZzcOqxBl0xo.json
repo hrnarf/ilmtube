@@ -6,12 +6,13 @@
  "content_type": "lecture",
  "fingerprint": "216650e4a904",
  "id": "ZzcOqxBl0xo",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Ustadh Muhammad Tim Humble"
+  "Muhammad Tim Humble"
  ],
  "surahs": [
   1

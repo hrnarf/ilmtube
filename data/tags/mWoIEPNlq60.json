@@ -2,19 +2,21 @@
  "audience": [
   "general"
  ],
- "confidence": 0.7,
+ "confidence": 0.8,
  "content_type": "lecture",
  "fingerprint": "65cd8fe03520",
  "id": "mWoIEPNlq60",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Abdulrahman Hassan"
+  "Ustadh Abdulrahman Hassan"
  ],
  "surahs": [],
  "topics": [
-  "spirituality.heart"
+  "spirituality.heart",
+  "seerah-history.sahabah"
  ]
 }

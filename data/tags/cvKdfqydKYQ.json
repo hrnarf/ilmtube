@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.55,
  "content_type": "reminder",
  "fingerprint": "1e343a6863da",
  "id": "cvKdfqydKYQ",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "wellbeing.hope"
+  "wellbeing.hope",
+  "spirituality.patience-gratitude"
  ]
 }

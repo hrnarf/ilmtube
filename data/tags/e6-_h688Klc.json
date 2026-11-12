@@ -1,13 +1,15 @@
 {
  "audience": [
-  "youth"
+  "general",
+  "parents"
  ],
- "confidence": 0.6,
+ "confidence": 0.7,
  "content_type": "reminder",
  "fingerprint": "d3548dbd62b4",
  "id": "e6-_h688Klc",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [

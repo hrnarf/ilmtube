@@ -6,16 +6,18 @@
  "content_type": "reminder",
  "fingerprint": "facf77f3ca1f",
  "id": "ij02mXKRAqQ",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Ustadh Muhammad Tim Humble"
+  "Muhammad Tim Humble"
  ],
  "surahs": [],
  "topics": [
+  "character-family.brotherhood-community",
   "wellbeing.hardship-trials",
-  "character-family.brotherhood-community"
+  "seasons.ramadan"
  ]
 }

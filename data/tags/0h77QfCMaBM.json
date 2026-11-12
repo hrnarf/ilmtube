@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.7,
+ "confidence": 0.8,
  "content_type": "lecture",
  "fingerprint": "5d92052290cb",
  "id": "0h77QfCMaBM",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "aqeedah.day-of-judgement",
-  "character-family.akhlaq"
+  "character-family.akhlaq",
+  "aqeedah.day-of-judgement"
  ]
 }

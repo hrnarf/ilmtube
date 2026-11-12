@@ -6,8 +6,9 @@
  "content_type": "lecture",
  "fingerprint": "fd541303a4db",
  "id": "Y9PPG6DBnpM",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "wellbeing.hope"
+  "wellbeing.hope",
+  "spirituality.tawakkul"
  ]
 }

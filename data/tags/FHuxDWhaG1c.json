@@ -2,17 +2,16 @@
  "audience": [
   "general"
  ],
- "confidence": 0.6,
+ "confidence": 0.85,
  "content_type": "recitation",
  "fingerprint": "dadfdca30926",
  "id": "FHuxDWhaG1c",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": "Mufti Ismail Menk",
  "riwayah": null,
- "speakers": [
-  "Mufti Ismail Menk"
- ],
+ "speakers": [],
  "surahs": [],
  "topics": [
   "quran.recitation",

@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.4,
+ "confidence": 0.55,
  "content_type": "reminder",
  "fingerprint": "e200f03c3a0b",
  "id": "_HPt1CSfNhY",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
+  "spirituality.sincerity",
   "spirituality.tawakkul"
  ]
 }

@@ -2,16 +2,17 @@
  "audience": [
   "general"
  ],
- "confidence": 0.45,
+ "confidence": 0.8,
  "content_type": "lecture",
  "fingerprint": "4069cd2bea3f",
  "id": "SVvP0Ifyxo8",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Ustadh Abdulrahman Hassan"
+  "Abdulrahman Hassan"
  ],
  "surahs": [],
  "topics": [

@@ -2,20 +2,21 @@
  "audience": [
   "general"
  ],
- "confidence": 0.35,
+ "confidence": 0.75,
  "content_type": "podcast",
  "fingerprint": "77c6c1b13c01",
  "id": "jSMq1MzjO4I",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Sheikh Dr. Asim al-Qaryooti",
+  "Sheikh Asim al-Qaryooti",
   "Sheikh Haytham Sarhan"
  ],
  "surahs": [],
  "topics": [
-  "spirituality.sincerity"
+  "dawah.debates"
  ]
 }

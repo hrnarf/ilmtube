@@ -3,15 +3,16 @@
   "general"
  ],
  "confidence": 0.85,
- "content_type": "reminder",
+ "content_type": "lecture",
  "fingerprint": "7c4ba5aee109",
  "id": "wwzV6E5pjn8",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Abdulrahman Hassan"
+  "Ustadh Abdulrahman Hassan"
  ],
  "surahs": [],
  "topics": [

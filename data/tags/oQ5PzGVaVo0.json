@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.7,
+ "confidence": 0.65,
  "content_type": "reminder",
  "fingerprint": "534340142a0b",
  "id": "oQ5PzGVaVo0",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -16,7 +17,6 @@
  "surahs": [],
  "topics": [
   "seerah-history.prophets",
-  "fiqh.hajj-umrah",
   "seasons.dhul-hijjah"
  ]
 }

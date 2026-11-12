@@ -2,18 +2,20 @@
  "audience": [
   "general"
  ],
- "confidence": 0.7,
+ "confidence": 0.65,
  "content_type": "reminder",
  "fingerprint": "18013c58799d",
  "id": "pNTx3umzcMc",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
   "spirituality.dua-dhikr",
+  "aqeedah.names-of-allah",
   "seerah-history.prophets"
  ]
 }

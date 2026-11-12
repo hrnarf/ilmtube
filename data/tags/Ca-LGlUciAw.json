@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.8,
+ "confidence": 0.85,
  "content_type": "reminder",
  "fingerprint": "1abe732394e0",
  "id": "Ca-LGlUciAw",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "spirituality.sincerity",
-  "contemporary.social-media"
+  "contemporary.social-media",
+  "spirituality.sincerity"
  ]
 }

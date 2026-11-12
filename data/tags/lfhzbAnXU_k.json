@@ -2,20 +2,21 @@
  "audience": [
   "general"
  ],
- "confidence": 0.65,
+ "confidence": 0.5,
  "content_type": "reminder",
  "fingerprint": "932a35c452e6",
  "id": "lfhzbAnXU_k",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Ismail Menk"
+  "Mufti Menk"
  ],
  "surahs": [],
  "topics": [
-  "wellbeing.hope",
-  "spirituality.patience-gratitude"
+  "wellbeing.hardship-trials",
+  "aqeedah.qadr"
  ]
 }

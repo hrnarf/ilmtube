@@ -2,19 +2,23 @@
  "audience": [
   "general"
  ],
- "confidence": 0.65,
+ "confidence": 0.7,
  "content_type": "podcast",
  "fingerprint": "e032d2d578e7",
  "id": "RZffHU-eIgE",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
+  "Mahmoud Khalil",
   "Omar Suleiman"
  ],
  "surahs": [],
  "topics": [
-  "contemporary.current-affairs"
+  "contemporary.muslims-in-the-west",
+  "contemporary.current-affairs",
+  "spirituality.dua-dhikr"
  ]
 }

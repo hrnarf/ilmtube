@@ -2,21 +2,21 @@
  "audience": [
   "general"
  ],
- "confidence": 0.8,
+ "confidence": 0.75,
  "content_type": "lecture",
  "fingerprint": "b8bb2eb855fa",
  "id": "VdO_nZE73MM",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Abdulrahman Hassan"
+  "Ustadh Abdulrahman Hassan"
  ],
- "surahs": [
-  1
- ],
+ "surahs": [],
  "topics": [
+  "spirituality.dua-dhikr",
   "quran.tafsir"
  ]
 }

@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.35,
- "content_type": "lecture",
+ "confidence": 0.55,
+ "content_type": "reminder",
  "fingerprint": "b6c276f6fd70",
  "id": "aDF0C6_zauU",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
+  "hadith.hadith-sciences",
   "fiqh.halal-haram"
  ]
 }

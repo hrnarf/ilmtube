@@ -2,12 +2,13 @@
  "audience": [
   "brothers"
  ],
- "confidence": 0.75,
+ "confidence": 0.8,
  "content_type": "reminder",
  "fingerprint": "7be0e62d2a12",
  "id": "FsR8MLvPguU",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "character-family.akhlaq",
-  "seerah-history.prophet-muhammad"
+  "seerah-history.prophet-muhammad",
+  "character-family.akhlaq"
  ]
 }

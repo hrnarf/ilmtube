@@ -3,11 +3,12 @@
   "general"
  ],
  "confidence": 0.8,
- "content_type": "lecture",
+ "content_type": "documentary",
  "fingerprint": "e944fbd8e499",
  "id": "Ybfp2j4QMw0",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "contemporary.current-affairs",
-  "seerah-history.islamic-history"
+  "seerah-history.islamic-history",
+  "contemporary.current-affairs"
  ]
 }

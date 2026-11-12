@@ -6,16 +6,17 @@
  "content_type": "reminder",
  "fingerprint": "0f1f7a33f389",
  "id": "szah-LjLpK4",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Tom Facchine"
+  "Imam Tom Facchine"
  ],
  "surahs": [],
  "topics": [
-  "seerah-history.prophets",
-  "contemporary.current-affairs"
+  "quran.quran-stories",
+  "seerah-history.prophets"
  ]
 }

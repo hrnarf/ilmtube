@@ -1,13 +1,14 @@
 {
  "audience": [
-  "youth"
+  "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.55,
  "content_type": "reminder",
  "fingerprint": "e96dfe762072",
  "id": "dRxiHYqefu8",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "spirituality.heart"
+  "spirituality.heart",
+  "character-family.youth"
  ]
 }

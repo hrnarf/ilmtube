@@ -2,22 +2,24 @@
  "audience": [
   "general"
  ],
- "confidence": 0.9,
+ "confidence": 0.85,
  "content_type": "lecture",
  "fingerprint": "bf8e36e4a45e",
  "id": "Mf6fRi3xr8k",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Dr. Omar Suleiman"
+  "Omar Suleiman"
  ],
  "surahs": [
   2
  ],
  "topics": [
   "quran.tafsir",
-  "quran.hifz"
+  "quran.hifz",
+  "fiqh.fasting"
  ]
 }

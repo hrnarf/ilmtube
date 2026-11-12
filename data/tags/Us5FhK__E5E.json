@@ -2,12 +2,13 @@
  "audience": [
   "parents"
  ],
- "confidence": 0.7,
+ "confidence": 0.75,
  "content_type": "reminder",
  "fingerprint": "9db7da294bbe",
  "id": "Us5FhK__E5E",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -16,6 +17,6 @@
  "surahs": [],
  "topics": [
   "character-family.parenting",
-  "spirituality.sincerity"
+  "spirituality.patience-gratitude"
  ]
 }

@@ -6,8 +6,9 @@
  "content_type": "khutbah",
  "fingerprint": "a81c6c77f101",
  "id": "29LNcOLT5B0",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [

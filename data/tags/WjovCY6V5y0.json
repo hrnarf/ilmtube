@@ -6,14 +6,13 @@
  "content_type": "other",
  "fingerprint": "e37c4588093b",
  "id": "WjovCY6V5y0",
+ "model": "claude-opus-5-5",
  "not_content": true,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
- "surahs": [
-  4
- ],
+ "surahs": [],
  "topics": [
   "quran.tafsir"
  ]

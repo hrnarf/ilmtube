@@ -2,19 +2,19 @@
  "audience": [
   "general"
  ],
- "confidence": 0.55,
- "content_type": "other",
+ "confidence": 0.7,
+ "content_type": "news",
  "fingerprint": "24537e6d4e6d",
  "id": "IY0O8FE6Bts",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
- "speakers": [
-  "Pompeo"
- ],
+ "speakers": [],
  "surahs": [],
  "topics": [
+  "contemporary.politics",
   "contemporary.current-affairs"
  ]
 }

@@ -2,20 +2,24 @@
  "audience": [
   "general"
  ],
- "confidence": 0.7,
+ "confidence": 0.85,
  "content_type": "lecture",
  "fingerprint": "b70add689758",
  "id": "uMBUm3EyLwU",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Abdul Rahman Waheed"
+  "Mufti Abdul Rahman Waheed",
+  "Dr. Omar Suleiman",
+  "Sh. Abdullah Oduro"
  ],
  "surahs": [],
  "topics": [
-  "spirituality.dua-dhikr",
+  "quran.tafsir",
+  "aqeedah.names-of-allah",
   "seasons.ramadan"
  ]
 }

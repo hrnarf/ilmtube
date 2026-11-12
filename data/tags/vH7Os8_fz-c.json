@@ -2,16 +2,17 @@
  "audience": [
   "general"
  ],
- "confidence": 0.9,
+ "confidence": 0.85,
  "content_type": "qa",
  "fingerprint": "ef931315b84d",
  "id": "vH7Os8_fz-c",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Sheikh Dr. Asim Al-Qaryooti"
+  "Asim Al-Qaryooti"
  ],
  "surahs": [],
  "topics": [

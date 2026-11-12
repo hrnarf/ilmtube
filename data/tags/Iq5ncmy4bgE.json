@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.5,
- "content_type": "other",
+ "confidence": 0.6,
+ "content_type": "reminder",
  "fingerprint": "ab74d2b6e2b5",
  "id": "Iq5ncmy4bgE",
- "not_content": true,
- "prompt_version": "v1",
+ "model": "claude-opus-5-5",
+ "not_content": false,
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,6 +16,7 @@
  ],
  "surahs": [],
  "topics": [
-  "seasons.muharram-ashura"
+  "seasons.muharram-ashura",
+  "fiqh.fasting"
  ]
 }

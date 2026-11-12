@@ -3,19 +3,21 @@
   "general"
  ],
  "confidence": 0.85,
- "content_type": "reminder",
+ "content_type": "lecture",
  "fingerprint": "92bdfc91bb79",
  "id": "1dPLDwF5ydA",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Omar Suleiman"
+  "Dr. Omar Suleiman"
  ],
  "surahs": [],
  "topics": [
   "aqeedah.signs-of-the-hour",
-  "character-family.akhlaq"
+  "spirituality.overcoming-sins",
+  "contemporary.social-media"
  ]
 }

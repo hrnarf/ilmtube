@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.7,
- "content_type": "reminder",
+ "confidence": 0.75,
+ "content_type": "lecture",
  "fingerprint": "3865d8941e5c",
  "id": "-CteEQyQnQE",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -16,6 +17,6 @@
  "surahs": [],
  "topics": [
   "seasons.ramadan",
-  "spirituality.heart"
+  "spirituality.patience-gratitude"
  ]
 }

@@ -2,20 +2,21 @@
  "audience": [
   "general"
  ],
- "confidence": 0.65,
- "content_type": "reminder",
+ "confidence": 0.8,
+ "content_type": "lecture",
  "fingerprint": "353f8953e000",
  "id": "kN_XMmoroMQ",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Ustadh Abdulrahman Hassan"
+  "Abdulrahman Hassan"
  ],
  "surahs": [],
  "topics": [
-  "aqeedah.day-of-judgement",
-  "spirituality.heart"
+  "aqeedah.death-and-grave",
+  "contemporary.work-career"
  ]
 }

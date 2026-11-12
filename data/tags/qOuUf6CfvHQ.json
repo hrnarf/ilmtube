@@ -6,14 +6,15 @@
  "content_type": "lecture",
  "fingerprint": "0aeb89a3efa7",
  "id": "qOuUf6CfvHQ",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
   "aqeedah.names-of-allah",
-  "spirituality.dua-dhikr"
+  "spirituality.tawakkul"
  ]
 }

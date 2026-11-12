@@ -2,16 +2,17 @@
  "audience": [
   "general"
  ],
- "confidence": 0.4,
+ "confidence": 0.45,
  "content_type": "reminder",
  "fingerprint": "a7fdd08b2a55",
  "id": "kP3sjQEZ2C4",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Mufti Ismail Menk"
+  "Mufti Menk"
  ],
  "surahs": [],
  "topics": [

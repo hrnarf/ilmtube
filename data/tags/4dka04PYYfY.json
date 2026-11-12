@@ -2,18 +2,18 @@
  "audience": [
   "general"
  ],
- "confidence": 0.55,
+ "confidence": 0.5,
  "content_type": "reminder",
  "fingerprint": "77691d0f8c2d",
  "id": "4dka04PYYfY",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
-  "wellbeing.hardship-trials",
-  "spirituality.patience-gratitude"
+  "wellbeing.hardship-trials"
  ]
 }

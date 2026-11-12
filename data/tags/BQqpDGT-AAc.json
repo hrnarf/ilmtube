@@ -1,18 +1,19 @@
 {
  "audience": [
-  "youth",
-  "brothers"
+  "general"
  ],
- "confidence": 0.75,
+ "confidence": 0.7,
  "content_type": "reminder",
  "fingerprint": "89b6ab60bbe8",
  "id": "BQqpDGT-AAc",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
-  "Sh. Abdullah Oduro"
+  "Sh. Abdullah Oduro",
+  "Sami Hamdi"
  ],
  "surahs": [],
  "topics": [

@@ -1,13 +1,14 @@
 {
  "audience": [
-  "youth"
+  "general"
  ],
- "confidence": 0.5,
+ "confidence": 0.55,
  "content_type": "reminder",
  "fingerprint": "f171b93844f2",
  "id": "eKL0BiMcFXg",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -15,7 +16,6 @@
  ],
  "surahs": [],
  "topics": [
-  "character-family.akhlaq",
-  "character-family.brotherhood-community"
+  "character-family.akhlaq"
  ]
 }

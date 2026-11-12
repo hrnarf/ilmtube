@@ -2,12 +2,13 @@
  "audience": [
   "general"
  ],
- "confidence": 0.6,
+ "confidence": 0.7,
  "content_type": "reminder",
  "fingerprint": "736425fc6b22",
  "id": "5dEPuKFlG0Q",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [
@@ -16,6 +17,6 @@
  "surahs": [],
  "topics": [
   "character-family.brotherhood-community",
-  "wellbeing.anxiety-stress"
+  "contemporary.muslims-in-the-west"
  ]
 }

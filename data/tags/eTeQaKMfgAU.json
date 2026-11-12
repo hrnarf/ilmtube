@@ -2,18 +2,19 @@
  "audience": [
   "general"
  ],
- "confidence": 0.8,
- "content_type": "khutbah",
+ "confidence": 0.75,
+ "content_type": "reminder",
  "fingerprint": "efa5a48797a6",
  "id": "eTeQaKMfgAU",
+ "model": "claude-opus-5-5",
  "not_content": false,
- "prompt_version": "v1",
+ "prompt_version": "v2",
  "reciter": null,
  "riwayah": null,
  "speakers": [],
  "surahs": [],
  "topics": [
   "seerah-history.prophet-muhammad",
-  "fiqh.hajj-umrah"
+  "seasons.dhul-hijjah"
  ]
 }
