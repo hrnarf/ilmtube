@@ -4,6 +4,7 @@
   (subagents read a batch + prompts/tag_v2.md, write data/tag_out/batch_NNN.jsonl)
   python -m pipeline.tag validate [model]  -> validates tag_out against schema + taxonomy, writes data/tags/<id>.json,
                                       re-queues failures (a fresh batch of only failed ids)
+  python -m pipeline.tag second    -> queue low-confidence non-Shorts with playlist neighbour titles (SPEC §3.4 second pass)
   python -m pipeline.tag report    -> reports/low_confidence.md + reports/tagging_sample.md
 """
 from __future__ import annotations
@@ -65,6 +66,25 @@ def playlist_titles() -> dict[str, list[str]]:
             for vid in p["items"]:
                 out.setdefault(vid, []).append(p["title"])
     return out
+
+
+def playlist_context(titles: dict[str, str], k: int = 2) -> dict[str, list[dict]]:
+    """For each video: the playlists it's in, with the titles of the k videos before and after it."""
+    out: dict[str, list[dict]] = {}
+    raw = DATA / "raw"
+    for ch in raw.iterdir() if raw.exists() else []:
+        for p in read_json(ch / "playlists.json", {"playlists": {}})["playlists"].values():
+            items = p["items"]
+            for i, vid in enumerate(items):
+                near = lambda xs: [titles[x] for x in xs if x in titles]
+                out.setdefault(vid, []).append({"playlist": p["title"], "before": near(items[max(i - k, 0):i]), "after": near(items[i + 1:i + 1 + k])})
+    return out
+
+
+def low_confidence(tags: dict[str, dict], clean: dict[str, dict], cut: float = 0.6) -> list[dict]:
+    """Low-confidence content videos worth a second look. Shorts and not_content are left out (owner decision)."""
+    low = [t for t in tags.values() if t["confidence"] < cut and not t["not_content"] and not clean[t["id"]].get("is_short")]
+    return sorted(low, key=lambda t: t["confidence"])
 
 
 def needs_tag(v: dict) -> bool:
@@ -137,11 +157,11 @@ def report():
     clean = {v["id"]: v for v in read_json(DATA / "videos_clean.json", [])}
     tags = {p.stem: read_json(p) for p in TAGS.glob("*.json")}
     tags = {k: t for k, t in tags.items() if k in clean}
-    low = sorted((t for t in tags.values() if t["confidence"] < 0.6), key=lambda t: t["confidence"])
+    low = low_confidence(tags, clean)
     nc = [t for t in tags.values() if t["not_content"]]
     (ROOT / "reports").mkdir(exist_ok=True)
     with open(ROOT / "reports/low_confidence.md", "w") as f:
-        f.write(f"# Low-confidence tags (<0.6): {len(low)}\n\n| id | conf | title | topics |\n|---|---|---|---|\n")
+        f.write(f"# Low-confidence tags (<0.6, excluding Shorts and not_content): {len(low)}\n\n| id | conf | title | topics |\n|---|---|---|---|\n")
         for t in low:
             f.write(f"| {t['id']} | {t['confidence']:.2f} | {clean[t['id']]['title'].replace('|','/')} | {', '.join(t['topics'])} |\n")
     sample = random.Random(42).sample(sorted(tags), min(60, len(tags)))
@@ -153,5 +173,19 @@ def report():
     print(f"tagged {len(tags)}; low-confidence {len(low)}; not_content {len(nc)}")
 
 
+def second():
+    """Queue the second pass: low-confidence videos plus playlist neighbour titles, as one batch after the others."""
+    clean = {v["id"]: v for v in read_json(DATA / "videos_clean.json", [])}
+    tags = {p.stem: read_json(p) for p in TAGS.glob("*.json") if p.stem in clean}
+    low = low_confidence(tags, clean)
+    ctx = playlist_context({k: v["title"] for k, v in clean.items()})
+    nxt = max([int(p.stem.split('_')[1]) for p in OUT.glob('batch_*.jsonl')] + [0]) + 1
+    n = write_batches([clean[t["id"]] for t in low], nxt)
+    for f in sorted(QUEUE.glob("batch_*.jsonl"))[-n:] if n else []:
+        rows = [json.loads(x) for x in f.read_text().splitlines()]
+        f.write_text("".join(json.dumps({**r, "second_pass": True, "first_pass": {k: tags[r["id"]][k] for k in ("content_type", "topics", "speakers", "confidence")}, "playlist_context": ctx.get(r["id"], [])}, ensure_ascii=False) + "\n" for r in rows))
+    print(f"second pass: {len(low)} videos -> {n} batch(es) from batch_{nxt:03d}")
+
+
 if __name__ == "__main__":
-    {"prepare": prepare, "validate": validate, "report": report}[sys.argv[1]](*sys.argv[2:])
+    {"prepare": prepare, "validate": validate, "report": report, "second": second}[sys.argv[1]](*sys.argv[2:])

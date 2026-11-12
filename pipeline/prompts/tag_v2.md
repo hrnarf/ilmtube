@@ -52,3 +52,13 @@ Write ONE JSON object per input line to the output file you are told (JSONL), sa
 10. Read the description, not just the title. Short titles like "Look Closely" often have a
     description that states the topic; use it, and set confidence from what the description gives.
 11. Output valid JSON only, one object per line, no commentary, no extra keys.
+
+## Second pass (lines with `"second_pass": true`)
+These videos got confidence < 0.6 the first time. Each line also has `first_pass` (the earlier labels)
+and `playlist_context`: for each playlist the video is in, the titles of the videos just `before` and
+`after` it. Use that context as extra evidence for topic and type: a clip between "Fasting and
+Patience" and "Laylat al-Qadr" in "Ramadan Reminders" is likely a Ramadan reminder. Re-label from
+scratch with the same rules and schema (do not copy `first_pass` unless the evidence supports it).
+Neighbour titles are context only: never take a speaker's name from a neighbour unless this video's
+own title, description or `single_speaker_hint` supports it. If the evidence is still thin, keep
+confidence below 0.6. That's fine; such videos stay searchable but aren't recommended.

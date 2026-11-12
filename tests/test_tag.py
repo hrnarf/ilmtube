@@ -73,3 +73,23 @@ def test_playlist_titles_tolerates_missing_raw(tmp_path, monkeypatch):
 
 def test_outputs_are_kept_per_prompt_version():
     assert tag.OUT.name == tag.PROMPT_VERSION
+
+
+def test_low_confidence_excludes_shorts_and_not_content():
+    clean = {"a": {"is_short": False}, "b": {"is_short": True}, "c": {"is_short": False}, "d": {"is_short": False}}
+    tags = {"a": {"id": "a", "confidence": 0.4, "not_content": False},
+            "b": {"id": "b", "confidence": 0.3, "not_content": False},   # Short: excluded
+            "c": {"id": "c", "confidence": 0.2, "not_content": True},    # ad: excluded
+            "d": {"id": "d", "confidence": 0.9, "not_content": False}}   # confident
+    assert [t["id"] for t in tag.low_confidence(tags, clean)] == ["a"]
+
+
+def test_playlist_context_gives_neighbouring_titles(tmp_path, monkeypatch):
+    ch = tmp_path / "raw" / "UC1"
+    ch.mkdir(parents=True)
+    (ch / "playlists.json").write_text(json.dumps({"playlists": {"PL1": {"title": "Ramadan 2026", "items": ["v1", "v2", "v3", "v4", "v5", "v6"]}}}))
+    monkeypatch.setattr(tag, "DATA", tmp_path)
+    titles = {f"v{i}": f"T{i}" for i in range(1, 7)}
+    ctx = tag.playlist_context(titles)
+    assert ctx["v4"] == [{"playlist": "Ramadan 2026", "before": ["T2", "T3"], "after": ["T5", "T6"]}]
+    assert ctx["v1"][0]["before"] == []
