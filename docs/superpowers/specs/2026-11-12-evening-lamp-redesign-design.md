@@ -1,6 +1,6 @@
 # Evening lamp redesign + Library page: design
 
-**Status:** draft for owner approval, 2026-11-12 (builder check done; owner answered the Library question). Requirements input: SPEC.md §5 (site), the owner's
+**Status:** APPROVED by the owner, 2026-11-12 (after builder check). Requirements input: SPEC.md §5 (site), the owner's
 choices in chat, and the approved mockups at https://claude.ai/artifact/MV1n5M2nnxFnthSYThWbvN
 (version 5, option "Deepest navy").
 
